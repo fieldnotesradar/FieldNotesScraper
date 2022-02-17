@@ -9,8 +9,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - run: pip install scrapy
-      - run: scrapy runspider scrape.py -o data.json
-      - run: cat data.json | jq 'sort_by(.item)' >> data.json
+      - run: scrapy runspider scrape.py -o raw.json
+      - run: cat raw.json | jq 'sort_by(.item)' >> data.json
       - uses: EndBug/add-and-commit@v8
         id: commit
         with:
