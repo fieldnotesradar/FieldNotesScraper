@@ -10,17 +10,17 @@ jobs:
       - uses: actions/checkout@v2
       - run: pip install scrapy
       - run: scrapy runspider scrape.py -o raw.json
-      - run: cat raw.json | jq 'sort_by(.id)' > catalog.json
+      - run: cat raw.json | jq 'sort_by(.url)' > data.json
       - uses: EndBug/add-and-commit@v8
         id: commit
         with:
           default_author: user_info
-          message: 'Update Field Notes catalog'
-          add: 'catalog.json'
+          message: 'Update Field Notes Brand site data'
+          add: 'data.json'
       - uses: ethomson/send-tweet-action@v1
         if: steps.commit.outputs.committed == 'true'
         with:
-          status: "Field Notes catalog has been updated! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
+          status: "Field Notes Brand site has been updated! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
           consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
           access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
