@@ -1,0 +1,15 @@
+name: Scrape
+on:
+  push:
+  # schedule:
+  # - cron: "* * * * *"
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - run: pip install scrapy
+      - run: scrapy runspider scrape.py
+      - uses: EndBug/add-and-commit@v8
+        with:
+          default_author: github_actions
