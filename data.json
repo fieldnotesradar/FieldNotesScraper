@@ -2509,6 +2509,18 @@
     "availability": "out of stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/brands-hall-rollerball-pen",
+    "type": "product",
+    "id": "89556",
+    "item": "FN-31",
+    "title": "The Brand’s Hall",
+    "dimensions": "Leather Sleeve",
+    "subtitle": "Limited Edition",
+    "details": "Rollerball Pen",
+    "price": "160.00",
+    "availability": "in stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/butcher-blue",
     "type": "product",
     "id": "1063",
@@ -2557,6 +2569,18 @@
     "availability": "out of stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/carpenter-pencil-3-pack",
+    "type": "product",
+    "id": "2177",
+    "item": "FN-13",
+    "title": "Carpenter Pencil 3-Pack",
+    "dimensions": null,
+    "subtitle": "Square Deal",
+    "details": "FSC-Certified Wood",
+    "price": "9.95",
+    "availability": "in stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/cherry-graph",
     "type": "product",
     "id": "1731",
@@ -2591,6 +2615,18 @@
     "details": "Solve the Mystery of the 3-Pack",
     "price": "12.95",
     "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/clic-pen-6-packs",
+    "type": "product",
+    "id": "1499322",
+    "item": "FN-06B",
+    "title": "Clic Pen 6-Pack",
+    "dimensions": null,
+    "subtitle": "Square Deal",
+    "details": "Black or Red",
+    "price": "9.95",
+    "availability": "in stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/coastal",
@@ -3025,6 +3061,18 @@
     "availability": "out of stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/no-2-woodgrain-pencil-6-pack",
+    "type": "product",
+    "id": "2173",
+    "item": "FN-05",
+    "title": "No. 2 Woodgrain Pencil 6-Pack",
+    "dimensions": null,
+    "subtitle": "Square Deal",
+    "details": "Renewable Wood Casing",
+    "price": "9.95",
+    "availability": "in stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/northerly",
     "type": "product",
     "id": "1217",
@@ -3275,6 +3323,18 @@
     "details": "99,999 Versions",
     "price": "12.95",
     "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/space-pens",
+    "type": "product",
+    "id": "1499468",
+    "item": "FN-19B",
+    "title": "Space Pen",
+    "dimensions": "Precision-made",
+    "subtitle": "Made in the USA",
+    "details": "Built for Outer Space",
+    "price": "29.95",
+    "availability": "in stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/steno",
