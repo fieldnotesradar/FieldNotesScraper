@@ -14,7 +14,8 @@ jobs:
       - uses: EndBug/add-and-commit@v8
         id: commit
         with:
-          default_author: github_actions
+          default_author: user_info
+          message: 'Updated Field Notes product list'
           add: 'data.json'
       - uses: ethomson/send-tweet-action@v1
         if: steps.commit.outputs.committed == 'true'
