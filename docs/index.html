@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Field Notes Scraper</title>
+</head>
+<body>
+    <div id="myData"></div>
+    <script>
+        fetch('https://raw.githubusercontent.com/fieldnotesradar/FieldNotesScraper/main/data.json')
+            .then(function (response) {
+                return response.json();
+            })
+            .then(function (data) {
+                appendData(data);
+            })
+            .catch(function (err) {
+                console.log('error: ' + err);
+            });
+        function appendData(data) {
+            var mainContainer = document.getElementById("myData");
+            for (var i = 0; i < data.length; i++) {
+                var div = document.createElement("div");
+                div.innerHTML = data[i].url + ' (' + data[i].type + ')';
+                mainContainer.appendChild(div);
+            }
+        }
+    </script>
+</body>
+</html>
