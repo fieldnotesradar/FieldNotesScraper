@@ -2,10 +2,10 @@
   {
     "item": "DDC-054",
     "url": "https://fieldnotesbrand.com/products/m-x-l-x-b-x-d",
-    "name": "M × L × B × D",
-    "details": "3½\" × 5½\"",
-    "packaging": "Limited Edition",
-    "dimensions": "Graph Paper",
+    "title": "M × L × B × D",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "Limited Edition",
+    "details": "Graph Paper",
     "price": "14.95",
     "id": "373709",
     "availability": "out of stock"
@@ -13,10 +13,10 @@
   {
     "item": "FN-01",
     "url": "https://fieldnotesbrand.com/products/original-kraft",
-    "name": "Original Kraft",
-    "details": "3½\" × 5½\"",
-    "packaging": "3-Pack",
-    "dimensions": "Graph, Ruled, Plain, Mixed",
+    "title": "Original Kraft",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "Graph, Ruled, Plain, Mixed",
     "price": "11.95",
     "id": "182722",
     "availability": "in stock"
@@ -24,10 +24,10 @@
   {
     "item": "FN-02L",
     "url": "https://fieldnotesbrand.com/products/left-handed",
-    "name": "Left-Handed",
-    "details": "3½\" × 5½\"",
-    "packaging": "3-Pack",
-    "dimensions": "A Notebook Made for Lefties",
+    "title": "Left-Handed",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "A Notebook Made for Lefties",
     "price": "11.95",
     "id": "242661",
     "availability": "out of stock"
@@ -35,10 +35,10 @@
   {
     "item": "FN-07",
     "url": "https://fieldnotesbrand.com/products/steno",
-    "name": "Steno",
-    "details": "6\" × 9\"",
-    "packaging": "Single Steno Pad",
-    "dimensions": "Gregg-Ruled",
+    "title": "Steno",
+    "dimensions": "6\" × 9\"",
+    "subtitle": "Single Steno Pad",
+    "details": "Gregg-Ruled",
     "price": "12.95",
     "id": "2071",
     "availability": "in stock"
@@ -46,10 +46,10 @@
   {
     "item": "FN-23",
     "url": "https://fieldnotesbrand.com/products/cherry-graph",
-    "name": "Cherry Graph",
-    "details": "3½\" × 5½\"",
-    "packaging": "3-Pack",
-    "dimensions": "3/16\" (5mm) Graph Paper",
+    "title": "Cherry Graph",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "3/16\" (5mm) Graph Paper",
     "price": "12.95",
     "id": "1731",
     "availability": "out of stock"
@@ -57,10 +57,10 @@
   {
     "item": "FN-25",
     "url": "https://fieldnotesbrand.com/products/56-week-planner",
-    "name": "56-Week Planner",
-    "details": "56-Weeks",
-    "packaging": "FN-25 Weekly Planner",
-    "dimensions": "Get Things Done",
+    "title": "56-Week Planner",
+    "dimensions": "56-Weeks",
+    "subtitle": "FN-25 Weekly Planner",
+    "details": "Get Things Done",
     "price": "16.95",
     "id": "1971",
     "availability": "in stock"
@@ -68,10 +68,10 @@
   {
     "item": "FN-28",
     "url": "https://fieldnotesbrand.com/products/chicago",
-    "name": "Chicago",
-    "details": "3½\" × 5½\"",
-    "packaging": "3-Pack",
-    "dimensions": "The Memo Book That Works",
+    "title": "Chicago",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "The Memo Book That Works",
     "price": "11.95",
     "id": "1926",
     "availability": "in stock"
@@ -79,10 +79,10 @@
   {
     "item": "FN-30",
     "url": "https://fieldnotesbrand.com/products/frontpage",
-    "name": "Front Page",
-    "details": "3¾\" × 8\"",
-    "packaging": "2-PACK",
-    "dimensions": "REPORTER'S NOTEBOOKS",
+    "title": "Front Page",
+    "dimensions": "3¾\" × 8\"",
+    "subtitle": "2-PACK",
+    "details": "REPORTER'S NOTEBOOKS",
     "price": "16.95",
     "id": "89540",
     "availability": "in stock"
@@ -90,10 +90,10 @@
   {
     "item": "FN-32",
     "url": "https://fieldnotesbrand.com/products/portland",
-    "name": "Portland",
-    "details": "3½\" × 5½\"",
-    "packaging": "3-Pack",
-    "dimensions": "Rip City Memo Books",
+    "title": "Portland",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "Rip City Memo Books",
     "price": "11.95",
     "id": "73127",
     "availability": "in stock"
@@ -101,10 +101,10 @@
   {
     "item": "FN-33",
     "url": "https://fieldnotesbrand.com/products/pitch-black-memo-book",
-    "name": "Pitch Black Memo Book",
-    "details": "3½\" × 5½\"",
-    "packaging": "3-Pack",
-    "dimensions": "Dot-Graph or Ruled",
+    "title": "Pitch Black Memo Book",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "Dot-Graph or Ruled",
     "price": "14.95",
     "id": "182483",
     "availability": "in stock"
@@ -112,10 +112,10 @@
   {
     "item": "FN-35",
     "url": "https://fieldnotesbrand.com/products/pitch-black-notebook",
-    "name": "Pitch Black Note Book",
-    "details": "4¾\" x 7½\"",
-    "packaging": "2-Pack",
-    "dimensions": "Dot-Graph Paper",
+    "title": "Pitch Black Note Book",
+    "dimensions": "4¾\" x 7½\"",
+    "subtitle": "2-Pack",
+    "details": "Dot-Graph Paper",
     "price": "16.95",
     "id": "182494",
     "availability": "in stock"
@@ -123,10 +123,10 @@
   {
     "item": "FN-38",
     "url": "https://fieldnotesbrand.com/products/tenth",
-    "name": "Tenth Anniversary Edition",
-    "details": "3-1/2\" × 5-1/2\"",
-    "packaging": "FN-38",
-    "dimensions": "Three 32-Page Memo Books",
+    "title": "Tenth Anniversary Edition",
+    "dimensions": "3-1/2\" × 5-1/2\"",
+    "subtitle": "FN-38",
+    "details": "Three 32-Page Memo Books",
     "price": "9.95",
     "id": "307966",
     "availability": "out of stock"
@@ -134,10 +134,10 @@
   {
     "item": "FN-39",
     "url": "https://fieldnotesbrand.com/products/haxley",
-    "name": "Haxley",
-    "details": null,
-    "packaging": "An Illustrated Story Book &",
-    "dimensions": "A Sketch Book, Both 64 Pages",
+    "title": "Haxley",
+    "dimensions": null,
+    "subtitle": "An Illustrated Story Book &",
+    "details": "A Sketch Book, Both 64 Pages",
     "price": "14.95",
     "id": "341797",
     "availability": "in stock"
@@ -145,10 +145,10 @@
   {
     "item": "FN-42",
     "url": "https://fieldnotesbrand.com/products/signature-sketchbook-notebook",
-    "name": "Signature",
-    "details": "72 Pages",
-    "packaging": "2-Pack • 4-1/4\" × 6-1/2\"",
-    "dimensions": "Out of Stock",
+    "title": "Signature",
+    "dimensions": "72 Pages",
+    "subtitle": "2-Pack • 4-1/4\" × 6-1/2\"",
+    "details": "Out of Stock",
     "price": "14.95",
     "id": "378023",
     "availability": "out of stock"
@@ -156,10 +156,10 @@
   {
     "item": "FN-RAMS",
     "url": "https://fieldnotesbrand.com/products/rams",
-    "name": "Rams",
-    "details": "Dot-Graph Paper",
-    "packaging": "LIMITED EDITION 3-Pack",
-    "dimensions": "A Field Notes/Film First Joint",
+    "title": "Rams",
+    "dimensions": "Dot-Graph Paper",
+    "subtitle": "LIMITED EDITION 3-Pack",
+    "details": "A Field Notes/Film First Joint",
     "price": "12.95",
     "id": "510331",
     "availability": "out of stock"
@@ -167,10 +167,10 @@
   {
     "item": "FN-XO16",
     "url": "https://fieldnotesbrand.com/products/xoxo2016",
-    "name": "XOXO 2016",
-    "details": "3½\" × 5½\"",
-    "packaging": "3 TRIPPY COVERS",
-    "dimensions": "LIMIT 2 PACKS PER HOUSEHOLD",
+    "title": "XOXO 2016",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3 TRIPPY COVERS",
+    "details": "LIMIT 2 PACKS PER HOUSEHOLD",
     "price": "12.95",
     "id": "89519",
     "availability": "out of stock"
@@ -178,10 +178,10 @@
   {
     "item": "FN-XO18",
     "url": "https://fieldnotesbrand.com/products/xoxo-2018",
-    "name": "XOXO 2018",
-    "details": "3½\" × 5½\"",
-    "packaging": "3 COLORFUL COVERS",
-    "dimensions": "ILLUSTRATED BY SHAWNA X",
+    "title": "XOXO 2018",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3 COLORFUL COVERS",
+    "details": "ILLUSTRATED BY SHAWNA X",
     "price": "12.95",
     "id": "551037",
     "availability": "out of stock"
@@ -189,10 +189,10 @@
   {
     "item": "FN-XO19",
     "url": "https://fieldnotesbrand.com/products/xoxo-2019",
-    "name": "XOXO 2019",
-    "details": "3½\" × 5½\"",
-    "packaging": "3 COLORFUL COVERS",
-    "dimensions": "ILLUSTRATED BY MAJA DLUGOLECKI",
+    "title": "XOXO 2019",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3 COLORFUL COVERS",
+    "details": "ILLUSTRATED BY MAJA DLUGOLECKI",
     "price": "12.95",
     "id": "798186",
     "availability": "out of stock"
@@ -200,10 +200,10 @@
   {
     "item": "FNC-01",
     "url": "https://fieldnotesbrand.com/products/butcher-orange",
-    "name": "Butcher Orange",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2008 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Butcher Orange",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2008 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1056",
     "availability": "out of stock"
@@ -211,10 +211,10 @@
   {
     "item": "FNC-02",
     "url": "https://fieldnotesbrand.com/products/butcher-blue",
-    "name": "Butcher Extra Blue",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2009 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Butcher Extra Blue",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1063",
     "availability": "out of stock"
@@ -222,10 +222,10 @@
   {
     "item": "FNC-03",
     "url": "https://fieldnotesbrand.com/products/grass-stain-green",
-    "name": "Grass Stain Green",
-    "details": "3½\" × 5½\"",
-    "packaging": "SUMMER 2009 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Grass Stain Green",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1070",
     "availability": "out of stock"
@@ -233,10 +233,10 @@
   {
     "item": "FNC-04",
     "url": "https://fieldnotesbrand.com/products/mackinaw-autumn",
-    "name": "Mackinaw Autumn",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2009 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Mackinaw Autumn",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1077",
     "availability": "out of stock"
@@ -244,10 +244,10 @@
   {
     "item": "FNC-05",
     "url": "https://fieldnotesbrand.com/products/just-below-zero",
-    "name": "Just Below Zero",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2009 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Just Below Zero",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1084",
     "availability": "out of stock"
@@ -255,10 +255,10 @@
   {
     "item": "FNC-06",
     "url": "https://fieldnotesbrand.com/products/packet-of-sunshine",
-    "name": "Packet of Sunshine",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2010 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Packet of Sunshine",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2010 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1091",
     "availability": "out of stock"
@@ -266,10 +266,10 @@
   {
     "item": "FNC-07AL",
     "url": "https://fieldnotesbrand.com/products/county-fair",
-    "name": "County Fair",
-    "details": "3½\" × 5½\"",
-    "packaging": "SUMMER 2010 LIMITED EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "County Fair",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2010 LIMITED EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "14.95",
     "id": "1232639",
     "availability": "in stock"
@@ -277,10 +277,10 @@
   {
     "item": "FNC-08",
     "url": "https://fieldnotesbrand.com/products/ravens-wing",
-    "name": "Raven’s Wing",
-    "details": null,
-    "packaging": "FALL 2010 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Raven’s Wing",
+    "dimensions": null,
+    "subtitle": "FALL 2010 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1197",
     "availability": "out of stock"
@@ -288,10 +288,10 @@
   {
     "item": "FNC-09",
     "url": "https://fieldnotesbrand.com/products/balsam-fir",
-    "name": "Balsam Fir",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2010 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Balsam Fir",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2010 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1201",
     "availability": "out of stock"
@@ -299,10 +299,10 @@
   {
     "item": "FNC-10",
     "url": "https://fieldnotesbrand.com/products/dry-transfer",
-    "name": "Dry Transfer",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2011 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Dry Transfer",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1205",
     "availability": "out of stock"
@@ -310,10 +310,10 @@
   {
     "item": "FNC-11",
     "url": "https://fieldnotesbrand.com/products/american-tradesman",
-    "name": "American Tradesman",
-    "details": "3½\" × 5½\"",
-    "packaging": "SUMMER 2011 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "American Tradesman",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1209",
     "availability": "out of stock"
@@ -321,10 +321,10 @@
   {
     "item": "FNC-12",
     "url": "https://fieldnotesbrand.com/products/fire-spotter",
-    "name": "Fire Spotter",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2011 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Fire Spotter",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1213",
     "availability": "out of stock"
@@ -332,10 +332,10 @@
   {
     "item": "FNC-13",
     "url": "https://fieldnotesbrand.com/products/northerly",
-    "name": "Northerly",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2011 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Northerly",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1217",
     "availability": "out of stock"
@@ -343,10 +343,10 @@
   {
     "item": "FNC-14",
     "url": "https://fieldnotesbrand.com/products/national-crop",
-    "name": "National Crop",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2012 QUARTERLY EDITION",
-    "dimensions": "SIX BOOKS, MAP, PATCH",
+    "title": "National Crop",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2012 QUARTERLY EDITION",
+    "details": "SIX BOOKS, MAP, PATCH",
     "price": "19.95",
     "id": "1221",
     "availability": "out of stock"
@@ -354,10 +354,10 @@
   {
     "item": "FNC-15",
     "url": "https://fieldnotesbrand.com/products/daygame",
-    "name": "Day Game",
-    "details": "3½\" × 5½\"",
-    "packaging": "SUMMER 2012 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Day Game",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2012 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1225",
     "availability": "out of stock"
@@ -365,10 +365,10 @@
   {
     "item": "FNC-16",
     "url": "https://fieldnotesbrand.com/products/traveling-salesman",
-    "name": "Traveling Salesman",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2012 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Traveling Salesman",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2012 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1229",
     "availability": "out of stock"
@@ -376,10 +376,10 @@
   {
     "item": "FNC-17",
     "url": "https://fieldnotesbrand.com/products/expedition",
-    "name": "Expedition",
-    "details": "3½\" × 5½\"",
-    "packaging": "3-Pack",
-    "dimensions": "Waterproof Notebooks",
+    "title": "Expedition",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "Waterproof Notebooks",
     "price": "14.95",
     "id": "1233",
     "availability": "in stock"
@@ -387,10 +387,10 @@
   {
     "item": "FNC-18",
     "url": "https://fieldnotesbrand.com/products/america-the-beautiful",
-    "name": "America the Beautiful",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2013 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "America the Beautiful",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2013 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1237",
     "availability": "out of stock"
@@ -398,10 +398,10 @@
   {
     "item": "FNC-19",
     "url": "https://fieldnotesbrand.com/products/night-sky",
-    "name": "Night Sky",
-    "details": "3½\" × 5½\"",
-    "packaging": "SUMMER 2013 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Night Sky",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2013 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1241",
     "availability": "out of stock"
@@ -409,10 +409,10 @@
   {
     "item": "FNC-20",
     "url": "https://fieldnotesbrand.com/products/drink-local",
-    "name": "Drink Local",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2013 QUARTERLY EDITION",
-    "dimensions": "THREE MEMO BOOKS, COASTER",
+    "title": "Drink Local",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2013 QUARTERLY EDITION",
+    "details": "THREE MEMO BOOKS, COASTER",
     "price": "9.95",
     "id": "1245",
     "availability": "out of stock"
@@ -420,10 +420,10 @@
   {
     "item": "FNC-21",
     "url": "https://fieldnotesbrand.com/products/cold-horizon",
-    "name": "Cold Horizon",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2013 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Cold Horizon",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2013 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1249",
     "availability": "out of stock"
@@ -431,10 +431,10 @@
   {
     "item": "FNC-22",
     "url": "https://fieldnotesbrand.com/products/shelterwood",
-    "name": "Shelterwood",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2014 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Shelterwood",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2014 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1253",
     "availability": "out of stock"
@@ -442,10 +442,10 @@
   {
     "item": "FNC-23",
     "url": "https://fieldnotesbrand.com/products/arts-and-sciences",
-    "name": "Arts and Sciences",
-    "details": "4¾\" x 7½\"",
-    "packaging": "SUMMER 2014 QUARTERLY EDITION",
-    "dimensions": "TWO 64-PAGE MEMO BOOKS",
+    "title": "Arts and Sciences",
+    "dimensions": "4¾\" x 7½\"",
+    "subtitle": "SUMMER 2014 QUARTERLY EDITION",
+    "details": "TWO 64-PAGE MEMO BOOKS",
     "price": "12.95",
     "id": "1257",
     "availability": "out of stock"
@@ -453,10 +453,10 @@
   {
     "item": "FNC-24",
     "url": "https://fieldnotesbrand.com/products/unexposed",
-    "name": "Unexposed",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2014 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Unexposed",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2014 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1261",
     "availability": "out of stock"
@@ -464,10 +464,10 @@
   {
     "item": "FNC-25",
     "url": "https://fieldnotesbrand.com/products/ambition",
-    "name": "Ambition",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2014 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Ambition",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2014 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1265",
     "availability": "out of stock"
@@ -475,10 +475,10 @@
   {
     "item": "FNC-26",
     "url": "https://fieldnotesbrand.com/products/two-rivers",
-    "name": "Two Rivers",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2015 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Two Rivers",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2015 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1269",
     "availability": "out of stock"
@@ -486,10 +486,10 @@
   {
     "item": "FNC-27",
     "url": "https://fieldnotesbrand.com/products/workshop-companion",
-    "name": "Workshop Companion",
-    "details": "3½\" × 5½\"",
-    "packaging": "SUMMER 2015 QUARTERLY EDITION",
-    "dimensions": "SIX 48-PAGE MEMO BOOKS",
+    "title": "Workshop Companion",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2015 QUARTERLY EDITION",
+    "details": "SIX 48-PAGE MEMO BOOKS",
     "price": "19.95",
     "id": "1273",
     "availability": "out of stock"
@@ -497,10 +497,10 @@
   {
     "item": "FNC-28",
     "url": "https://fieldnotesbrand.com/products/shenandoah",
-    "name": "Shenandoah",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2015 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Shenandoah",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2015 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "16",
     "availability": "out of stock"
@@ -508,10 +508,10 @@
   {
     "item": "FNC-29",
     "url": "https://fieldnotesbrand.com/products/snowblind",
-    "name": "Snowblind",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2015 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Snowblind",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2015 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "1548",
     "availability": "out of stock"
@@ -519,10 +519,10 @@
   {
     "item": "FNC-30",
     "url": "https://fieldnotesbrand.com/products/sweet-tooth",
-    "name": "Sweet Tooth",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2016 QUARTERLY EDITION",
-    "dimensions": "THREE 48-PAGE MEMO BOOKS",
+    "title": "Sweet Tooth",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2016 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
     "price": "9.95",
     "id": "5902",
     "availability": "out of stock"
@@ -530,10 +530,10 @@
   {
     "item": "FNC-31",
     "url": "https://fieldnotesbrand.com/products/byline",
-    "name": "Byline",
-    "details": "3¾\" × 8\"",
-    "packaging": "SUMMER 2016 QUARTERLY EDITION",
-    "dimensions": "TWO 70-PAGE NOTEBOOKS",
+    "title": "Byline",
+    "dimensions": "3¾\" × 8\"",
+    "subtitle": "SUMMER 2016 QUARTERLY EDITION",
+    "details": "TWO 70-PAGE NOTEBOOKS",
     "price": "12.95",
     "id": "15298",
     "availability": "out of stock"
@@ -541,10 +541,10 @@
   {
     "item": "FNC-32",
     "url": "https://fieldnotesbrand.com/products/lunacy",
-    "name": "Lunacy",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2016 QUARTERLY EDITION",
-    "dimensions": "Three 48-Page Memo Books",
+    "title": "Lunacy",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2016 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
     "price": "12.95",
     "id": "74620",
     "availability": "out of stock"
@@ -552,10 +552,10 @@
   {
     "item": "FNC-33",
     "url": "https://fieldnotesbrand.com/products/blackice",
-    "name": "Black Ice",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2016 QUARTERLY EDITION",
-    "dimensions": "Three 48-Page Memo Books",
+    "title": "Black Ice",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2016 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
     "price": "12.95",
     "id": "109902",
     "availability": "out of stock"
@@ -563,10 +563,10 @@
   {
     "item": "FNC-34a",
     "url": "https://fieldnotesbrand.com/products/utility",
-    "name": "Utility",
-    "details": "3½\" × 5½\"",
-    "packaging": "SPRING 2017 QUARTERLY EDITION",
-    "dimensions": "Three 48-Page Memo Books",
+    "title": "Utility",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2017 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
     "price": "12.95",
     "id": "1232538",
     "availability": "out of stock"
@@ -574,10 +574,10 @@
   {
     "item": "FNC-35",
     "url": "https://fieldnotesbrand.com/products/campfire",
-    "name": "Campfire",
-    "details": "3½\" × 5½\"",
-    "packaging": "SUMMER 2017 QUARTERLY EDITION",
-    "dimensions": "Three 48-Page Memo Books",
+    "title": "Campfire",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2017 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
     "price": "12.95",
     "id": "218865",
     "availability": "out of stock"
@@ -585,10 +585,10 @@
   {
     "item": "FNC-36",
     "url": "https://fieldnotesbrand.com/products/dimenovel",
-    "name": "Dime Novel",
-    "details": "4-1/4\" × 6-1/2\"",
-    "packaging": "FALL 2017 QUARTERLY EDITION",
-    "dimensions": "Two 72-Page Blank Books",
+    "title": "Dime Novel",
+    "dimensions": "4-1/4\" × 6-1/2\"",
+    "subtitle": "FALL 2017 QUARTERLY EDITION",
+    "details": "Two 72-Page Blank Books",
     "price": "12.95",
     "id": "268913",
     "availability": "out of stock"
@@ -596,10 +596,10 @@
   {
     "item": "FNC-37",
     "url": "https://fieldnotesbrand.com/products/resolution",
-    "name": "Resolution",
-    "details": "3½\" × 5½\"",
-    "packaging": "WINTER 2017 QUARTERLY EDITION",
-    "dimensions": "Checklist & Date Books",
+    "title": "Resolution",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2017 QUARTERLY EDITION",
+    "details": "Checklist & Date Books",
     "price": "12.95",
     "id": "307938",
     "availability": "out of stock"
@@ -607,10 +607,10 @@
   {
     "item": "FNC-38a",
     "url": "https://fieldnotesbrand.com/products/coastal",
-    "name": "Coastal",
-    "details": "Reticle Grid",
-    "packaging": "SPRING 2018 QUARTERLY EDITION",
-    "dimensions": "Foil-Stamped Coastlines",
+    "title": "Coastal",
+    "dimensions": "Reticle Grid",
+    "subtitle": "SPRING 2018 QUARTERLY EDITION",
+    "details": "Foil-Stamped Coastlines",
     "price": "12.95",
     "id": "398850",
     "availability": "out of stock"
@@ -618,10 +618,10 @@
   {
     "item": "FNC-41",
     "url": "https://fieldnotesbrand.com/products/clandestine",
-    "name": "Clandestine",
-    "details": "Dot-Graph Paper",
-    "packaging": "WINTER 20I8 QUARTERLY EDITION",
-    "dimensions": "Solve the Mystery of the 3-Pack",
+    "title": "Clandestine",
+    "dimensions": "Dot-Graph Paper",
+    "subtitle": "WINTER 20I8 QUARTERLY EDITION",
+    "details": "Solve the Mystery of the 3-Pack",
     "price": "12.95",
     "id": "559002",
     "availability": "out of stock"
@@ -629,10 +629,10 @@
   {
     "item": "FNC-42",
     "url": "https://fieldnotesbrand.com/products/mile-marker",
-    "name": "Mile Marker",
-    "details": "Dot-Graph Paper",
-    "packaging": "SPRING 20I9 QUARTERLY EDITION",
-    "dimensions": "America's Highway System",
+    "title": "Mile Marker",
+    "dimensions": "Dot-Graph Paper",
+    "subtitle": "SPRING 20I9 QUARTERLY EDITION",
+    "details": "America's Highway System",
     "price": "12.95",
     "id": "643937",
     "availability": "out of stock"
@@ -640,10 +640,10 @@
   {
     "item": "FNC-43a",
     "url": "https://fieldnotesbrand.com/products/national-parks",
-    "name": "National Parks",
-    "details": "Graph Paper",
-    "packaging": "6 PACKS, I8 PARKS",
-    "dimensions": "Absolutely American",
+    "title": "National Parks",
+    "dimensions": "Graph Paper",
+    "subtitle": "6 PACKS, I8 PARKS",
+    "details": "Absolutely American",
     "price": "14.95",
     "id": "691432",
     "availability": "in stock"
@@ -651,10 +651,10 @@
   {
     "item": "FNC-44",
     "url": "https://fieldnotesbrand.com/products/autumn-trilogy",
-    "name": "Autumn Trilogy",
-    "details": "Ruled Paper",
-    "packaging": "FALL 20I9 QUARTERLY EDITION",
-    "dimensions": "Impressions of the Season",
+    "title": "Autumn Trilogy",
+    "dimensions": "Ruled Paper",
+    "subtitle": "FALL 20I9 QUARTERLY EDITION",
+    "details": "Impressions of the Season",
     "price": "12.95",
     "id": "761128",
     "availability": "out of stock"
@@ -662,10 +662,10 @@
   {
     "item": "FNC-48a",
     "url": "https://fieldnotesbrand.com/products/united-states-of-letterpress",
-    "name": "United States of Letterpress",
-    "details": "Graph Paper",
-    "packaging": "FALL 2020 QUARTERLY EDITION",
-    "dimensions": "Three Packs, Nine Voices",
+    "title": "United States of Letterpress",
+    "dimensions": "Graph Paper",
+    "subtitle": "FALL 2020 QUARTERLY EDITION",
+    "details": "Three Packs, Nine Voices",
     "price": "12.95",
     "id": "1056510",
     "availability": "in stock"
@@ -673,10 +673,10 @@
   {
     "item": "FNC-49",
     "url": "https://fieldnotesbrand.com/products/snowy-evening",
-    "name": "Snowy Evening",
-    "details": "Flake Grid",
-    "packaging": "WINTER 2020 QUARTERLY EDITION",
-    "dimensions": "99,999 Versions",
+    "title": "Snowy Evening",
+    "dimensions": "Flake Grid",
+    "subtitle": "WINTER 2020 QUARTERLY EDITION",
+    "details": "99,999 Versions",
     "price": "12.95",
     "id": "1098176",
     "availability": "out of stock"
@@ -684,10 +684,10 @@
   {
     "item": "FNC-50",
     "url": "https://fieldnotesbrand.com/products/fifty",
-    "name": "Fifty",
-    "details": "Graph Paper",
-    "packaging": "SPRING 202I QUARTERLY EDITION",
-    "dimensions": "Back to Basics",
+    "title": "Fifty",
+    "dimensions": "Graph Paper",
+    "subtitle": "SPRING 202I QUARTERLY EDITION",
+    "details": "Back to Basics",
     "price": "12.95",
     "id": "1277642",
     "availability": "in stock"
@@ -695,10 +695,10 @@
   {
     "item": "FNC-51",
     "url": "https://fieldnotesbrand.com/products/trailhead",
-    "name": "Trailhead",
-    "details": "Ruled Paper",
-    "packaging": "SUMMER 2021 QUARTERLY EDITION",
-    "dimensions": "Three Great Paths",
+    "title": "Trailhead",
+    "dimensions": "Ruled Paper",
+    "subtitle": "SUMMER 2021 QUARTERLY EDITION",
+    "details": "Three Great Paths",
     "price": "12.95",
     "id": "1346978",
     "availability": "out of stock"
@@ -706,10 +706,10 @@
   {
     "item": "FNC-52b",
     "url": "https://fieldnotesbrand.com/products/harvest",
-    "name": "Harvest",
-    "details": "3½\" × 5½\"",
-    "packaging": "FALL 2021 QUARTERLY EDITION",
-    "dimensions": "Perforated Ruled Dot Ledger™",
+    "title": "Harvest",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2021 QUARTERLY EDITION",
+    "details": "Perforated Ruled Dot Ledger™",
     "price": "12.95",
     "id": "1397439",
     "availability": "in stock"
@@ -717,10 +717,10 @@
   {
     "item": "FNC-53",
     "url": "https://fieldnotesbrand.com/products/ignition",
-    "name": "Ignition",
-    "details": "Waterproof Outside",
-    "packaging": "WINTER 2021 QUARTERLY EDITION",
-    "dimensions": "Two Planners, One Checklist",
+    "title": "Ignition",
+    "dimensions": "Waterproof Outside",
+    "subtitle": "WINTER 2021 QUARTERLY EDITION",
+    "details": "Two Planners, One Checklist",
     "price": "14.95",
     "id": "1426195",
     "availability": "in stock"
@@ -728,10 +728,10 @@
   {
     "item": "FNR-2017",
     "url": "https://fieldnotesbrand.com/products/rooster2017",
-    "name": "Rooster Book 2017",
-    "details": "3½\" × 5½\"",
-    "packaging": "1 Memo Book",
-    "dimensions": "1/4\" (6.4mm) Ruled Paper",
+    "title": "Rooster Book 2017",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "1 Memo Book",
+    "details": "1/4\" (6.4mm) Ruled Paper",
     "price": "2.00",
     "id": "158699",
     "availability": "out of stock"
@@ -739,10 +739,10 @@
   {
     "item": "FNR-2018",
     "url": "https://fieldnotesbrand.com/products/rooster2018",
-    "name": "Rooster Book 2018",
-    "details": "3½\" × 5½\"",
-    "packaging": "2018 Tournament of Books",
-    "dimensions": "Graph Paper",
+    "title": "Rooster Book 2018",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "2018 Tournament of Books",
+    "details": "Graph Paper",
     "price": "3.00",
     "id": "373732",
     "availability": "out of stock"
@@ -750,10 +750,10 @@
   {
     "item": "FNR-2019",
     "url": "https://fieldnotesbrand.com/products/rooster-book-2019",
-    "name": "Rooster Book 2019",
-    "details": "3½\" × 5½\"",
-    "packaging": "2019 Tournament of Books",
-    "dimensions": "Ruled Paper",
+    "title": "Rooster Book 2019",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "2019 Tournament of Books",
+    "details": "Ruled Paper",
     "price": "5.00",
     "id": "639702",
     "availability": "out of stock"
@@ -761,10 +761,10 @@
   {
     "item": "FNR-2020",
     "url": "https://fieldnotesbrand.com/products/rooster-book-2020",
-    "name": "Rooster Book 2020",
-    "details": "3½\" × 5½\"",
-    "packaging": "2020 Tournament of Books",
-    "dimensions": "Graph Paper",
+    "title": "Rooster Book 2020",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "2020 Tournament of Books",
+    "details": "Graph Paper",
     "price": "5.00",
     "id": "910536",
     "availability": "out of stock"
@@ -772,10 +772,10 @@
   {
     "item": "FNR-2021",
     "url": "https://fieldnotesbrand.com/products/rooster-book-2021",
-    "name": "Rooster Book 2021",
-    "details": "3½\" × 5½\"",
-    "packaging": "2021 Tournament of Books",
-    "dimensions": "Ruled Paper",
+    "title": "Rooster Book 2021",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "2021 Tournament of Books",
+    "details": "Ruled Paper",
     "price": "5.00",
     "id": "1236589",
     "availability": "out of stock"
@@ -783,10 +783,10 @@
   {
     "item": "FNR-2022",
     "url": "https://fieldnotesbrand.com/products/rooster-book-2022",
-    "name": "Rooster Book 2022",
-    "details": "3½\" × 5½\"",
-    "packaging": "2022 Tournament of Books",
-    "dimensions": "Ruled Paper",
+    "title": "Rooster Book 2022",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "2022 Tournament of Books",
+    "details": "Ruled Paper",
     "price": "5.00",
     "id": "1509706",
     "availability": "in stock"
@@ -794,10 +794,10 @@
   {
     "item": "FNxMR-01",
     "url": "https://fieldnotesbrand.com/products/maggie-rogers",
-    "name": "Maggie Rogers",
-    "details": "72-Page Journal / Sketch Book",
-    "packaging": "2-Pack",
-    "dimensions": "4 1/4\" × 6 1/2\"",
+    "title": "Maggie Rogers",
+    "dimensions": "72-Page Journal / Sketch Book",
+    "subtitle": "2-Pack",
+    "details": "4 1/4\" × 6 1/2\"",
     "price": "16.95",
     "id": "1110397",
     "availability": "in stock"
