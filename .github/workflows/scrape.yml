@@ -1,8 +1,8 @@
 name: Scrape
 on:
   push:
-  # schedule:
-  # - cron: "* * * * *"
+  schedule:
+  - cron: "* * * * *"
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -19,8 +19,8 @@ jobs:
       - uses: ethomson/send-tweet-action@v1
         if: steps.commit.outputs.committed == 'true'
         with:
-          status: "Field Notes product list has been updated! https://github.dev/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
-          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}commit_long_sha
+          status: "Field Notes product list has been updated! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
           consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
           access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
           access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
