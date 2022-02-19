@@ -1,1566 +1,5 @@
 [
   {
-    "url": "https://fieldnotesbrand.com/dispatches/2008/best-conceivable-use-of-fns-ever",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Best Conceivable Use of Field Notes, Ever",
-    "date": "May 21, 2008 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2009/field-notes-fighting-lens-flare",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Field Notes, Fighting Lens Flare",
-    "date": "October 21, 2009 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2009/fountain-pen-tests",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Fountain Pen Tests",
-    "date": "February 18, 2009 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2010/mongolia",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Renegade Pencils and Mongolian Field Notes",
-    "date": "August 11, 2010 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2010/the-pace-of-the-place",
-    "type": "dispatch",
-    "category": "Field Trip",
-    "title": "The Pace of the Place",
-    "date": "July 28, 2010 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2011/a-heartbreaking-story-of-loss-and-recovery",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "A Heartbreaking Story of Loss and Recovery",
-    "date": "July 16, 2011 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2011/codes",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "50 Two-Letter Codes, 50 Editions",
-    "date": "March 10, 2011 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2011/dry-transfer-instructions-1",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Dry Transfer Application Instructions",
-    "date": "March 19, 2011 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2011/vermont-maps-and-legends",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Vermont Maps and Legends",
-    "date": "October 12, 2011 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2012/a-moment-of-your-time",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Could We Have A Moment of Your Time?",
-    "date": "November 6, 2012 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2012/back-to-the-soil",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "FNC-14: National Crop",
-    "date": "July 10, 2012 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2012/some-history-on-fire-spotters-and-the-star-of-our-film",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Some History on Fire Spotters and the Star of Our Film",
-    "date": "February 22, 2012 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2013/alpine-expedition",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Alpine Expedition",
-    "date": "January 31, 2013 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2013/coasters",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "A Toast to Coasters",
-    "date": "October 3, 2013 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2013/field-notes-memo-book-as-macguffin",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Field Notes Memo Book as MacGuffin",
-    "date": "August 20, 2013 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2013/in-a-tent-with-houses",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "In a Tent, with Houses",
-    "date": "February 18, 2013 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2013/nightsky-notes",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "“Walk Out on the Milky Way.”",
-    "date": "June 19, 2013 by Steve"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2013/wealthofsketches",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "An Uncommon Wealth of Sketches",
-    "date": "November 8, 2013 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/a-cameo",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "A Cameo",
-    "date": "January 7, 2014 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/bus-passes-and-happy-meals-and-field-notes",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Bus Passes and Happy Meals... And Field Notes",
-    "date": "July 11, 2014 by Dawson"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/elevator",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "A Daring Rescue",
-    "date": "April 30, 2014 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/funny-story",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Funny Story",
-    "date": "November 21, 2014 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/new-cherry-graph-expedition-in-stock",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "New: Cherry Graph",
-    "date": "October 21, 2014 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/proof",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Proof?",
-    "date": "November 15, 2014 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/starbucks-reserve-roastery-edition",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "Starbucks Reserve Roastery Edition",
-    "date": "November 20, 2014 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/summer-session",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Summer Session",
-    "date": "July 14, 2014 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/we-just-received-a-delivery-from-outer-space",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "A Delivery from Outer Space",
-    "date": "August 15, 2014 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/winter-2014-colors-the-ambition-edition",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "FNC-25: The Ambition Edition",
-    "date": "November 12, 2014 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2014/with-the-grain",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "With the Grain",
-    "date": "April 2, 2014 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/a-french-toast",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "A French Toast",
-    "date": "June 2, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/another-story",
-    "type": "dispatch",
-    "category": "Retail Additions",
-    "title": "Another Story",
-    "date": "July 31, 2015 by Dawson"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/downtime-hq",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Downtime at HQ",
-    "date": "August 18, 2015 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/everest",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Avalanche Notes at Everest Base Camp",
-    "date": "July 23, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/fansites",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Two Great Field Notes Fansites",
-    "date": "July 23, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/fighting-fires-with-field-notes",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Fighting Fires with Field Notes",
-    "date": "August 11, 2015 by Dawson"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/flight-log-check",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "Flight Log: Check!",
-    "date": "December 2, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/fnc-29-the-snowblind-edition",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "FNC-29: The Snowblind Edition",
-    "date": "November 20, 2015 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/free-shipping-in-the-usa",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Free Shipping in the USA",
-    "date": "November 18, 2015 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/gibbons-pottos-gorillas-and-orangutans",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Gibbons, Pottos, Gorillas, and Orangutans",
-    "date": "October 22, 2015 by Dawson"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/handy-around-the-house",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "FNC-27: Workshop Companion",
-    "date": "August 15, 2015 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/happy-holidays-from-field-notes",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "In Your Hands",
-    "date": "November 19, 2015 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/new-colors-spring-in-two-rivers",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "FNC-26: The Two Rivers Edition",
-    "date": "March 11, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/park-life",
-    "type": "dispatch",
-    "category": "Field Trip",
-    "title": "Park Life",
-    "date": "September 15, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/richard-binder-at-work",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Richard Binder at Work",
-    "date": "January 19, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/stacked-type",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Stacked Type",
-    "date": "May 26, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/the-conversation",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "The Conversation",
-    "date": "March 10, 2015 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/watch-us-fall-new-colors",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "FNC-28: Shenandoah",
-    "date": "November 12, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/wayzgoose",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Wayzgoose!",
-    "date": "November 10, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/weirdo",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Support Your Local Weirdo!",
-    "date": "May 21, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2015/well-drink-to",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "We’ll Drink to… Anything, Really.",
-    "date": "July 7, 2015 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/a-life-lived-outdoors",
-    "type": "dispatch",
-    "category": "Retail Additions",
-    "title": "Notes for a Life Lived Outdoors",
-    "date": "July 11, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/art-freedom-and-expression",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Art, Freedom, and Expression",
-    "date": "October 14, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/brands-hall",
-    "type": "dispatch",
-    "category": "Field Trip",
-    "title": "The History of Brand’s Hall",
-    "date": "October 18, 2016 by Steve"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/cameo",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "A Cameo",
-    "date": "April 18, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/commemorative-reprints",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Naming Names",
-    "date": "May 5, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "What We’re After",
-    "date": "May 25, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-1",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Stripdagen Haarlem",
-    "date": "June 23, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-2",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Yes Sir, Senator",
-    "date": "July 1, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-3",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "A Big Hand",
-    "date": "July 15, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-4",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Old School",
-    "date": "July 21, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-5",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Aaron’s Music Festival",
-    "date": "July 28, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-6",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Any Damn Good",
-    "date": "August 4, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-7",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "A Chart of My Days",
-    "date": "August 17, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-8",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "How Well They’ve Aged",
-    "date": "September 22, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-9",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Back to School",
-    "date": "September 1, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/duly-noted-june-9-16",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Free Range to Doodle",
-    "date": "June 9, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/extra-extra-byline-subs-are-almost-gone",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Extra! Extra! Byline Subs are Almost Gone!",
-    "date": "August 24, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/field-notes-at-mach-1-8",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Field Notes at Mach 1.8",
-    "date": "January 6, 2016 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/fnc-30-sweet-tooth",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "FNC-30: Sweet Tooth",
-    "date": "March 9, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/get-in-here",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Get In Here",
-    "date": "December 8, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/happy-holidays",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Happy Holidays",
-    "date": "December 23, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/hello-from-the-jordan-valley",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Hello from the Jordan Valley",
-    "date": "March 1, 2016 by Dawson"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/honest-we-didnt-fake-the-comet-landing",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Honest, We Didn’t Fake the Comet Landing",
-    "date": "October 3, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/hunting-fishing-and-camping",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Hunting, Fishing and Camping",
-    "date": "November 15, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/icelandic-surprise",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Icelandic Surprise",
-    "date": "October 10, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/ill-meet-you",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "I’ll Meet You...",
-    "date": "February 21, 2016 by Dawson"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/in-good-company",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "In Good Company",
-    "date": "December 8, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/jam-packed",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Jam Packed",
-    "date": "May 26, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/mission-possible",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Mission Possible",
-    "date": "December 15, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/moving-day-approaches",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Moving Day Approaches",
-    "date": "July 7, 2016 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/on-the-road-again",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "On the Road Again",
-    "date": "November 4, 2016 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/pale-fire",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Pale Fire",
-    "date": "October 3, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/sketchy-behaviour",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Sketchy Behavior",
-    "date": "July 8, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/someone-order-beer",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Someone Order Beer",
-    "date": "July 11, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/the-boy-of-summer",
-    "type": "dispatch",
-    "category": "Field Notes Brand Books",
-    "title": "Think Summer",
-    "date": "February 26, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/the-memo-book-that-works",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "The Memo Book That Works",
-    "date": "January 15, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/the-original-attack-dog",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "The Original Attack Dog",
-    "date": "August 9, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/tob-2016",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "Literary Cage Match",
-    "date": "February 24, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/turn-the-page",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Turn the Page",
-    "date": "June 2, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2016/your-place",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Your Place",
-    "date": "August 31, 2016 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/401-north-racine",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "We Moved Into This Place Just So We Could Do These Sorts of Things",
-    "date": "April 25, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/a-particularly-wet-job",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "A Particularly Wet Job",
-    "date": "September 7, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/addicts-in-the-house",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "Addicts in the House",
-    "date": "October 18, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/aspire",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Aspire",
-    "date": "May 19, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/because-paper-has-soul",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Because Paper Has Soul",
-    "date": "May 2, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/best-in-class",
-    "type": "dispatch",
-    "category": null,
-    "title": "Best in Class",
-    "date": "August 9, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/chill",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Chill",
-    "date": "January 12, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/final-exams",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Final Exams",
-    "date": "May 23, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/for-your-next-hot-project",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "For Your Next Hot Project",
-    "date": "July 11, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/goin-south",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Goin’ Way South",
-    "date": "October 26, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/grade-a",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Grade A",
-    "date": "April 5, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/hello-daddy-o",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Hello Daddy-O!",
-    "date": "June 6, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/in-the-name-of-the-late-great-roberto-clemente",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "In the Name of the Late, Great, Roberto Clemente",
-    "date": "October 4, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/influential",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Influential",
-    "date": "April 21, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/isaiah-adam",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Isaiah & Adam",
-    "date": "May 30, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/job-done",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "A Job Well Done",
-    "date": "February 27, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/new-very-limited-editions",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "New Very, Very Limited Editions",
-    "date": "December 20, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/oh-shenandoah",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Oh, Shenandoah",
-    "date": "March 13, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/protect-your-brand",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "Protect Your Brand",
-    "date": "January 23, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/sketchiness",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Sketchiness",
-    "date": "November 27, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/stanley",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Stanley & Leon",
-    "date": "June 20, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/ten-years-ater",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Ten Years After",
-    "date": "October 19, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/that-time-priya-visited-hq",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "That Time Priya Visited HQ",
-    "date": "July 14, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/ties-that-bind",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Ties That Bind",
-    "date": "November 7, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/time-flies",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "Time Flies",
-    "date": "March 21, 2017 by Michele"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/upcoming-events",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "Your Chicago To-Do List",
-    "date": "November 7, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/we-go-round-in-circles",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "We Go Round in Circles",
-    "date": "January 9, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/yonder",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Yonder",
-    "date": "March 16, 2017 by Matthew"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/your-reading-list-just-got-longer",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Your Reading List Just Got Longer",
-    "date": "January 25, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2017/zines-and-screens",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "Zines and Screens",
-    "date": "April 12, 2017 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/big-week",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "Big Week",
-    "date": "October 1, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/boxing-days",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Boxing Days",
-    "date": "April 5, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/cock-a-doodle-doo",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Cock-a-Doodle-Doo",
-    "date": "March 2, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/collusion",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Collusion!",
-    "date": "December 3, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/field-notes-friday-film-festival",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Field Notes Friday Film Festival",
-    "date": "May 18, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/hanging-with-friends",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "Hanging with Friends",
-    "date": "July 23, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/hq",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "HQ",
-    "date": "October 22, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/in-good-company",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Mission Specific",
-    "date": "July 18, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/just-add-water",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Just Add Water",
-    "date": "September 21, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/lost-and-found-in-translation",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Lost and Found in Translation",
-    "date": "October 19, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/love",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "That Was Wednesday",
-    "date": "February 14, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/means-a-lot-coming-from-you",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "That Means a Lot Coming From You",
-    "date": "October 4, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/nueva-edici%C3%B3n-regional",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "Nueva Edición Regional",
-    "date": "October 9, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/on-it",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "On It",
-    "date": "April 20, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/on-the-horizon",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "On the Horizon",
-    "date": "January 19, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/origins",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Origins",
-    "date": "January 21, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/our-business",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Our Business",
-    "date": "June 28, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/our-story-checks-out",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Topless",
-    "date": "April 13, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/pree-sheet-sets",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "Press Sheet Sets",
-    "date": "July 12, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/principal-of-design",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "Principal of Design",
-    "date": "September 24, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/quartet",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "Quartet",
-    "date": "November 18, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/resized-and-revised",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "Resized and Revised",
-    "date": "September 24, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/small-steps-and-giant-leaps",
-    "type": "dispatch",
-    "category": null,
-    "title": "Small Steps and Giant Leaps",
-    "date": "June 29, 2018 by Erica"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/some-assembly-required",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Some Assembly Required",
-    "date": "July 12, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/the-complete-clandestine-story",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "International Conspiracy",
-    "date": "December 21, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/today-is-wednesday",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Today is Wednesday",
-    "date": "December 5, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/weve-had-a-problem",
-    "type": "dispatch",
-    "category": "Field Trip",
-    "title": "We’ve Had a Problem",
-    "date": "June 27, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/what-might-have-been",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "What Might Have Been",
-    "date": "April 17, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2018/whole-lotta-love",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Whole Lotta Love",
-    "date": "February 15, 2018 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/always-watching",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Always Watching",
-    "date": "May 2, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/backstage",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "Backstage",
-    "date": "July 30, 2019 by Aaron"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/breaking-news",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "Breaking News",
-    "date": "August 29, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/checking-them-multiple-times-at-least-twice",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Checking Them Multiple Times, or at Least Twice",
-    "date": "December 3, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/do-not-panic",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Do Not Panic",
-    "date": "December 16, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/friend-in-low-places",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Friend in Low Places",
-    "date": "November 21, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/our-nature",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Our Nature",
-    "date": "July 17, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/outer-space-and-under-water",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Outer Space and Under Water",
-    "date": "March 28, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/put-it-there-winners",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Those Who Put It There",
-    "date": "October 17, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/school-days",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "School Days",
-    "date": "June 20, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/so-precious-as-autumnal-sunshine",
-    "type": "dispatch",
-    "category": null,
-    "title": "So Precious as Autumnal Sunshine",
-    "date": "October 1, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/spreadsheetin",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Spreadsheetin’",
-    "date": "December 8, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/survey-says",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Survey Says...",
-    "date": "January 17, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/theyre-not-doing-any-good-just-sitting-in-the-back-room",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "They’re Not Doing Anybody Any Good Just Sitting in the Back Room",
-    "date": "January 16, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/this-way",
-    "type": "dispatch",
-    "category": "HQ Events",
-    "title": "This Way",
-    "date": "April 1, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/today-is-valentines-day",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Today is Valentine’s Day",
-    "date": "February 14, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/well-hello-there",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Well, Hello There",
-    "date": "September 11, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2019/whats-in-a-name",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "What’s in a Name?",
-    "date": "November 21, 2019 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/15-million-acres-in-a-box",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "15 Million Acres in a Box",
-    "date": "November 20, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/about-face",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "About Face",
-    "date": "July 6, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/boxing-day-iii",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Boxing Day III",
-    "date": "March 14, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/cheese-and-quikrete",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "Made of Cheese and Quikrete",
-    "date": "August 21, 2020 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/colorways",
-    "type": "dispatch",
-    "category": null,
-    "title": "Colorways",
-    "date": "November 27, 2020 by Erica"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/eighty-years-field-notes-and-a-couple-cigarettes",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Eighty Years, Field Notes, and a Couple Cigarettes",
-    "date": "January 16, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/empty-bottle-and-a-one-day-deal",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Empty Bottle and a One Day Deal",
-    "date": "January 7, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/eyes-on-the-road",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "Eyes on the Road",
-    "date": "July 10, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/eyes-on-the-road-1",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "Vignetting",
-    "date": "July 24, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/forensic-design",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "Forensic Design",
-    "date": "November 25, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-aaron",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Aaron",
-    "date": "March 19, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-bryan",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Bryan",
-    "date": "March 30, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-dawson",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Dawson",
-    "date": "April 1, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-erica",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Erica",
-    "date": "March 24, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-jim",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Jim",
-    "date": "March 25, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-joe",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Joe",
-    "date": "April 2, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-matt",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Matt",
-    "date": "March 21, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-michele",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Michele",
-    "date": "March 20, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-noah",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Noah",
-    "date": "April 3, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-shea",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Shea",
-    "date": "March 27, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-steve",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Steve",
-    "date": "March 26, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/hello-trina",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hello Trina",
-    "date": "March 31, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/home",
-    "type": "dispatch",
-    "category": "Field Notes Chicago",
-    "title": "Black Lives Matter",
-    "date": "June 9, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/join-the-fleet",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Join the Fleet",
-    "date": "August 26, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/legalese",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Legalese",
-    "date": "June 29, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/lucky-in-love",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Lucky in Love?",
-    "date": "February 14, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/miles-of-adventures",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Miles of Adventures",
-    "date": "October 20, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/movie-of-the-week",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "You’re Wanted on Set!",
-    "date": "April 24, 2020 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/on-set-at-bryans-1",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "On Set at Bryan’s House",
-    "date": "July 31, 2020 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/practical-applications-for-now",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Practical Applications for Now",
-    "date": "April 8, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/sanctum-sanctorum",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Rare Editions & Getting to Know Each Other",
-    "date": "March 17, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/snowmaker",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "Snowmaker",
-    "date": "December 2, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/so-you-know",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "So You Know",
-    "date": "May 18, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/superfast-gift-guide",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Superfast Gift Guide",
-    "date": "December 9, 2020 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/throwing-back",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Throwing Back",
-    "date": "July 9, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/two-on-the-aisle",
-    "type": "dispatch",
-    "category": "Film Archive",
-    "title": "Two on the Aisle",
-    "date": "May 8, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/wednesday-map",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Today is Wednesday",
-    "date": "July 22, 2020 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2020/what-font-is-that",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "“What Font is That?”",
-    "date": "August 27, 2020 by Bryan"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/a-lot",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "A Lot in the Works",
-    "date": "March 3, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/alltrails-x-field-notes",
-    "type": "dispatch",
-    "category": "Partners",
-    "title": "AllTrails × Field Notes",
-    "date": "October 12, 2021 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/back-to-school",
-    "type": "dispatch",
-    "category": "Products",
-    "title": "Back to School",
-    "date": "March 30, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/counting-to-fifty",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Counting to Fifty",
-    "date": "August 3, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/dear-dad-i-got-you-some-field-notes",
-    "type": "dispatch",
-    "category": null,
-    "title": "Dear Dad, I Got You Some Field Notes",
-    "date": "June 11, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/fifty-fifty",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Fifty Fifty",
-    "date": "January 29, 2021 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/fifty-plus-you",
-    "type": "dispatch",
-    "category": "Quarterly Limited-Editions",
-    "title": "Fifty Plus You",
-    "date": "April 28, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/getting-slick",
-    "type": "dispatch",
-    "category": null,
-    "title": "Getting Slick",
-    "date": "December 9, 2021 by Steve"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/half-a-million-acres",
-    "type": "dispatch",
-    "category": "Duly Noted",
-    "title": "Half a Million Acres",
-    "date": "August 9, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/hey-jack",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Hey Jack",
-    "date": "October 26, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/illegible-evidence",
-    "type": "dispatch",
-    "category": "Field Notes in Action",
-    "title": "Illegible Evidence",
-    "date": "December 22, 2021 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/pressing-matters",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Pressing Matters",
-    "date": "February 12, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/tom-petty-was-right",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Tom Petty Was Right",
-    "date": "April 13, 2021 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/we-forget-all-too-soon-the-things-we-thought-we-could-never-forget",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "We Forget All Too Soon the Things We Thought We Could Never Forget",
-    "date": "February 3, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/we-get-mail",
-    "type": "dispatch",
-    "category": "In Action",
-    "title": "We Get Mail",
-    "date": "October 25, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2021/wednesday-winners",
-    "type": "dispatch",
-    "category": "Field News",
-    "title": "Wednesday Winners",
-    "date": "September 2, 2021 by Jim"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2022/good-things-come-in-threes",
-    "type": "dispatch",
-    "category": "Public Service Announcement",
-    "title": "Good Things Come in Threes",
-    "date": "January 7, 2022 by HQ"
-  },
-  {
-    "url": "https://fieldnotesbrand.com/dispatches/2022/today-is-wednesday",
-    "type": "dispatch",
-    "category": "Special Offers",
-    "title": "Today is Wednesday",
-    "date": "February 2, 2022 by Jim"
-  },
-  {
     "url": "https://fieldnotesbrand.com/dispatches/categories/dulynoted",
     "type": "dispatch",
     "category": null,
@@ -2401,6 +840,42 @@
     "availability": "in stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/ambition",
+    "type": "product",
+    "id": "1265",
+    "item": "FNC-25",
+    "title": "Ambition",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2014 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/america-the-beautiful",
+    "type": "product",
+    "id": "1237",
+    "item": "FNC-18",
+    "title": "America the Beautiful",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2013 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/american-tradesman",
+    "type": "product",
+    "id": "1209",
+    "item": "FNC-11",
+    "title": "American Tradesman",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/archival-wooden-box",
     "type": "product",
     "id": "2144",
@@ -2411,6 +886,42 @@
     "details": "Incl. 12 Divider Tabs",
     "price": "39.95",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/arts-and-sciences",
+    "type": "product",
+    "id": "1257",
+    "item": "FNC-23",
+    "title": "Arts and Sciences",
+    "dimensions": "4¾\" x 7½\"",
+    "subtitle": "SUMMER 2014 QUARTERLY EDITION",
+    "details": "TWO 64-PAGE MEMO BOOKS",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/autumn-trilogy",
+    "type": "product",
+    "id": "761128",
+    "item": "FNC-44",
+    "title": "Autumn Trilogy",
+    "dimensions": "Ruled Paper",
+    "subtitle": "FALL 20I9 QUARTERLY EDITION",
+    "details": "Impressions of the Season",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/balsam-fir",
+    "type": "product",
+    "id": "1201",
+    "item": "FNC-09",
+    "title": "Balsam Fir",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2010 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/band-of-rubber",
@@ -2425,6 +936,18 @@
     "availability": "in stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/blackice",
+    "type": "product",
+    "id": "109902",
+    "item": "FNC-33",
+    "title": "Black Ice",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2016 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/brands-hall-rollerball-pen",
     "type": "product",
     "id": "89556",
@@ -2435,6 +958,54 @@
     "details": "Rollerball Pen",
     "price": "160.00",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/butcher-blue",
+    "type": "product",
+    "id": "1063",
+    "item": "FNC-02",
+    "title": "Butcher Extra Blue",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/butcher-orange",
+    "type": "product",
+    "id": "1056",
+    "item": "FNC-01",
+    "title": "Butcher Orange",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2008 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/byline",
+    "type": "product",
+    "id": "15298",
+    "item": "FNC-31",
+    "title": "Byline",
+    "dimensions": "3¾\" × 8\"",
+    "subtitle": "SUMMER 2016 QUARTERLY EDITION",
+    "details": "TWO 70-PAGE NOTEBOOKS",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/campfire",
+    "type": "product",
+    "id": "218865",
+    "item": "FNC-35",
+    "title": "Campfire",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2017 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
+    "price": "12.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/carpenter-pencil-3-pack",
@@ -2473,6 +1044,18 @@
     "availability": "in stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/clandestine",
+    "type": "product",
+    "id": "559002",
+    "item": "FNC-41",
+    "title": "Clandestine",
+    "dimensions": "Dot-Graph Paper",
+    "subtitle": "WINTER 20I8 QUARTERLY EDITION",
+    "details": "Solve the Mystery of the 3-Pack",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/clic-pen-6-packs",
     "type": "product",
     "id": "1499322",
@@ -2482,6 +1065,42 @@
     "subtitle": "Square Deal",
     "details": "Black or Red",
     "price": "9.95",
+    "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/coastal",
+    "type": "product",
+    "id": "398850",
+    "item": "FNC-38a",
+    "title": "Coastal",
+    "dimensions": "Reticle Grid",
+    "subtitle": "SPRING 2018 QUARTERLY EDITION",
+    "details": "Foil-Stamped Coastlines",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/cold-horizon",
+    "type": "product",
+    "id": "1249",
+    "item": "FNC-21",
+    "title": "Cold Horizon",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2013 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/county-fair",
+    "type": "product",
+    "id": "1232639",
+    "item": "FNC-07AL",
+    "title": "County Fair",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2010 LIMITED EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "14.95",
     "availability": "in stock"
   },
   {
@@ -2497,6 +1116,18 @@
     "availability": "in stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/daygame",
+    "type": "product",
+    "id": "1225",
+    "item": "FNC-15",
+    "title": "Day Game",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2012 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/desk-kit",
     "type": "product",
     "id": "246395",
@@ -2507,6 +1138,30 @@
     "details": "1 Planner, 4 Packs, 1 Cover",
     "price": "169.95",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/dimenovel",
+    "type": "product",
+    "id": "268913",
+    "item": "FNC-36",
+    "title": "Dime Novel",
+    "dimensions": "4-1/4\" × 6-1/2\"",
+    "subtitle": "FALL 2017 QUARTERLY EDITION",
+    "details": "Two 72-Page Blank Books",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/drink-local",
+    "type": "product",
+    "id": "1245",
+    "item": "FNC-20",
+    "title": "Drink Local",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2013 QUARTERLY EDITION",
+    "details": "THREE MEMO BOOKS, COASTER",
+    "price": "9.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/drive",
@@ -2521,6 +1176,18 @@
     "availability": "in stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/dry-transfer",
+    "type": "product",
+    "id": "1205",
+    "item": "FNC-10",
+    "title": "Dry Transfer",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/everyday-inspiration-leather-notebook-cover",
     "type": "product",
     "id": "182752",
@@ -2531,6 +1198,42 @@
     "details": "Beautifully Crafted",
     "price": "89.95",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/expedition",
+    "type": "product",
+    "id": "1233",
+    "item": "FNC-17",
+    "title": "Expedition",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "3-Pack",
+    "details": "Waterproof Notebooks",
+    "price": "14.95",
+    "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/fifty",
+    "type": "product",
+    "id": "1277642",
+    "item": "FNC-50",
+    "title": "Fifty",
+    "dimensions": "Graph Paper",
+    "subtitle": "SPRING 202I QUARTERLY EDITION",
+    "details": "Back to Basics",
+    "price": "12.95",
+    "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/fire-spotter",
+    "type": "product",
+    "id": "1213",
+    "item": "FNC-12",
+    "title": "Fire Spotter",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/frontpage",
@@ -2569,6 +1272,30 @@
     "availability": "in stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/grass-stain-green",
+    "type": "product",
+    "id": "1070",
+    "item": "FNC-03",
+    "title": "Grass Stain Green",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/harvest",
+    "type": "product",
+    "id": "1397439",
+    "item": "FNC-52b",
+    "title": "Harvest",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2021 QUARTERLY EDITION",
+    "details": "Perforated Ruled Dot Ledger™",
+    "price": "12.95",
+    "availability": "in stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/haxley",
     "type": "product",
     "id": "341797",
@@ -2591,6 +1318,30 @@
     "details": "Glow-in-the-Dark",
     "price": "95.00",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/ignition",
+    "type": "product",
+    "id": "1426195",
+    "item": "FNC-53",
+    "title": "Ignition",
+    "dimensions": "Waterproof Outside",
+    "subtitle": "WINTER 2021 QUARTERLY EDITION",
+    "details": "Two Planners, One Checklist",
+    "price": "14.95",
+    "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/just-below-zero",
+    "type": "product",
+    "id": "1084",
+    "item": "FNC-05",
+    "title": "Just Below Zero",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/leap-of-faith",
@@ -2617,6 +1368,18 @@
     "availability": "out of stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/lunacy",
+    "type": "product",
+    "id": "74620",
+    "item": "FNC-32",
+    "title": "Lunacy",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2016 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/m-x-l-x-b-x-d",
     "type": "product",
     "id": "373709",
@@ -2626,6 +1389,18 @@
     "subtitle": "Limited Edition",
     "details": "Graph Paper",
     "price": "14.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/mackinaw-autumn",
+    "type": "product",
+    "id": "1077",
+    "item": "FNC-04",
+    "title": "Mackinaw Autumn",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2009 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
     "availability": "out of stock"
   },
   {
@@ -2639,6 +1414,30 @@
     "details": "4 1/4\" × 6 1/2\"",
     "price": "16.95",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/mile-marker",
+    "type": "product",
+    "id": "643937",
+    "item": "FNC-42",
+    "title": "Mile Marker",
+    "dimensions": "Dot-Graph Paper",
+    "subtitle": "SPRING 20I9 QUARTERLY EDITION",
+    "details": "America's Highway System",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/national-crop",
+    "type": "product",
+    "id": "1221",
+    "item": "FNC-14",
+    "title": "National Crop",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2012 QUARTERLY EDITION",
+    "details": "SIX BOOKS, MAP, PATCH",
+    "price": "19.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/national-highway-map",
@@ -2665,6 +1464,30 @@
     "availability": "out of stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/national-parks",
+    "type": "product",
+    "id": "691432",
+    "item": "FNC-43a",
+    "title": "National Parks",
+    "dimensions": "Graph Paper",
+    "subtitle": "6 PACKS, I8 PARKS",
+    "details": "Absolutely American",
+    "price": "14.95",
+    "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/night-sky",
+    "type": "product",
+    "id": "1241",
+    "item": "FNC-19",
+    "title": "Night Sky",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2013 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/no-2-woodgrain-pencil-6-pack",
     "type": "product",
     "id": "2173",
@@ -2677,6 +1500,18 @@
     "availability": "in stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/northerly",
+    "type": "product",
+    "id": "1217",
+    "item": "FNC-13",
+    "title": "Northerly",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2011 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/original-kraft",
     "type": "product",
     "id": "182722",
@@ -2687,6 +1522,18 @@
     "details": "Graph, Ruled, Plain, Mixed",
     "price": "11.95",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/packet-of-sunshine",
+    "type": "product",
+    "id": "1091",
+    "item": "FNC-06",
+    "title": "Packet of Sunshine",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2010 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/pitch-black-memo-book",
@@ -2745,6 +1592,30 @@
     "dimensions": "Dot-Graph Paper",
     "subtitle": "LIMITED EDITION 3-Pack",
     "details": "A Field Notes/Film First Joint",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/ravens-wing",
+    "type": "product",
+    "id": "1197",
+    "item": "FNC-08",
+    "title": "Raven’s Wing",
+    "dimensions": null,
+    "subtitle": "FALL 2010 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/resolution",
+    "type": "product",
+    "id": "307938",
+    "item": "FNC-37",
+    "title": "Resolution",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2017 QUARTERLY EDITION",
+    "details": "Checklist & Date Books",
     "price": "12.95",
     "availability": "out of stock"
   },
@@ -2821,6 +1692,30 @@
     "availability": "out of stock"
   },
   {
+    "url": "https://fieldnotesbrand.com/products/shelterwood",
+    "type": "product",
+    "id": "1253",
+    "item": "FNC-22",
+    "title": "Shelterwood",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2014 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/shenandoah",
+    "type": "product",
+    "id": "16",
+    "item": "FNC-28",
+    "title": "Shenandoah",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2015 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
     "url": "https://fieldnotesbrand.com/products/signature-sketchbook-notebook",
     "type": "product",
     "id": "378023",
@@ -2830,6 +1725,30 @@
     "subtitle": "2-Pack • 4-1/4\" × 6-1/2\"",
     "details": "Out of Stock",
     "price": "14.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/snowblind",
+    "type": "product",
+    "id": "1548",
+    "item": "FNC-29",
+    "title": "Snowblind",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "WINTER 2015 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/snowy-evening",
+    "type": "product",
+    "id": "1098176",
+    "item": "FNC-49",
+    "title": "Snowy Evening",
+    "dimensions": "Flake Grid",
+    "subtitle": "WINTER 2020 QUARTERLY EDITION",
+    "details": "99,999 Versions",
+    "price": "12.95",
     "availability": "out of stock"
   },
   {
@@ -2855,6 +1774,114 @@
     "details": "Gregg-Ruled",
     "price": "12.95",
     "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/sweet-tooth",
+    "type": "product",
+    "id": "5902",
+    "item": "FNC-30",
+    "title": "Sweet Tooth",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2016 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/tenth",
+    "type": "product",
+    "id": "307966",
+    "item": "FN-38",
+    "title": "Tenth Anniversary Edition",
+    "dimensions": "3-1/2\" × 5-1/2\"",
+    "subtitle": "FN-38",
+    "details": "Three 32-Page Memo Books",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/trailhead",
+    "type": "product",
+    "id": "1346978",
+    "item": "FNC-51",
+    "title": "Trailhead",
+    "dimensions": "Ruled Paper",
+    "subtitle": "SUMMER 2021 QUARTERLY EDITION",
+    "details": "Three Great Paths",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/traveling-salesman",
+    "type": "product",
+    "id": "1229",
+    "item": "FNC-16",
+    "title": "Traveling Salesman",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2012 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/two-rivers",
+    "type": "product",
+    "id": "1269",
+    "item": "FNC-26",
+    "title": "Two Rivers",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2015 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/unexposed",
+    "type": "product",
+    "id": "1261",
+    "item": "FNC-24",
+    "title": "Unexposed",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "FALL 2014 QUARTERLY EDITION",
+    "details": "THREE 48-PAGE MEMO BOOKS",
+    "price": "9.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/united-states-of-letterpress",
+    "type": "product",
+    "id": "1056510",
+    "item": "FNC-48a",
+    "title": "United States of Letterpress",
+    "dimensions": "Graph Paper",
+    "subtitle": "FALL 2020 QUARTERLY EDITION",
+    "details": "Three Packs, Nine Voices",
+    "price": "12.95",
+    "availability": "in stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/utility",
+    "type": "product",
+    "id": "1232538",
+    "item": "FNC-34a",
+    "title": "Utility",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SPRING 2017 QUARTERLY EDITION",
+    "details": "Three 48-Page Memo Books",
+    "price": "12.95",
+    "availability": "out of stock"
+  },
+  {
+    "url": "https://fieldnotesbrand.com/products/workshop-companion",
+    "type": "product",
+    "id": "1273",
+    "item": "FNC-27",
+    "title": "Workshop Companion",
+    "dimensions": "3½\" × 5½\"",
+    "subtitle": "SUMMER 2015 QUARTERLY EDITION",
+    "details": "SIX 48-PAGE MEMO BOOKS",
+    "price": "19.95",
+    "availability": "out of stock"
   },
   {
     "url": "https://fieldnotesbrand.com/products/workstation-wall-calendar",
