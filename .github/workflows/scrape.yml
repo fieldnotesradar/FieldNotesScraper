@@ -1,28 +1,28 @@
 name: Scrape
 on:
   push:
-  # schedule:
-  # - cron: "* * * * *"
+  schedule:
+  - cron: "* * * * *"
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - run: pip install scrapy arrow
-      # - run: scrapy runspider scrape.py -a minutes=6000 -O updates.json
-      - run: scrapy runspider scrape.py -O updates.json
+      # TODO: figure out last time workflow was run vs hardcoding 60 min
+      - run: scrapy runspider scrape.py -a minutes=60 -O updates.json
       - run: python merge.py
       - uses: EndBug/add-and-commit@v8
         id: commit
         with:
           default_author: user_info
-          message: 'Update Field Notes Brand site data'
+          message: 'Update Field Notes tracked website data'
           add: 'results.json'
-      # - uses: ethomson/send-tweet-action@v1
-      #   if: steps.commit.outputs.committed == 'true'
-      #   with:
-      #     status: "Field Notes Brand site has been updated! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
-      #     consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
-      #     consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
-      #     access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-      #     access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+      - uses: ethomson/send-tweet-action@v1
+        if: steps.commit.outputs.committed == 'true'
+        with:
+          status: "An update has been detected on the Field Notes website! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
+          consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
+          consumer-secret: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
+          access-token: ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          access-token-secret: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
