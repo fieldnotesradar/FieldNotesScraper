@@ -1,1 +1,43 @@
-{}
+{
+    "https://fieldnotesbrand.com/products/leap-of-faith": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "1468658",
+                        "old": null
+                    },
+                    "item": {
+                        "new": "DDC-054-LoF",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "14.95",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Leap of Faith",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-19T23:17:07.574941+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "id": "1468658",
+            "item": "DDC-054-LoF",
+            "price": "14.95",
+            "title": "Leap of Faith",
+            "type": "product"
+        }
+    }
+}
