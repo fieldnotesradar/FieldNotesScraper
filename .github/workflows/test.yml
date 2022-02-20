@@ -3,12 +3,10 @@ on:
   workflow_dispatch:
     inputs:
       range:
-        description: 'Range to search in minutes'     
-        required: true
+        description: 'Range to search in minutes'
         default: '60'
       tweet:
-        description: 'Enable Tweet'     
-        required: true
+        description: 'Enable Tweet'
         default: true
         type: boolean
   push:
@@ -19,6 +17,8 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
+      - run: echo "RANGE=" >> $GITHUB_ENV
+        if: ${{ env.TWEET }}
       - run: echo "scrapy runspider scrape.py -O updates.json -a minutes=$RANGE"
       - run: echo "tweeting!"
         if: ${{ env.TWEET }}
