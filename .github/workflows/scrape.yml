@@ -3,17 +3,17 @@ on:
   workflow_dispatch:
     inputs:
       range:
-        description: 'Range to search in minutes'
+        description: 'Lookback range in minutes (leave empty for full search)'
         default: '60'
       tweet:
-        description: 'Enable Tweet'
+        description: 'Allow Tweet if changes are detected'
         default: true
         type: boolean
   schedule:
   - cron: '* * * * *' # continuous
   - cron: '12 3 * * *' # daily
 env:
-  RANGE: ${{ github.event.inputs.range || '60' }}
+  RANGE: ${{ github.event.inputs.range }}
   TWEET: ${{ github.event.inputs.tweet || true }}
 jobs:
   scrape:
@@ -22,9 +22,11 @@ jobs:
       # set range to zero if running nightly
       - run: echo "RANGE=" >> $GITHUB_ENV
         if: github.event.schedule == '12 3 * * *'
+      # TODO: set range to last time workflow ran
+      - run: echo "RANGE=60" >> $GITHUB_ENV
+        if: github.event.schedule == '* * * * *'
       - uses: actions/checkout@v2
       - run: pip install scrapy arrow
-      # TODO: figure out last time workflow was run vs hardcoding 60 min
       - run: scrapy runspider scrape.py -O updates.json -a minutes=$RANGE
       - run: python merge.py
       - uses: EndBug/add-and-commit@v8
