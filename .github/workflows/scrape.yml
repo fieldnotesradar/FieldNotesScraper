@@ -1,18 +1,31 @@
 name: Scrape
 on:
-  # TODO: manually trigger with minute as input
-  push:
+  workflow_dispatch:
+    inputs:
+      range:
+        description: 'Range to search in minutes'
+        default: '60'
+      tweet:
+        description: 'Enable Tweet'
+        default: true
+        type: boolean
   schedule:
   - cron: '* * * * *' # continuous
-  #- cron: '12 3 * * *' # daily
+  - cron: '12 3 * * *' # daily
+env:
+  RANGE: ${{ github.event.inputs.range || '60' }}
+  TWEET: ${{ github.event.inputs.tweet || true }}
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
+      # set range to zero if running nightly
+      - run: echo "RANGE=" >> $GITHUB_ENV
+        if: github.event.schedule == '12 3 * * *'
       - uses: actions/checkout@v2
       - run: pip install scrapy arrow
       # TODO: figure out last time workflow was run vs hardcoding 60 min
-      - run: scrapy runspider scrape.py -O updates.json -a minutes=60
+      - run: scrapy runspider scrape.py -O updates.json -a minutes=$RANGE
       - run: python merge.py
       - uses: EndBug/add-and-commit@v8
         id: commit
@@ -21,7 +34,7 @@ jobs:
           message: 'Update Field Notes tracked website data'
           add: 'results.json'
       - uses: ethomson/send-tweet-action@v1
-        if: steps.commit.outputs.committed == 'true'
+        if: steps.commit.outputs.committed == 'true' && ${{ env.TWEET }}
         with:
           status: "An update has been detected on the Field Notes website! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
           consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}

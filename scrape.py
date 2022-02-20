@@ -23,7 +23,7 @@ class MySpider(SitemapSpider):
     def sitemap_filter(self, entries):
         minutes = getattr(self, 'minutes', None)
         for entry in entries:
-            if minutes is not None:
+            if minutes:
                 lastmod = arrow.get(entry['lastmod']).to('utc')
                 if (arrow.utcnow() - lastmod) <= timedelta(minutes=int(minutes)):
                     yield entry
