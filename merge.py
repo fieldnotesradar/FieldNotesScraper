@@ -17,7 +17,7 @@ for update in updates:
             changes = {}
             for key, value in data.items():
                 update_value = value
-                result_value = results[url]['data'][key]
+                result_value = results[url]['data'].get(key)
                 if update_value != result_value:
                     changes[key] = {'old': result_value, 'new': update_value}
             if changes:
