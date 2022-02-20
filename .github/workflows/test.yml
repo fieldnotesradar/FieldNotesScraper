@@ -18,9 +18,6 @@ env:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    env:
-      RANGE: '60'
-      TWEET: true
     steps:
       - run: echo "scrapy runspider scrape.py -O updates.json -a minutes=$RANGE"
       - run: echo "tweeting!"
