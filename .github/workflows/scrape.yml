@@ -10,7 +10,7 @@ jobs:
       - uses: actions/checkout@v2
       - run: pip install scrapy arrow
       # TODO: figure out last time workflow was run vs hardcoding 60 min
-      - run: scrapy runspider scrape.py -a minutes=60 -O updates.json
+      - run: scrapy runspider scrape.py -O updates.json # -a minutes=60
       - run: python merge.py
       - uses: EndBug/add-and-commit@v8
         id: commit
