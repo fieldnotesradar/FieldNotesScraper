@@ -1,8 +1,10 @@
 name: Scrape
 on:
+  # TODO: manually trigger with minute as input
   push:
   schedule:
-  - cron: "* * * * *"
+  - cron: '* * * * *' # continuous
+  - cron: '12 3 * * *' # daily
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -10,7 +12,10 @@ jobs:
       - uses: actions/checkout@v2
       - run: pip install scrapy arrow
       # TODO: figure out last time workflow was run vs hardcoding 60 min
-      - run: scrapy runspider scrape.py -O updates.json # -a minutes=60
+      - run: scrapy runspider scrape.py -O updates.json -a minutes=60
+        if: github.event.schedule == '* * * * *'
+      - run: scrapy runspider scrape.py -O updates.json
+        if: github.event.schedule == '12 3 * * *'
       - run: python merge.py
       - uses: EndBug/add-and-commit@v8
         id: commit
