@@ -38,7 +38,7 @@
     </nav>
 
     <div class="container">
-        <div id="content"></div>
+        <div id="content" class="row"></div>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js"
@@ -58,12 +58,21 @@
         function appendData(data) {
             var mainContainer = document.getElementById("content");
             for (var key in data) {
-                var div = document.createElement("div");
                 var values = data[key].data;
                 if (values.type === 'product') {
-                    div.innerHTML = `<a href="${key}">${values.title}</a>`;
+                    var div = document.createElement("div");
+                    div.className = 'col-md-4';
+                    div.innerHTML = `
+                    <div class="card">
+                        <div class="card-body">
+                            <h5 class="card-title">${values.title} (${values.code})</h5>
+                            <h6 class="card-subtitle mb-2 text-muted">${values.availability}</h6>
+                            <p class="card-text">${values.subtitle}<br>${values.details}<br>${values.dimensions}</p>
+                            <a href="${key}" class="card-link">See on Field Notes</a>
+                        </div>
+                    </div>`;
+                    mainContainer.appendChild(div);
                 }
-                mainContainer.appendChild(div);
             }
         }
     </script>
