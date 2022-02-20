@@ -14,7 +14,7 @@ on:
   push:
 env:
   RANGE: ${{ github.event.inputs.range || '60' }}
-  RANGE: ${{ github.event.inputs.tweet || true }}
+  TWEET: ${{ github.event.inputs.tweet || true }}
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -24,4 +24,4 @@ jobs:
     steps:
       - run: echo "scrapy runspider scrape.py -O updates.json -a minutes=$RANGE"
       - run: echo "tweeting!"
-        if: ${{ env.TAG }}
+        if: ${{ env.TWEET }}
