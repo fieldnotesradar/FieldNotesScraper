@@ -32,8 +32,7 @@ jobs:
       - uses: EndBug/add-and-commit@v8
         id: commit
         with:
-          default_author: user_info
-          message: 'Update Field Notes tracked website data'
+          message: 'Update tracked Field Notes website data'
           add: 'results.json'
       - uses: ethomson/send-tweet-action@v1
         if: ${{ steps.commit.outputs.committed == 'true' &&  env.TWEET }}
