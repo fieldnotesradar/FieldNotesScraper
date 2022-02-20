@@ -10279,11 +10279,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451775+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "dulynoted",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473563+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "dulynoted",
             "title": null,
             "type": "dispatch"
         }
@@ -10310,11 +10325,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451759+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "events",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473555+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "events",
             "title": null,
             "type": "dispatch"
         }
@@ -10341,11 +10371,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451814+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "field-news",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473620+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "field-news",
             "title": null,
             "type": "dispatch"
         }
@@ -10372,11 +10417,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451755+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "field-notes-brand-books",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473572+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "field-notes-brand-books",
             "title": null,
             "type": "dispatch"
         }
@@ -10403,11 +10463,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451763+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "field-notes-chicago",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473525+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "field-notes-chicago",
             "title": null,
             "type": "dispatch"
         }
@@ -10434,11 +10509,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451808+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "field-notes-in-action",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473605+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "field-notes-in-action",
             "title": null,
             "type": "dispatch"
         }
@@ -10465,11 +10555,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451789+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "field-notes-public-service-announcement",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473593+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "field-notes-public-service-announcement",
             "title": null,
             "type": "dispatch"
         }
@@ -10496,11 +10601,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451780+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "fieldtrip",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473678+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "fieldtrip",
             "title": null,
             "type": "dispatch"
         }
@@ -10527,11 +10647,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451770+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "film-archive",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473580+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "film-archive",
             "title": null,
             "type": "dispatch"
         }
@@ -10558,11 +10693,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451833+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "in-action",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473630+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "in-action",
             "title": null,
             "type": "dispatch"
         }
@@ -10589,11 +10739,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451829+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "memoarchive",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473615+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "memoarchive",
             "title": null,
             "type": "dispatch"
         }
@@ -10620,11 +10785,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451797+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "partners",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473586+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "partners",
             "title": null,
             "type": "dispatch"
         }
@@ -10651,11 +10831,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451804+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "products",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473691+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "products",
             "title": null,
             "type": "dispatch"
         }
@@ -10682,11 +10877,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451793+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "quarterly",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473610+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "quarterly",
             "title": null,
             "type": "dispatch"
         }
@@ -10713,11 +10923,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451825+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "retail-additions",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473663+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "retail-additions",
             "title": null,
             "type": "dispatch"
         }
@@ -10744,11 +10969,26 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451818+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "special-offers",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-20T15:33:10.473599+00:00"
             }
         ],
         "data": {
             "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
+            "id": "special-offers",
             "title": null,
             "type": "dispatch"
         }
