@@ -15936,13 +15936,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450903+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-34d",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "956fd6a299fa9f00cce4a1222af6f413",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "blue-book",
+                        "old": "268929"
+                    },
+                    "retailerItemId": {
+                        "new": "268929",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872474+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "268929",
-            "item": "FNC-34d",
+            "code": "FNC-34d",
+            "contentHash": "956fd6a299fa9f00cce4a1222af6f413",
+            "details": "",
+            "dimensions": null,
+            "id": "blue-book",
             "price": "0.00",
+            "retailerItemId": "268929",
+            "subtitle": "",
             "title": "Blue Book",
             "type": "product"
         }
@@ -16917,13 +16951,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450863+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-30a",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "4c48c3d3905e2254de3abed9444d9f47",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "commemorative-reprint-2-pack",
+                        "old": "13249"
+                    },
+                    "retailerItemId": {
+                        "new": "13249",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872457+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "13249",
-            "item": "FNC-30a",
+            "code": "FNC-30a",
+            "contentHash": "4c48c3d3905e2254de3abed9444d9f47",
+            "details": "",
+            "dimensions": null,
+            "id": "commemorative-reprint-2-pack",
             "price": "0.00",
+            "retailerItemId": "13249",
+            "subtitle": "",
             "title": "Personalized Reprints",
             "type": "product"
         }
@@ -17195,13 +17263,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450552+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "DDC-54",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "44077940627d2e2fc9532044b9b4a0d0",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "48 Pages",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "deader-prints",
+                        "old": "966990"
+                    },
+                    "retailerItemId": {
+                        "new": "966990",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "3-Pack Graph Paper Memo Books",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872285+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "966990",
-            "item": "DDC-54",
+            "code": "DDC-54",
+            "contentHash": "44077940627d2e2fc9532044b9b4a0d0",
+            "details": "",
+            "dimensions": "48 Pages",
+            "id": "deader-prints",
             "price": "14.95",
+            "retailerItemId": "966990",
+            "subtitle": "3-Pack Graph Paper Memo Books",
             "title": "Deader Prints",
             "type": "product"
         }
@@ -17668,13 +17774,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450501+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNxEB01",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "1d9795a6922557316e7c5e9219cd8c0f",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "48 Pages",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "empty-bottle",
+                        "old": "876745"
+                    },
+                    "retailerItemId": {
+                        "new": "876745",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "3-Pack Graph Paper Memo Books",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872045+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "876745",
-            "item": "FNxEB01",
+            "code": "FNxEB01",
+            "contentHash": "1d9795a6922557316e7c5e9219cd8c0f",
+            "details": "",
+            "dimensions": "48 Pages",
+            "id": "empty-bottle",
             "price": "14.95",
+            "retailerItemId": "876745",
+            "subtitle": "3-Pack Graph Paper Memo Books",
             "title": "Empty Bottle",
             "type": "product"
         }
@@ -17709,13 +17853,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450627+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNP-EB01",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "10054f013658d6c3a97ee72737178159",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "empty-bottle-press-sheet",
+                        "old": "877510"
+                    },
+                    "retailerItemId": {
+                        "new": "877510",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "20\"\u00d726\" \u2022 Frame It Up",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872709+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "877510",
-            "item": "FNP-EB01",
+            "code": "FNP-EB01",
+            "contentHash": "10054f013658d6c3a97ee72737178159",
+            "details": "",
+            "dimensions": null,
+            "id": "empty-bottle-press-sheet",
             "price": "20.00",
+            "retailerItemId": "877510",
+            "subtitle": "20\"\u00d726\" \u2022 Frame It Up",
             "title": "Empty Bottle Press Sheet",
             "type": "product"
         }
@@ -17750,13 +17928,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450888+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-40",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "251fb6bf78ef0e68b555ffd2bcaa7a6c",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "Ruled Paper",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "end-papers",
+                        "old": "510298"
+                    },
+                    "retailerItemId": {
+                        "new": "510298",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "FALL 2018 QUARTERLY EDITION",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872496+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "510298",
-            "item": "FNC-40",
+            "code": "FNC-40",
+            "contentHash": "251fb6bf78ef0e68b555ffd2bcaa7a6c",
+            "details": "",
+            "dimensions": "Ruled Paper",
+            "id": "end-papers",
             "price": "12.95",
+            "retailerItemId": "510298",
+            "subtitle": "FALL 2018 QUARTERLY EDITION",
             "title": "End Papers",
             "type": "product"
         }
@@ -17945,13 +18161,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451007+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FN-SUB56P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "a0ccf7ef6515889321323b4c00a2c6d2",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "fall-2022",
+                        "old": "1419585"
+                    },
+                    "retailerItemId": {
+                        "new": "1419585",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872609+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1419585",
-            "item": "FN-SUB56P",
+            "code": "FN-SUB56P",
+            "contentHash": "a0ccf7ef6515889321323b4c00a2c6d2",
+            "details": "",
+            "dimensions": null,
+            "id": "fall-2022",
             "price": "120.00",
+            "retailerItemId": "1419585",
+            "subtitle": "",
             "title": "Fall 2022 Quarterly Edition",
             "type": "product"
         }
@@ -18365,13 +18615,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450451+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNxG-01",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "88c0168293c4fadf2f3caf82ab795c2c",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "3\u00bd\" \u00d7 5\u00bd\"",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "graduate",
+                        "old": "686978"
+                    },
+                    "retailerItemId": {
+                        "new": "686978",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "3-Pack Ruled Memo Books",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872034+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "686978",
-            "item": "FNxG-01",
+            "code": "FNxG-01",
+            "contentHash": "88c0168293c4fadf2f3caf82ab795c2c",
+            "details": "",
+            "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
+            "id": "graduate",
             "price": "12.95",
+            "retailerItemId": "686978",
+            "subtitle": "3-Pack Ruled Memo Books",
             "title": "Graduate Hotels",
             "type": "product"
         }
@@ -18485,13 +18773,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450956+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-45",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "a5037031b36cdcc6becd7dd8539e994f",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "Dot-Graph Paper",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "group-eleven",
+                        "old": "811704"
+                    },
+                    "retailerItemId": {
+                        "new": "811704",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "WINTER 20I9 QUARTERLY EDITION",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872529+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "811704",
-            "item": "FNC-45",
+            "code": "FNC-45",
+            "contentHash": "a5037031b36cdcc6becd7dd8539e994f",
+            "details": "",
+            "dimensions": "Dot-Graph Paper",
+            "id": "group-eleven",
             "price": "12.95",
+            "retailerItemId": "811704",
+            "subtitle": "WINTER 20I9 QUARTERLY EDITION",
             "title": "Group Eleven",
             "type": "product"
         }
@@ -18605,13 +18931,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450662+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNP-52",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "69c28a6daa6756bb762b0f02935cc779",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "harvest-press-sheet",
+                        "old": "1406503"
+                    },
+                    "retailerItemId": {
+                        "new": "1406503",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "28\" \u00d7 40\"",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872733+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1406503",
-            "item": "FNP-52",
+            "code": "FNP-52",
+            "contentHash": "69c28a6daa6756bb762b0f02935cc779",
+            "details": "",
+            "dimensions": null,
+            "id": "harvest-press-sheet",
             "price": "95.00",
+            "retailerItemId": "1406503",
+            "subtitle": "28\" \u00d7 40\"",
             "title": "Harvest Press Sheet",
             "type": "product"
         }
@@ -18796,13 +19156,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450962+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-47",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "c1a18a6c782d0afb7b5ff6429f6783d2",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "3\u00bd\" \u00d7 5\u00bd\"",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "heavy-duty",
+                        "old": "986285"
+                    },
+                    "retailerItemId": {
+                        "new": "986285",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Memo-Sized Work Book 2-Pack",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872560+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "986285",
-            "item": "FNC-47",
+            "code": "FNC-47",
+            "contentHash": "c1a18a6c782d0afb7b5ff6429f6783d2",
+            "details": "",
+            "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
+            "id": "heavy-duty",
             "price": "14.95",
+            "retailerItemId": "986285",
+            "subtitle": "Memo-Sized Work Book 2-Pack",
             "title": "Heavy Duty",
             "type": "product"
         }
@@ -19856,13 +20254,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450653+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-43wd",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "1b9dbd9ddc7051d5e52b91242206bafc",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "national-parks-decal",
+                        "old": "1032970"
+                    },
+                    "retailerItemId": {
+                        "new": "1032970",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Permanent Water-Transfer",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872721+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1032970",
-            "item": "FNC-43wd",
+            "code": "FNC-43wd",
+            "contentHash": "1b9dbd9ddc7051d5e52b91242206bafc",
+            "details": "",
+            "dimensions": null,
+            "id": "national-parks-decal",
             "price": "5.95",
+            "retailerItemId": "1032970",
+            "subtitle": "Permanent Water-Transfer",
             "title": "National Parks Water Transfer Decal",
             "type": "product"
         }
@@ -19897,13 +20329,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450609+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNP-43a",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "9de4ddcd7ca9ad6c13c05f0990ef2b4d",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "national-parks-press-sheet",
+                        "old": "717483"
+                    },
+                    "retailerItemId": {
+                        "new": "717483",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "26\" x 40\"",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872681+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "717483",
-            "item": "FNP-43a",
+            "code": "FNP-43a",
+            "contentHash": "9de4ddcd7ca9ad6c13c05f0990ef2b4d",
+            "details": "",
+            "dimensions": null,
+            "id": "national-parks-press-sheet",
             "price": "95.00",
+            "retailerItemId": "717483",
+            "subtitle": "26\" x 40\"",
             "title": "National Parks Press Sheets",
             "type": "product"
         }
@@ -20329,13 +20795,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450574+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FN-40",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "0ce129077fc90ec0b9793bf641dd6d39",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "pencil-case",
+                        "old": "341802"
+                    },
+                    "retailerItemId": {
+                        "new": "341802",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872652+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "341802",
-            "item": "FN-40",
+            "code": "FN-40",
+            "contentHash": "0ce129077fc90ec0b9793bf641dd6d39",
+            "details": "",
+            "dimensions": null,
+            "id": "pencil-case",
             "price": "39.95",
+            "retailerItemId": "341802",
+            "subtitle": "",
             "title": "Zippered Pencil Case",
             "type": "product"
         }
@@ -21784,13 +22284,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450657+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNP-49",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "907151efbbbc74103bf4b7af0d48f8bf",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "snowy-evening-press-sheet",
+                        "old": "1165202"
+                    },
+                    "retailerItemId": {
+                        "new": "1165202",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "19\" \u00d7 13\"",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872743+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1165202",
-            "item": "FNP-49",
+            "code": "FNP-49",
+            "contentHash": "907151efbbbc74103bf4b7af0d48f8bf",
+            "details": "",
+            "dimensions": null,
+            "id": "snowy-evening-press-sheet",
             "price": "24.00",
+            "retailerItemId": "1165202",
+            "subtitle": "19\" \u00d7 13\"",
             "title": "Snowy Evening Press Sheet",
             "type": "product"
         }
@@ -21904,13 +22438,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450982+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FN-SUB54P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "18f0712113d244e1108f44a6bad5603d",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "spring-2022",
+                        "old": "1329407"
+                    },
+                    "retailerItemId": {
+                        "new": "1329407",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872585+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1329407",
-            "item": "FN-SUB54P",
+            "code": "FN-SUB54P",
+            "contentHash": "18f0712113d244e1108f44a6bad5603d",
+            "details": "",
+            "dimensions": null,
+            "id": "spring-2022",
             "price": "120.00",
+            "retailerItemId": "1329407",
+            "subtitle": "",
             "title": "Spring 2022 Quarterly Edition",
             "type": "product"
         }
@@ -21945,13 +22513,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450559+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNK-01",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "97d3704f545cbbfe049b961c62f3c56d",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "starter-kit",
+                        "old": "246382"
+                    },
+                    "retailerItemId": {
+                        "new": "246382",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "A Small Sampling",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872640+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "246382",
-            "item": "FNK-01",
+            "code": "FNK-01",
+            "contentHash": "97d3704f545cbbfe049b961c62f3c56d",
+            "details": "",
+            "dimensions": null,
+            "id": "starter-kit",
             "price": "24.95",
+            "retailerItemId": "246382",
+            "subtitle": "A Small Sampling",
             "title": "Starter Kit",
             "type": "product"
         }
@@ -22065,13 +22667,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451025+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FN-SUB55P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "9268e66d7d6d06b8e3ca478e1e498765",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "summer-2022",
+                        "old": "1354155"
+                    },
+                    "retailerItemId": {
+                        "new": "1354155",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872597+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1354155",
-            "item": "FN-SUB55P",
+            "code": "FN-SUB55P",
+            "contentHash": "9268e66d7d6d06b8e3ca478e1e498765",
+            "details": "",
+            "dimensions": null,
+            "id": "summer-2022",
             "price": "120.00",
+            "retailerItemId": "1354155",
+            "subtitle": "",
             "title": "Summer 2022 Quarterly Edition",
             "type": "product"
         }
@@ -22264,13 +22900,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450909+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-39",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "b9c56f963f8c50c94cfbfaf21d373dfa",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "Graph Paper",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "three-missions",
+                        "old": "450988"
+                    },
+                    "retailerItemId": {
+                        "new": "450988",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "SUMMER 2018 QUARTERLY EDITION",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872505+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "450988",
-            "item": "FNC-39",
+            "code": "FNC-39",
+            "contentHash": "b9c56f963f8c50c94cfbfaf21d373dfa",
+            "details": "",
+            "dimensions": "Graph Paper",
+            "id": "three-missions",
             "price": "12.95",
+            "retailerItemId": "450988",
+            "subtitle": "SUMMER 2018 QUARTERLY EDITION",
             "title": "Three Missions",
             "type": "product"
         }
@@ -22305,13 +22979,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450640+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-39e",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "8831f7020c9d9a17e1556f568e49a71e",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "three-missions-press-sheet-set",
+                        "old": "488917"
+                    },
+                    "retailerItemId": {
+                        "new": "488917",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Two Uncut Sheets \u2022 Frame \u2019Em Up",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872666+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "488917",
-            "item": "FNC-39e",
+            "code": "FNC-39e",
+            "contentHash": "8831f7020c9d9a17e1556f568e49a71e",
+            "details": "",
+            "dimensions": null,
+            "id": "three-missions-press-sheet-set",
             "price": "50.00",
+            "retailerItemId": "488917",
+            "subtitle": "Two Uncut Sheets \u2022 Frame \u2019Em Up",
             "title": "Three Missions Press Sheet Set",
             "type": "product"
         }
@@ -22583,13 +23291,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450512+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNxRM-01",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "5f672dcd1402e0b1ab6f14552fdbd81b",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "3\u00bd\" \u00d7 5\u00bd\"",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "underland",
+                        "old": "1242793"
+                    },
+                    "retailerItemId": {
+                        "new": "1242793",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "3-Pack Ruled Memo Books",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872300+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1242793",
-            "item": "FNxRM-01",
+            "code": "FNxRM-01",
+            "contentHash": "5f672dcd1402e0b1ab6f14552fdbd81b",
+            "details": "",
+            "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
+            "id": "underland",
             "price": "14.95",
+            "retailerItemId": "1242793",
+            "subtitle": "3-Pack Ruled Memo Books",
             "title": "Underland",
             "type": "product"
         }
@@ -22861,13 +23607,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450946+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNC-46",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "e2c64d454b7385bef58f34a6e6ba02ce",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "3\u00bd\" \u00d7 5\u00bd\"",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "vignette",
+                        "old": "904896"
+                    },
+                    "retailerItemId": {
+                        "new": "904896",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "SPRING 2020 QUARTERLY EDITION",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872539+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "904896",
-            "item": "FNC-46",
+            "code": "FNC-46",
+            "contentHash": "e2c64d454b7385bef58f34a6e6ba02ce",
+            "details": "",
+            "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
+            "id": "vignette",
             "price": "12.95",
+            "retailerItemId": "904896",
+            "subtitle": "SPRING 2020 QUARTERLY EDITION",
             "title": "Vignette",
             "type": "product"
         }
@@ -22902,13 +23686,51 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450443+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNxW01",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "fcc5122f113719c3596522e1bd6fb2e3",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "Dot-Graph Paper",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "wilco",
+                        "old": "733315"
+                    },
+                    "retailerItemId": {
+                        "new": "733315",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "BOX SET of 6 Memo Books",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.871990+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "733315",
-            "item": "FNxW01",
+            "code": "FNxW01",
+            "contentHash": "fcc5122f113719c3596522e1bd6fb2e3",
+            "details": "",
+            "dimensions": "Dot-Graph Paper",
+            "id": "wilco",
             "price": "27.95",
+            "retailerItemId": "733315",
+            "subtitle": "BOX SET of 6 Memo Books",
             "title": "Wilco",
             "type": "product"
         }
@@ -22943,13 +23765,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450622+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNxW01a",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "c59694ba423c6d15af9c48ae83be8987",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "wilco-press-sheet-set",
+                        "old": "736909"
+                    },
+                    "retailerItemId": {
+                        "new": "736909",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Two Sheets \u2022 Frame \u2019Em Up",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872691+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "736909",
-            "item": "FNxW01a",
+            "code": "FNxW01a",
+            "contentHash": "c59694ba423c6d15af9c48ae83be8987",
+            "details": "",
+            "dimensions": null,
+            "id": "wilco-press-sheet-set",
             "price": "95.00",
+            "retailerItemId": "736909",
+            "subtitle": "Two Sheets \u2022 Frame \u2019Em Up",
             "title": "Wilco Press Sheet Set",
             "type": "product"
         }
@@ -22984,13 +23840,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450991+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FN-SUB53P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "fcdb36bb6385bc41fa005b59f5e4c537",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "winter-2021",
+                        "old": "1086699"
+                    },
+                    "retailerItemId": {
+                        "new": "1086699",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872548+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "id": "1086699",
-            "item": "FN-SUB53P",
+            "code": "FN-SUB53P",
+            "contentHash": "fcdb36bb6385bc41fa005b59f5e4c537",
+            "details": "",
+            "dimensions": null,
+            "id": "winter-2021",
             "price": "120.00",
+            "retailerItemId": "1086699",
+            "subtitle": "",
             "title": "Winter 2021 Quarterly Edition",
             "type": "product"
         }
@@ -23025,13 +23915,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.451032+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FN-SUB57P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "6cf779a0d57bb2ec0dc7f376797fd929",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "winter-2022",
+                        "old": "1419588"
+                    },
+                    "retailerItemId": {
+                        "new": "1419588",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872619+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "1419588",
-            "item": "FN-SUB57P",
+            "code": "FN-SUB57P",
+            "contentHash": "6cf779a0d57bb2ec0dc7f376797fd929",
+            "details": "",
+            "dimensions": null,
+            "id": "winter-2022",
             "price": "120.00",
+            "retailerItemId": "1419588",
+            "subtitle": "",
             "title": "Winter 2022 Quarterly Edition",
             "type": "product"
         }
@@ -23378,13 +24302,47 @@
                     }
                 },
                 "timestamp": "2022-02-19T23:22:11.450634+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FNP-XO19",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "b7990ac88541d1240eeaf8ac01b5976b",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "xoxo-2019-press-sheet",
+                        "old": "803190"
+                    },
+                    "retailerItemId": {
+                        "new": "803190",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "25\"\u00d738\" \u2022 Frame It Up",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-21T11:03:54.872701+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
-            "id": "803190",
-            "item": "FNP-XO19",
+            "code": "FNP-XO19",
+            "contentHash": "b7990ac88541d1240eeaf8ac01b5976b",
+            "details": "",
+            "dimensions": null,
+            "id": "xoxo-2019-press-sheet",
             "price": "50.00",
+            "retailerItemId": "803190",
+            "subtitle": "25\"\u00d738\" \u2022 Frame It Up",
             "title": "XOXO 2019 Press Sheet",
             "type": "product"
         }
