@@ -65,7 +65,7 @@
                     }
                     tr.innerHTML = `
                     <th scope="row">${values.code || ""}</th>
-                    <td>${values.title}</td>
+                    <td><a href="${key}">${values.title}</a></td>
                     <td>${values.subtitle || ""} ${values.details || ""} ${values.dimensions || ""}</td>
                     <td>$${values.price}</td>
                     <td>${values.availability}</td>
