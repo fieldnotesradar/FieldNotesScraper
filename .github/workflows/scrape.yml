@@ -34,7 +34,7 @@ jobs:
           message: 'Update tracked Field Notes website data'
           add: 'results.json'
       - uses: ethomson/send-tweet-action@v1
-        if: ${{ steps.commit.outputs.committed == 'true' &&  env.TWEET }}
+        if: ${{ steps.commit.outputs.committed == 'true' }} && ${{ env.TWEET == 'true' }}
         with:
           status: "An update has been detected on the Field Notes website! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
           consumer-key: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
