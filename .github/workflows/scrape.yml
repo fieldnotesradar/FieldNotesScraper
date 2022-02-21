@@ -12,7 +12,7 @@ on:
   - cron: '* * * * *' # continuous
   - cron: '12 3 * * *' # daily
 env:
-  DEFAULT_LOOKBACK: '60'
+  DEFAULT_LOOKBACK: '360'
   LOOKBACK: ${{ github.event.inputs.lookback }}
   TWEET: ${{ github.event.inputs.tweet || true }}
 jobs:
