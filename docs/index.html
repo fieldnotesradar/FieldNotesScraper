@@ -13,7 +13,7 @@
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container">
             <a class="navbar-brand" href="#">Field Notes Scraper</a>
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+            <!-- <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false"
                 aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -33,7 +33,7 @@
                         </ul>
                     </li>
                 </ul>
-            </div>
+            </div> -->
         </div>
     </nav>
 
@@ -65,9 +65,9 @@
                     div.innerHTML = `
                     <div class="card">
                         <div class="card-body">
-                            <h5 class="card-title">${values.title} (${values.code})</h5>
+                            <h5 class="card-title">${values.code || ""} ${values.title}</h5>
                             <h6 class="card-subtitle mb-2 text-muted">${values.availability}</h6>
-                            <p class="card-text">${values.subtitle}<br>${values.details}<br>${values.dimensions}</p>
+                            <p class="card-text">${values.subtitle || ""}<br>${values.details || ""}<br>${values.dimensions || ""}</p>
                             <a href="${key}" class="card-link">See on Field Notes</a>
                         </div>
                     </div>`;
