@@ -3,11 +3,10 @@ on:
   workflow_dispatch:
     inputs:
       range:
-        description: 'Lookback range in minutes (leave empty for full search)'
-        default: '60'
+        description: 'Lookback range in minutes'
       tweet:
         description: 'Allow Tweet if changes are detected'
-        default: true
+        default: false
         type: boolean
   schedule:
   - cron: '* * * * *' # continuous
