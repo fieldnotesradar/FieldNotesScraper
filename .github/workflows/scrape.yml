@@ -19,6 +19,10 @@ jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Python setup
+        run: pip install scrapy arrow
       - name: Set unlimited lookback period
         run: echo "LOOKBACK=" >> $GITHUB_ENV
         if: github.event.schedule == '12 3 * * *'
@@ -26,10 +30,6 @@ jobs:
       - name: Set default lookback period
         run: echo "LOOKBACK=$DEFAULT_LOOKBACK" >> $GITHUB_ENV
         if: github.event.schedule == '* * * * *'
-      - name: Checkout
-        uses: actions/checkout@v2
-      - name: Python setup
-        run: pip install scrapy arrow
       - name: Run scrape spider
         run: scrapy runspider scrape.py -O updates.json -a minutes=$LOOKBACK
       - name: Merge JSON
