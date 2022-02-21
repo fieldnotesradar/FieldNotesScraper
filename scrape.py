@@ -38,10 +38,10 @@ class MySpider(SitemapSpider):
                 'contentHash': hashlib.md5(''.join(response.xpath('//*[contains(@class, "rich-text")]/p/text()').extract()).encode('utf-8')).hexdigest(),
                 'retailerItemId': response.xpath('//meta[@property="product:retailer_item_id"]/@content').get(),
                 'code': response.xpath('//*[@class="l-panel-header__left"]/span/text()').get(),
-                'title': response.xpath('//*[@class="panel__title"]/text()').get().strip(),
+                'title': (response.xpath('//*[@class="panel__title"]/text()').get() or "").strip(),
                 'dimensions': response.xpath('//*[@class="panel__details"]/span/text()').get(),
-                'subtitle': response.xpath('//*[@class="panel__sub-title"][1]/text()').get().strip(),
-                'details': response.xpath('//*[@class="panel__sub-title"][2]/text()').get().strip(),
+                'subtitle': (response.xpath('//*[@class="panel__sub-title"][1]/text()').get() or "").strip(),
+                'details': (response.xpath('//*[@class="panel__sub-title"][2]/text()').get() or "").strip(),
                 'price': response.xpath('//meta[@property="product:price:amount"]/@content').get(),
                 'availability': response.xpath('//meta[@property="product:availability"]/@content').get(),
             }
