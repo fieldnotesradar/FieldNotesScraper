@@ -2,8 +2,8 @@ name: Scrape
 on:
   workflow_dispatch:
     inputs:
-      range:
-        description: 'Lookback range in minutes'
+      lookback:
+        description: 'Lookback period (minutes)'
       tweet:
         description: 'Allow Tweet if changes are detected'
         default: false
@@ -12,27 +12,36 @@ on:
   - cron: '* * * * *' # continuous
   - cron: '12 3 * * *' # daily
 env:
-  RANGE: ${{ github.event.inputs.range }}
+  DEFAULT_LOOKBACK: '60'
+  LOOKBACK: ${{ github.event.inputs.lookback }}
   TWEET: ${{ github.event.inputs.tweet || true }}
 jobs:
   scrape:
     runs-on: ubuntu-latest
     steps:
-      - run: echo "RANGE=" >> $GITHUB_ENV
+      - name: Set unlimited lookback period
+        run: echo "LOOKBACK=" >> $GITHUB_ENV
         if: github.event.schedule == '12 3 * * *'
       # TODO: set range to last time workflow ran
-      - run: echo "RANGE=60" >> $GITHUB_ENV
+      - name: Set default lookback period (${{ env.DEFAULT_LOOKBACK }} minutes)
+        run: echo "LOOKBACK=$DEFAULT_LOOKBACK" >> $GITHUB_ENV
         if: github.event.schedule == '* * * * *'
-      - uses: actions/checkout@v2
-      - run: pip install scrapy arrow
-      - run: scrapy runspider scrape.py -O updates.json -a minutes=$RANGE
-      - run: python merge.py
-      - uses: EndBug/add-and-commit@v8
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Python setup
+        run: pip install scrapy arrow
+      - name: Run scrape spider
+        run: scrapy runspider scrape.py -O updates.json -a minutes=$LOOKBACK
+      - name: Merge JSON
+        run: python merge.py
+      - name: Commit changes
+        uses: EndBug/add-and-commit@v8
         id: commit
         with:
           message: 'Update tracked Field Notes website data'
           add: 'results.json'
-      - uses: ethomson/send-tweet-action@v1
+      - name: Tweet changes
+        uses: ethomson/send-tweet-action@v1
         if: ${{ steps.commit.outputs.committed != 'undefined' && env.TWEET == 'true' }}
         with:
           status: "An update has been detected on the Field Notes website! https://github.com/fieldnotesradar/FieldNotesScraper/commit/${{ steps.commit.outputs.commit_long_sha }}"
