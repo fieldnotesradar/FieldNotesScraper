@@ -23,7 +23,7 @@ jobs:
         run: echo "LOOKBACK=" >> $GITHUB_ENV
         if: github.event.schedule == '12 3 * * *'
       # TODO: set range to last time workflow ran
-      - name: Set default lookback period (${{ env.DEFAULT_LOOKBACK }} minutes)
+      - name: Set default lookback period
         run: echo "LOOKBACK=$DEFAULT_LOOKBACK" >> $GITHUB_ENV
         if: github.event.schedule == '* * * * *'
       - name: Checkout
