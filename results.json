@@ -17977,6 +17977,72 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/essentials": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNWESSENTIALS",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "4e477366cf84d2a0a36f97a408787c3c",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Box o\u2019 Best Sellers",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "essentials",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "360.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "860535",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Save $35",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Essentials",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-22T03:37:23.055695+00:00"
+            }
+        ],
+        "data": {
+            "availability": "out of stock",
+            "code": "FNWESSENTIALS",
+            "contentHash": "4e477366cf84d2a0a36f97a408787c3c",
+            "details": "Box o\u2019 Best Sellers",
+            "dimensions": null,
+            "id": "essentials",
+            "price": "360.00",
+            "retailerItemId": "860535",
+            "subtitle": "Save $35",
+            "title": "Essentials",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/everyday-inspiration-leather-notebook-cover": {
         "changelog": [
             {
@@ -20995,6 +21061,72 @@
             "retailerItemId": "182494",
             "subtitle": "2-Pack",
             "title": "Pitch Black Note Book",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/point-of-purchase-kit": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POPKIT",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "83ecaf3445edbc39c748027ea6052d72",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "point-of-purchase-kit",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "320.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "6196",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Point-of-Purchase Kit",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-02-22T03:37:23.055622+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-POPKIT",
+            "contentHash": "83ecaf3445edbc39c748027ea6052d72",
+            "details": "",
+            "dimensions": null,
+            "id": "point-of-purchase-kit",
+            "price": "320.00",
+            "retailerItemId": "6196",
+            "subtitle": "",
+            "title": "Point-of-Purchase Kit",
             "type": "product"
         }
     },
