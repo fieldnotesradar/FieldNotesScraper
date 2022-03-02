@@ -1,6 +1,12 @@
 from datetime import datetime
 import json
 import arrow
+from pathlib import Path
+
+updatesPath = Path("updates.json")
+if not updatesPath.is_file():
+    print("No updates to merge!")
+    quit()
 
 # Setup
 with open("updates.json", "r") as jsonFile:
