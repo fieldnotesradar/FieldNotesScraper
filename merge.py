@@ -2,16 +2,14 @@ from datetime import datetime
 import json
 import arrow
 import sys
+import os
 
-
-try:
-    updatesFile = open("updates.json", 'r')
-except OSError:
-    print("Could not open/read file:", fname)
+if os.stat("updates.json").st_size == 0:
     sys.exit()
 
-with updatesFile:
-    updates = json.load(updatesFile)
+# Setup
+with open("updates.json", "r") as jsonFile:
+    updates = json.load(jsonFile)
 with open("results.json", "r") as jsonFile:
     results = json.load(jsonFile)
 
