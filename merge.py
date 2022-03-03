@@ -1,10 +1,9 @@
 from datetime import datetime
 import json
 import arrow
-from pathlib import Path
+import os.path
 
-updatesPath = Path("updates.json")
-if not updatesPath.is_file():
+if not os.path.exists('updates.json'):
     print("No updates to merge!")
     quit()
 
