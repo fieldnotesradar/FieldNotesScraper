@@ -1,15 +1,17 @@
 from datetime import datetime
 import json
 import arrow
-import os.path
+import sys
 
-if not os.path.exists('updates.json'):
-    print("No updates to merge!")
-    quit()
 
-# Setup
-with open("updates.json", "r") as jsonFile:
-    updates = json.load(jsonFile)
+try:
+    updatesFile = open("updates.json", 'r')
+except OSError:
+    print("Could not open/read file:", fname)
+    sys.exit()
+
+with updatesFile:
+    updates = json.load(updatesFile)
 with open("results.json", "r") as jsonFile:
     results = json.load(jsonFile)
 
