@@ -5,6 +5,7 @@ from datetime import timedelta
 import arrow
 
 class MySpider(SitemapSpider):
+    handle_httpstatus_list = [404]
     name = "sitemap"
     sitemap_urls = ['https://fieldnotesbrand.com/robots.txt']
     sitemap_rules = [
@@ -34,6 +35,7 @@ class MySpider(SitemapSpider):
         yield {
             response.url: {
                 'type': 'product',
+                'status': response.status,
                 'id': response.url.split("/")[-1],
                 'contentHash': hashlib.md5(''.join(response.xpath('//*[contains(@class, "rich-text")]/p/text()').extract()).encode('utf-8')).hexdigest(),
                 'retailerItemId': response.xpath('//meta[@property="product:retailer_item_id"]/@content').get(),
@@ -51,6 +53,7 @@ class MySpider(SitemapSpider):
         yield {
             response.url: {
                 'type': 'film',
+                'status': response.status,
                 'id': response.url.split("/")[-1],
                 'title': response.xpath('//meta[@property="og:title"]/@content').get(),
                 'video_url': response.xpath('//*[@class="film-teaser__text"]/a/@href').get(),
@@ -63,6 +66,7 @@ class MySpider(SitemapSpider):
         yield {
             response.url: {
                 'type': 'dispatch',
+                'status': response.status,
                 'id': response.url.split("/")[-1],
                 'contentHash': hashlib.md5(''.join(response.xpath('//*[contains(@class, "rich-text")]/p/text()').extract()).encode('utf-8')).hexdigest(),
                 'category': response.xpath('//*[@class="blog-post__header"]/h2/a/text()').get(),
