@@ -21109,20 +21109,53 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450533+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POP"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "45e2278e62a2d8a593a09d8b2f59e2a7"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "16367"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Display"
+                    }
+                },
+                "timestamp": "2022-03-06T03:35:38.210505+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POP",
-            "contentHash": "45e2278e62a2d8a593a09d8b2f59e2a7",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "display",
-            "price": "0.00",
-            "retailerItemId": "16367",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Display",
+            "title": "",
             "type": "product"
         }
     },
@@ -22702,10 +22735,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451186+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-03-06T03:35:38.211224+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNC-45",
             "contentHash": "a5037031b36cdcc6becd7dd8539e994f",
             "details": "",
@@ -25778,20 +25820,53 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450583+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POSTER"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "9d2cc03e759a75af854331399bf225df"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "285249"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Retail Poster"
+                    }
+                },
+                "timestamp": "2022-03-06T03:35:38.210862+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POSTER",
-            "contentHash": "9d2cc03e759a75af854331399bf225df",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "retail-poster",
-            "price": "0.00",
-            "retailerItemId": "285249",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Retail Poster",
+            "title": "",
             "type": "product"
         }
     },
