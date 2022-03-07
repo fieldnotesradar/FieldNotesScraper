@@ -12375,6 +12375,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/commemorating-title-ix": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Partners",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "29b38969b00c924e58f2946e71864d76",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "March 7, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "commemorating-title-ix",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Commemorating Title\u00a0IX",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-03-07T17:34:48.931095+00:00"
+            }
+        ],
+        "data": {
+            "category": "Partners",
+            "contentHash": "29b38969b00c924e58f2946e71864d76",
+            "date": "March 7, 2022 by Jim",
+            "id": "commemorating-title-ix",
+            "status": 200,
+            "title": "Commemorating Title\u00a0IX",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/good-things-come-in-threes": {
         "changelog": [
             {
