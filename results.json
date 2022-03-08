@@ -28683,10 +28683,19 @@
                     }
                 },
                 "timestamp": "2022-03-08T20:52:33.761386+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2022-03-08T22:33:14.964953+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FNxW01",
             "contentHash": "55cb1d89630ac43c391e5a6a55ca3cb9",
             "details": "",
