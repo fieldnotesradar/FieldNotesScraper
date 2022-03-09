@@ -21197,20 +21197,53 @@
                     }
                 },
                 "timestamp": "2022-03-06T03:35:38.210505+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POP",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "45e2278e62a2d8a593a09d8b2f59e2a7",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "0.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "16367",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Display",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2022-03-09T03:36:21.440434+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-POP",
+            "contentHash": "45e2278e62a2d8a593a09d8b2f59e2a7",
             "details": "",
             "dimensions": null,
             "id": "display",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "0.00",
+            "retailerItemId": "16367",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Display",
             "type": "product"
         }
     },
@@ -21876,20 +21909,61 @@
                     }
                 },
                 "timestamp": "2022-03-08T03:35:48.818580+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "out of stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNWESSENTIALS"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "4e477366cf84d2a0a36f97a408787c3c"
+                    },
+                    "details": {
+                        "new": "",
+                        "old": "Box o\u2019 Best Sellers"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "360.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "860535"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "Save $35"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Essentials"
+                    }
+                },
+                "timestamp": "2022-03-09T03:36:21.440921+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
-            "code": "FNWESSENTIALS",
-            "contentHash": "4e477366cf84d2a0a36f97a408787c3c",
-            "details": "Box o\u2019 Best Sellers",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
             "dimensions": null,
             "id": "essentials",
-            "price": "360.00",
-            "retailerItemId": "860535",
-            "status": 200,
-            "subtitle": "Save $35",
-            "title": "Essentials",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
