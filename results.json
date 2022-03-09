@@ -25406,10 +25406,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450341+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-03-09T22:32:48.709695+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-35",
             "contentHash": "755e3a0727a5c61620b8170a70066ddd",
             "details": "Dot-Graph Paper",
