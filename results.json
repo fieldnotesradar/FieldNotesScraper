@@ -12375,6 +12375,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/2022-subscriber-box": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Quarterly Limited-Editions",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "910ab571375fa50a71ddfc50dac96931",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "March 10, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "2022-subscriber-box",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "2022 Subscriber\u00a0Box",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-03-10T17:32:29.863313+00:00"
+            }
+        ],
+        "data": {
+            "category": "Quarterly Limited-Editions",
+            "contentHash": "910ab571375fa50a71ddfc50dac96931",
+            "date": "March 10, 2022 by Jim",
+            "id": "2022-subscriber-box",
+            "status": 200,
+            "title": "2022 Subscriber\u00a0Box",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/commemorating-title-ix": {
         "changelog": [
             {
