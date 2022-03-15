@@ -18300,6 +18300,52 @@
             "video_url": "https://fieldnotesbrand.com/films/getting-slick"
         }
     },
+    "https://fieldnotesbrand.com/films/watch-for-it": {
+        "changelog": [
+            {
+                "changes": {
+                    "id": {
+                        "new": "watch-for-it",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "teaser_link": {
+                        "new": null,
+                        "old": null
+                    },
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our Quarterly Limited Edition \u201cSigns of\u00a0Spring.\u201d",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Watch For It",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "film",
+                        "old": null
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-03-15T14:54:25.251228+00:00"
+            }
+        ],
+        "data": {
+            "id": "watch-for-it",
+            "status": 200,
+            "teaser_link": null,
+            "teaser_text": "A helpful guide to identifying the change of seasons for our Quarterly Limited Edition \u201cSigns of\u00a0Spring.\u201d",
+            "title": "Watch For It",
+            "type": "film",
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+        }
+    },
     "https://fieldnotesbrand.com/films/workshop-companion": {
         "changelog": [
             {
@@ -23696,20 +23742,65 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450118+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "DDC-054-LoF",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "47a3868a4d8fe85fde68f0473e1d33d0",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "details": {
+                        "new": "All Is Revealed",
+                        "old": ""
+                    },
+                    "dimensions": {
+                        "new": "3-Pack",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "14.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1468658",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "subtitle": {
+                        "new": "DDC Rogue Issue",
+                        "old": ""
+                    },
+                    "title": {
+                        "new": "Leap of Faith",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2022-03-15T14:54:25.251204+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
-            "details": "",
-            "dimensions": null,
+            "availability": "in stock",
+            "code": "DDC-054-LoF",
+            "contentHash": "47a3868a4d8fe85fde68f0473e1d33d0",
+            "details": "All Is Revealed",
+            "dimensions": "3-Pack",
             "id": "leap-of-faith",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
-            "subtitle": "",
-            "title": "",
+            "price": "14.95",
+            "retailerItemId": "1468658",
+            "status": 200,
+            "subtitle": "DDC Rogue Issue",
+            "title": "Leap of Faith",
             "type": "product"
         }
     },
