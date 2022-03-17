@@ -13528,16 +13528,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453606+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280247+00:00"
             }
         ],
         "data": {
             "id": "2016-annual-report",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "2016 Annual Report",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/3-2-1": {
@@ -13584,16 +13597,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453819+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280524+00:00"
             }
         ],
         "data": {
             "id": "3-2-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "4, 3, 2, 1...",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/99-999": {
@@ -13640,16 +13666,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453813+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280477+00:00"
             }
         ],
         "data": {
             "id": "99-999",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "99,999",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/a-daring-rescue": {
@@ -13696,16 +13735,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453361+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280105+00:00"
             }
         ],
         "data": {
             "id": "a-daring-rescue",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "A Daring Rescue - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/a-drive-into-the-gap": {
@@ -13752,16 +13804,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453332+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280056+00:00"
             }
         ],
         "data": {
             "id": "a-drive-into-the-gap",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "A Drive into the Gap - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/a-long-term-relationship": {
@@ -13808,16 +13873,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451340+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280215+00:00"
             }
         ],
         "data": {
             "id": "a-long-term-relationship",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "A Long Term Relationship - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/a-v-club": {
@@ -13864,16 +13942,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453724+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280453+00:00"
             }
         ],
         "data": {
             "id": "a-v-club",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "A.V. Club",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/about-face": {
@@ -13920,16 +14011,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453756+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280471+00:00"
             }
         ],
         "data": {
             "id": "about-face",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "About Face",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/ambition": {
@@ -13976,16 +14080,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451348+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280235+00:00"
             }
         ],
         "data": {
             "id": "ambition",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "The Gilded Age - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/america-in-notebooks": {
@@ -14032,16 +14149,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453259+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280036+00:00"
             }
         ],
         "data": {
             "id": "america-in-notebooks",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "One for Every State in the Union - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/america-the-beautiful": {
@@ -14088,16 +14218,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453391+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280154+00:00"
             }
         ],
         "data": {
             "id": "america-the-beautiful",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "On the Road Again - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/america-the-beautiful-decal-instructions": {
@@ -14144,16 +14287,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453377+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280113+00:00"
             }
         ],
         "data": {
             "id": "america-the-beautiful-decal-instructions",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Decals Details - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/an-obsessives-guide-to-field-notes-colors-part-one-2009": {
@@ -14200,16 +14356,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451462+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279907+00:00"
             }
         ],
         "data": {
             "id": "an-obsessives-guide-to-field-notes-colors-part-one-2009",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Limited Edition Recap I - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/and-everything-in-its-place": {
@@ -14256,16 +14425,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453636+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280335+00:00"
             }
         ],
         "data": {
             "id": "and-everything-in-its-place",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "\u2026And Everything in Its Place - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/arts-and-sciences-edition": {
@@ -14312,16 +14494,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453436+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280180+00:00"
             }
         ],
         "data": {
             "id": "arts-and-sciences-edition",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Arts and Sciences Edition - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/balsam-fir": {
@@ -14368,16 +14563,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453266+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279990+00:00"
             }
         ],
         "data": {
             "id": "balsam-fir",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Hot Foil",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/bits": {
@@ -14424,16 +14632,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453791+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280509+00:00"
             }
         ],
         "data": {
             "id": "bits",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Bits",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead": {
@@ -14480,16 +14701,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453695+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280389+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Caution Ahead - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1": {
@@ -14536,16 +14770,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451391+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279921+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Just a Phase We're Going Through (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1-1": {
@@ -14592,16 +14839,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451358+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279855+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Make of These What You Will (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1-2": {
@@ -14648,16 +14908,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451366+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279943+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Handy Around the House (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-2": {
@@ -14704,16 +14977,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451407+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279936+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Caution Ahead (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/chipboard-wire-and-steel": {
@@ -14760,16 +15046,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453770+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280433+00:00"
             }
         ],
         "data": {
             "id": "chipboard-wire-and-steel",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Wire, Chipboard, and Steel",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/cold-horizon": {
@@ -14816,16 +15115,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453420+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280133+00:00"
             }
         ],
         "data": {
             "id": "cold-horizon",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Winter Twilight - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/cover-story": {
@@ -14872,16 +15184,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453613+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280269+00:00"
             }
         ],
         "data": {
             "id": "cover-story",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Cover Story (Films)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/dearest-liz": {
@@ -14928,16 +15253,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453709+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280401+00:00"
             }
         ],
         "data": {
             "id": "dearest-liz",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Dearest Liz - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/deep-cover": {
@@ -14984,16 +15322,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453702+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280407+00:00"
             }
         ],
         "data": {
             "id": "deep-cover",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Deep Cover",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/die": {
@@ -15040,16 +15391,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453763+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280444+00:00"
             }
         ],
         "data": {
             "id": "die",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Die",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/drink-local": {
@@ -15096,16 +15460,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453413+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280148+00:00"
             }
         ],
         "data": {
             "id": "drink-local",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Carry Out - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/dropping-dimes": {
@@ -15152,16 +15529,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453620+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280367+00:00"
             }
         ],
         "data": {
             "id": "dropping-dimes",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Dropping Dimes - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/dry-transfer": {
@@ -15208,16 +15598,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453290+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279972+00:00"
             }
         ],
         "data": {
             "id": "dry-transfer",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Letraset! - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/dum-dah-dee-dum": {
@@ -15264,16 +15667,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451429+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279959+00:00"
             }
         ],
         "data": {
             "id": "dum-dah-dee-dum",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Dum Dah Dee Dum - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/east-is-east-dnd-west-is-west": {
@@ -15320,16 +15736,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453643+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280361+00:00"
             }
         ],
         "data": {
             "id": "east-is-east-dnd-west-is-west",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "East is East and West is West - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/eternal-shiny-and-chrome": {
@@ -15376,16 +15805,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453584+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280329+00:00"
             }
         ],
         "data": {
             "id": "eternal-shiny-and-chrome",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Eternal, Shiny and Chrome - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/extra-extra": {
@@ -15432,16 +15874,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453546+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280229+00:00"
             }
         ],
         "data": {
             "id": "extra-extra",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Extra Extra - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/fire-spotter": {
@@ -15488,16 +15943,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453297+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279984+00:00"
             }
         ],
         "data": {
             "id": "fire-spotter",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Eyes of the Forest - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/flip-the-script": {
@@ -15544,16 +16012,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453629+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280281+00:00"
             }
         ],
         "data": {
             "id": "flip-the-script",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Flip the Script - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/follow-the-lines": {
@@ -15600,16 +16081,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453806+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280518+00:00"
             }
         ],
         "data": {
             "id": "follow-the-lines",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Follow the Lines",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/french-paper-on-two-rivers": {
@@ -15656,16 +16150,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453354+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280099+00:00"
             }
         ],
         "data": {
             "id": "french-paper-on-two-rivers",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "French Paper on Two Rivers - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/from-seed": {
@@ -15712,16 +16219,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453530+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280294+00:00"
             }
         ],
         "data": {
             "id": "from-seed",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "From Seed - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/getting-slick": {
@@ -15768,16 +16288,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453834+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280530+00:00"
             }
         ],
         "data": {
             "id": "getting-slick",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Getting Slick",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-ii": {
@@ -15824,16 +16357,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453307+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280062+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-ii",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Limited Edition Recap II - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-iii": {
@@ -15880,16 +16426,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453325+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280079+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-iii",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Limited Edition Recap III - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-iv": {
@@ -15936,16 +16495,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453368+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280126+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-iv",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Limited Edition Recap IV - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-v": {
@@ -15992,16 +16564,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453405+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280139+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-v",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Limited Edition Recap V - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-vi": {
@@ -16048,16 +16633,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453485+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280167+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-vi",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Limited Edition Recap VI - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/hey-jack": {
@@ -16104,16 +16702,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453827+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280459+00:00"
             }
         ],
         "data": {
             "id": "hey-jack",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Hey Jack",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/impressions": {
@@ -16160,16 +16771,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453716+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280395+00:00"
             }
         ],
         "data": {
             "id": "impressions",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Impressions",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/in-your-hands": {
@@ -16216,16 +16840,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453478+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280173+00:00"
             }
         ],
         "data": {
             "id": "in-your-hands",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "In Your Hands - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/infinite-darkness": {
@@ -16272,16 +16909,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453274+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279999+00:00"
             }
         ],
         "data": {
             "id": "infinite-darkness",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Infinite Darkness - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/inspiration": {
@@ -16328,16 +16978,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453592+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280275+00:00"
             }
         ],
         "data": {
             "id": "inspiration",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Inspiration - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/jay-haxley-two-squirrels-with-flashlights": {
@@ -16384,16 +17047,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453658+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280303+00:00"
             }
         ],
         "data": {
             "id": "jay-haxley-two-squirrels-with-flashlights",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Jay, Haxley, & Two Squirrels with Flashlights - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/just-a-phase-were-going-through": {
@@ -16440,16 +17116,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453561+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280310+00:00"
             }
         ],
         "data": {
             "id": "just-a-phase-were-going-through",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Just a Phase We\u2019re Going Through - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/lets-get-to-work": {
@@ -16496,16 +17185,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453577+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280343+00:00"
             }
         ],
         "data": {
             "id": "lets-get-to-work",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Let\u2019s Get to Work - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/love-a-parade": {
@@ -16552,16 +17254,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453236+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279966+00:00"
             }
         ],
         "data": {
             "id": "love-a-parade",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Love a Parade - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/make-a-note-of-it": {
@@ -16608,16 +17323,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453537+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280260+00:00"
             }
         ],
         "data": {
             "id": "make-a-note-of-it",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Make a Note of It - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/make-a-note-of-it-commentary": {
@@ -16664,16 +17392,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451399+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279929+00:00"
             }
         ],
         "data": {
             "id": "make-a-note-of-it-commentary",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Make a Note of It (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/make-of-these-what-you-will": {
@@ -16720,16 +17461,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453747+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280413+00:00"
             }
         ],
         "data": {
             "id": "make-of-these-what-you-will",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Make of These What You Will",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/marbling-process-1": {
@@ -16776,16 +17530,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453672+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280355+00:00"
             }
         ],
         "data": {
             "id": "marbling-process-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Marbling Process 1 - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/marbling-process-2": {
@@ -16832,16 +17599,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453679+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280383+00:00"
             }
         ],
         "data": {
             "id": "marbling-process-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Marbling Process 2 - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/miles-and-miles": {
@@ -16888,16 +17668,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453784+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280483+00:00"
             }
         ],
         "data": {
             "id": "miles-and-miles",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Miles and Miles",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/monona-county-fair": {
@@ -16944,16 +17737,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453251+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280049+00:00"
             }
         ],
         "data": {
             "id": "monona-county-fair",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Monona County Fair - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/new-entry": {
@@ -17000,16 +17806,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453599+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280349+00:00"
             }
         ],
         "data": {
             "id": "new-entry",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Circle of Light - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/night-sky": {
@@ -17056,16 +17875,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453384+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280160+00:00"
             }
         ],
         "data": {
             "id": "night-sky",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "The Stars and Their Courses - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/northerly": {
@@ -17112,16 +17944,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453317+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280086+00:00"
             }
         ],
         "data": {
             "id": "northerly",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "A FN Midwest Workshop Project - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/one-foot-in-front-of-the-other": {
@@ -17168,16 +18013,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453799+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280503+00:00"
             }
         ],
         "data": {
             "id": "one-foot-in-front-of-the-other",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "One Foot in Front of the Other",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/one-small-step-for-notebooks": {
@@ -17224,16 +18082,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453665+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280316+00:00"
             }
         ],
         "data": {
             "id": "one-small-step-for-notebooks",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "One Small Step for Notebooks - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/open-for-business": {
@@ -17280,16 +18151,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453568+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280323+00:00"
             }
         ],
         "data": {
             "id": "open-for-business",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Open for Business - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/preparing-for-flight": {
@@ -17336,16 +18220,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453471+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280120+00:00"
             }
         ],
         "data": {
             "id": "preparing-for-flight",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Preparing for Flight - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/ravens-wing": {
@@ -17392,16 +18289,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453282+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280071+00:00"
             }
         ],
         "data": {
             "id": "ravens-wing",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Wings - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/red-blooded": {
@@ -17448,16 +18358,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453346+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280043+00:00"
             }
         ],
         "data": {
             "id": "red-blooded",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "We Made a Red One - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/red-fang-red-blooded": {
@@ -17504,16 +18427,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453339+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280092+00:00"
             }
         ],
         "data": {
             "id": "red-fang-red-blooded",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Red Fang - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/riding-to-the-new-year": {
@@ -17560,16 +18496,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453731+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280465+00:00"
             }
         ],
         "data": {
             "id": "riding-to-the-new-year",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Riding to the New Year",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/shelterwood": {
@@ -17616,16 +18565,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453398+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280188+00:00"
             }
         ],
         "data": {
             "id": "shelterwood",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Gimme Shelter - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/shenandoah": {
@@ -17672,16 +18634,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453507+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280287+00:00"
             }
         ],
         "data": {
             "id": "shenandoah",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Oh, Shenandoah - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/snow-blind": {
@@ -17728,16 +18703,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453523+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280209+00:00"
             }
         ],
         "data": {
             "id": "snow-blind",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "White Indoors, Blue in the Sun - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/stop-the-presses": {
@@ -17784,16 +18772,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453553+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280221+00:00"
             }
         ],
         "data": {
             "id": "stop-the-presses",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "\"Stop the Presses!\" - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/synchronicity": {
@@ -17840,16 +18841,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453688+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280420+00:00"
             }
         ],
         "data": {
             "id": "synchronicity",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Synchronicity",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/talkin-type": {
@@ -17896,16 +18910,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453492+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280194+00:00"
             }
         ],
         "data": {
             "id": "talkin-type",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Talkin\u2019 Type - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/the-stars-and-their-courses-commentary": {
@@ -17952,16 +18979,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451384+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279892+00:00"
             }
         ],
         "data": {
             "id": "the-stars-and-their-courses-commentary",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "The Stars and Their Courses (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/the-steno": {
@@ -18008,16 +19048,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453228+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279978+00:00"
             }
         ],
         "data": {
             "id": "the-steno",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Stenography & Hobo Marks - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/two-rivers": {
@@ -18064,16 +19117,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453516+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280241+00:00"
             }
         ],
         "data": {
             "id": "two-rivers",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Wood Type Forever!",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/unexposed": {
@@ -18120,16 +19186,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453429+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280200+00:00"
             }
         ],
         "data": {
             "id": "unexposed",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Under Wraps - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/united-states-of-letterpress": {
@@ -18176,16 +19255,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453777+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280439+00:00"
             }
         ],
         "data": {
             "id": "united-states-of-letterpress",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "United States of Letterpress",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/vend-i-say-vend": {
@@ -18232,16 +19324,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453243+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.279950+00:00"
             }
         ],
         "data": {
             "id": "vend-i-say-vend",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Vend I Say! Vend! - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/vintage-marbling": {
@@ -18288,16 +19393,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453650+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280375+00:00"
             }
         ],
         "data": {
             "id": "vintage-marbling",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Aswirl - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/watch-for-it": {
@@ -18399,16 +19517,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453500+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280253+00:00"
             }
         ],
         "data": {
             "id": "workshop-companion",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "Handy Around the House - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/films/you-and-i": {
@@ -18455,16 +19586,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453738+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+                        "old": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/watch-for-it",
+                        "old": "https://fieldnotesbrand.com/films/getting-slick"
+                    }
+                },
+                "timestamp": "2022-03-17T03:31:16.280427+00:00"
             }
         ],
         "data": {
             "id": "you-and-i",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A bit of behind-the-scenes footage from our shoot for the \u201cIgnition\u201d\u00a0Edition.",
+            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
             "title": "You and I",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/getting-slick"
+            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
         }
     },
     "https://fieldnotesbrand.com/products/56-week-planner": {
