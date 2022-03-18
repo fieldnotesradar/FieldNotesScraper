@@ -27744,10 +27744,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450503+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-03-18T03:32:02.162002+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNR-2022",
             "contentHash": "70a29b3eeca5a00d85ad8d3b34931e86",
             "details": "Ruled Paper",
