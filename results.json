@@ -24248,10 +24248,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451306+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-03-18T14:49:06.604115+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNC-52b",
             "contentHash": "99884c20b26153af00687a416177e284",
             "details": "Perforated Ruled Dot Ledger\u2122",
