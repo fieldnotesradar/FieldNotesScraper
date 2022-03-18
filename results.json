@@ -24342,12 +24342,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450733+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "cea7e55abe88cf77048d196160765111",
+                        "old": "69c28a6daa6756bb762b0f02935cc779"
+                    }
+                },
+                "timestamp": "2022-03-18T15:21:39.565772+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNP-52",
-            "contentHash": "69c28a6daa6756bb762b0f02935cc779",
+            "contentHash": "cea7e55abe88cf77048d196160765111",
             "details": "",
             "dimensions": null,
             "id": "harvest-press-sheet",
