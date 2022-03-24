@@ -30174,6 +30174,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/wednesday": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNW-01",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "17d5b69714b7ba194ae56974fd5cdedf",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Not Available to Purchase",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "wednesday",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "0.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1543483",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "2-Pack",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Wednesday",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-03-24T12:00:36.884333+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNW-01",
+            "contentHash": "17d5b69714b7ba194ae56974fd5cdedf",
+            "details": "Not Available to Purchase",
+            "dimensions": null,
+            "id": "wednesday",
+            "price": "0.00",
+            "retailerItemId": "1543483",
+            "status": 200,
+            "subtitle": "2-Pack",
+            "title": "Wednesday",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/wilco": {
         "changelog": [
             {
