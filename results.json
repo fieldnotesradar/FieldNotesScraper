@@ -12421,6 +12421,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/a-stitch-in-time": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Field Notes in Action",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "09a8e9ac85e573d66bb7961f1ba30074",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "March 28, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "a-stitch-in-time",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "A Stitch in\u00a0Time",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-03-28T17:04:41.459309+00:00"
+            }
+        ],
+        "data": {
+            "category": "Field Notes in Action",
+            "contentHash": "09a8e9ac85e573d66bb7961f1ba30074",
+            "date": "March 28, 2022 by Jim",
+            "id": "a-stitch-in-time",
+            "status": 200,
+            "title": "A Stitch in\u00a0Time",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/commemorating-title-ix": {
         "changelog": [
             {
