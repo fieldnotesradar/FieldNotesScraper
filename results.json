@@ -12464,11 +12464,20 @@
                     }
                 },
                 "timestamp": "2022-03-28T22:37:00.043385+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "09a8e9ac85e573d66bb7961f1ba30074",
+                        "old": "04b011b7d18bfa9a582f2ef6383be654"
+                    }
+                },
+                "timestamp": "2022-03-28T22:46:12.405976+00:00"
             }
         ],
         "data": {
             "category": "Field Notes in Action",
-            "contentHash": "04b011b7d18bfa9a582f2ef6383be654",
+            "contentHash": "09a8e9ac85e573d66bb7961f1ba30074",
             "date": "March 28, 2022 by Jim",
             "id": "a-stitch-in-time",
             "status": 200,
