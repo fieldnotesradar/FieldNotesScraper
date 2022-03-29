@@ -28738,6 +28738,23 @@
                     }
                 },
                 "timestamp": "2022-03-14T16:58:16.976255+00:00"
+            },
+            {
+                "changes": {
+                    "dimensions": {
+                        "new": "Precision-made",
+                        "old": "Chrome"
+                    },
+                    "retailerItemId": {
+                        "new": "1499468",
+                        "old": "1499469"
+                    },
+                    "title": {
+                        "new": "Space Pen",
+                        "old": "Space Pen - Chrome"
+                    }
+                },
+                "timestamp": "2022-03-29T17:34:46.774854+00:00"
             }
         ],
         "data": {
@@ -28745,13 +28762,13 @@
             "code": "FN-19B",
             "contentHash": "0cbd23bfabfb4335da632eb26ee51912",
             "details": "Built for Outer Space",
-            "dimensions": "Chrome",
+            "dimensions": "Precision-made",
             "id": "space-pens",
             "price": "29.95",
-            "retailerItemId": "1499469",
+            "retailerItemId": "1499468",
             "status": 200,
             "subtitle": "Made in the USA",
-            "title": "Space Pen - Chrome",
+            "title": "Space Pen",
             "type": "product"
         }
     },
