@@ -27755,12 +27755,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450455+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "95a5e4fe207e8c131cf5b1a68e5a6436",
+                        "old": "e4abf35ec60844acce009d518cca4b01"
+                    }
+                },
+                "timestamp": "2022-04-02T03:40:32.376474+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
             "code": "FNR-2021",
-            "contentHash": "e4abf35ec60844acce009d518cca4b01",
+            "contentHash": "95a5e4fe207e8c131cf5b1a68e5a6436",
             "details": "Ruled Paper",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "rooster-book-2021",
