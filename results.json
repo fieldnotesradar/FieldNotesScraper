@@ -26814,13 +26814,26 @@
                     }
                 },
                 "timestamp": "2022-03-24T13:43:48.846822+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    },
+                    "details": {
+                        "new": "Dot-Graph Paper",
+                        "old": "Dot-Graph or Ruled Paper"
+                    }
+                },
+                "timestamp": "2022-04-13T16:47:31.843419+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-35",
             "contentHash": "755e3a0727a5c61620b8170a70066ddd",
-            "details": "Dot-Graph or Ruled Paper",
+            "details": "Dot-Graph Paper",
             "dimensions": "4\u00be\" x 7\u00bd\"",
             "id": "pitch-black-notebook",
             "price": "16.95",
