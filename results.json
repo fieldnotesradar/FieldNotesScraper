@@ -12549,6 +12549,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/creative-in-residence-at-the-commons": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": null,
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "f212dd998c57ebad376e123cd7f3e79e",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "April 26, 2022 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "creative-in-residence-at-the-commons",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Creative in Residence at The\u00a0Commons",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-04-26T14:33:27.372948+00:00"
+            }
+        ],
+        "data": {
+            "category": null,
+            "contentHash": "f212dd998c57ebad376e123cd7f3e79e",
+            "date": "April 26, 2022 by HQ",
+            "id": "creative-in-residence-at-the-commons",
+            "status": 200,
+            "title": "Creative in Residence at The\u00a0Commons",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/good-things-come-in-threes": {
         "changelog": [
             {
