@@ -25184,11 +25184,20 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450353+00:00"
+            },
+            {
+                "changes": {
+                    "code": {
+                        "new": "FN02L",
+                        "old": "FN-02L"
+                    }
+                },
+                "timestamp": "2022-04-29T14:49:21.789123+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
-            "code": "FN-02L",
+            "code": "FN02L",
             "contentHash": "09fb425ec1eba41deadbe8abb86c7e07",
             "details": "A Notebook Made for Lefties",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
