@@ -12734,6 +12734,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/today-is-wednesday-1": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "bc968f07229f6f4b7191dc2bbd710588",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "May 4, 2022 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "today-is-wednesday-1",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Today is\u00a0Wednesday",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-05-04T14:47:03.419520+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "bc968f07229f6f4b7191dc2bbd710588",
+            "date": "May 4, 2022 by HQ",
+            "id": "today-is-wednesday-1",
+            "status": 200,
+            "title": "Today is\u00a0Wednesday",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/categories/dulynoted": {
         "changelog": [
             {
