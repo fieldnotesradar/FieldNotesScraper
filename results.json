@@ -22116,10 +22116,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451268+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-05-17T14:12:01.631628+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNC-07AL",
             "contentHash": "eee1037e9f8f93ce38fa0e1253eb7e73",
             "details": "THREE 48-PAGE MEMO BOOKS",
