@@ -12696,6 +12696,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/the-state-of-the-states": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Products",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "280f763ddcc99a50ef5202bf49c53992",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "May 16, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "the-state-of-the-states",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "The State of the\u00a0States",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-05-20T03:54:17.047818+00:00"
+            }
+        ],
+        "data": {
+            "category": "Products",
+            "contentHash": "280f763ddcc99a50ef5202bf49c53992",
+            "date": "May 16, 2022 by Jim",
+            "id": "the-state-of-the-states",
+            "status": 200,
+            "title": "The State of the\u00a0States",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/today-is-wednesday": {
         "changelog": [
             {
