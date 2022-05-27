@@ -23789,6 +23789,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/fall-2023": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB60P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "8f94ad38217e88a763aa084e02c97f43",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "fall-2023",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1567587",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Fall 2023 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-05-27T15:50:41.263325+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB60P",
+            "contentHash": "8f94ad38217e88a763aa084e02c97f43",
+            "details": "",
+            "dimensions": null,
+            "id": "fall-2023",
+            "price": "120.00",
+            "retailerItemId": "1567587",
+            "status": 200,
+            "subtitle": "",
+            "title": "Fall 2023 Quarterly Edition",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/fifty": {
         "changelog": [
             {
@@ -29173,6 +29244,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/spring-2023": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB58P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "2f9b21d0b3d959a67bdf83af46235132",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "spring-2023",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1567581",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Spring 2023 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-05-27T15:50:41.263311+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB58P",
+            "contentHash": "2f9b21d0b3d959a67bdf83af46235132",
+            "details": "",
+            "dimensions": null,
+            "id": "spring-2023",
+            "price": "120.00",
+            "retailerItemId": "1567581",
+            "status": 200,
+            "subtitle": "",
+            "title": "Spring 2023 Quarterly Edition",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/starter-kit": {
         "changelog": [
             {
@@ -29429,6 +29571,77 @@
             "status": 200,
             "subtitle": "",
             "title": "Summer 2022 Quarterly Edition",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/summer-2023": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB59P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "15f8ee77bfaa479e79f9459da28d6881",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "summer-2023",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1567584",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Summer 2023 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-05-27T15:50:41.263270+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB59P",
+            "contentHash": "15f8ee77bfaa479e79f9459da28d6881",
+            "details": "",
+            "dimensions": null,
+            "id": "summer-2023",
+            "price": "120.00",
+            "retailerItemId": "1567584",
+            "status": 200,
+            "subtitle": "",
+            "title": "Summer 2023 Quarterly Edition",
             "type": "product"
         }
     },
@@ -31177,6 +31390,77 @@
             "status": 200,
             "subtitle": "",
             "title": "Winter 2022 Quarterly Edition",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/winter-2023": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB61P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "699574f50f48e0e95067fc89bc029400",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "winter-2023",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1567590",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Winter 2023 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-05-27T15:50:41.263336+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB61P",
+            "contentHash": "699574f50f48e0e95067fc89bc029400",
+            "details": "",
+            "dimensions": null,
+            "id": "winter-2023",
+            "price": "120.00",
+            "retailerItemId": "1567590",
+            "status": 200,
+            "subtitle": "",
+            "title": "Winter 2023 Quarterly Edition",
             "type": "product"
         }
     },
