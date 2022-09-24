@@ -12640,6 +12640,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/gender-equality": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Field Notes",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "11ff809d251afa691b6021bf5b37d134",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "July 2, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "gender-equality",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Gender\u00a0Equality",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.258399+00:00"
+            }
+        ],
+        "data": {
+            "category": "Field Notes",
+            "contentHash": "11ff809d251afa691b6021bf5b37d134",
+            "date": "July 2, 2022 by Jim",
+            "id": "gender-equality",
+            "status": 200,
+            "title": "Gender\u00a0Equality",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/good-things-come-in-threes": {
         "changelog": [
             {
@@ -12693,6 +12739,52 @@
             "id": "good-things-come-in-threes",
             "status": 200,
             "title": "Good Things Come in\u00a0Threes",
+            "type": "dispatch"
+        }
+    },
+    "https://fieldnotesbrand.com/dispatches/2022/greetings-from-the-shores": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Products",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "0b358a48fe1eeb5d672905c120fe1e24",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "August 3, 2022 by Bryan",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "greetings-from-the-shores",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Greetings from the\u00a0Shores",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.258361+00:00"
+            }
+        ],
+        "data": {
+            "category": "Products",
+            "contentHash": "0b358a48fe1eeb5d672905c120fe1e24",
+            "date": "August 3, 2022 by Bryan",
+            "id": "greetings-from-the-shores",
+            "status": 200,
+            "title": "Greetings from the\u00a0Shores",
             "type": "dispatch"
         }
     },
@@ -12786,12 +12878,25 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.453123+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d2a7597848bdf12e990a527ada0d7972",
+                        "old": "986cf186406a6822d4abff8b43af622d"
+                    },
+                    "date": {
+                        "new": "August 24, 2022 by Jim",
+                        "old": "February 2, 2022 by Jim"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.258368+00:00"
             }
         ],
         "data": {
             "category": "Special Offers",
-            "contentHash": "986cf186406a6822d4abff8b43af622d",
-            "date": "February 2, 2022 by Jim",
+            "contentHash": "d2a7597848bdf12e990a527ada0d7972",
+            "date": "August 24, 2022 by Jim",
             "id": "today-is-wednesday",
             "status": 200,
             "title": "Today is\u00a0Wednesday",
@@ -13007,6 +13112,52 @@
             "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
             "date": null,
             "id": "field-news",
+            "status": 200,
+            "title": null,
+            "type": "dispatch"
+        }
+    },
+    "https://fieldnotesbrand.com/dispatches/categories/field-notes": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": null,
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "d41d8cd98f00b204e9800998ecf8427e",
+                        "old": null
+                    },
+                    "date": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "field-notes",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": null,
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.258386+00:00"
+            }
+        ],
+        "data": {
+            "category": null,
+            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
+            "date": null,
+            "id": "field-notes",
             "status": 200,
             "title": null,
             "type": "dispatch"
@@ -13797,16 +13948,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280247+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257453+00:00"
             }
         ],
         "data": {
             "id": "2016-annual-report",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "2016 Annual Report",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/3-2-1": {
@@ -13866,16 +14030,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280524+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257746+00:00"
             }
         ],
         "data": {
             "id": "3-2-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "4, 3, 2, 1...",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/99-999": {
@@ -13935,16 +14112,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280477+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257648+00:00"
             }
         ],
         "data": {
             "id": "99-999",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "99,999",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/a-daring-rescue": {
@@ -14004,16 +14194,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280105+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257252+00:00"
             }
         ],
         "data": {
             "id": "a-daring-rescue",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "A Daring Rescue - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/a-drive-into-the-gap": {
@@ -14073,16 +14276,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280056+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257259+00:00"
             }
         ],
         "data": {
             "id": "a-drive-into-the-gap",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "A Drive into the Gap - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/a-long-term-relationship": {
@@ -14142,16 +14358,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280215+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257335+00:00"
             }
         ],
         "data": {
             "id": "a-long-term-relationship",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "A Long Term Relationship - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/a-v-club": {
@@ -14211,16 +14440,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280453+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257587+00:00"
             }
         ],
         "data": {
             "id": "a-v-club",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "A.V. Club",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/about-face": {
@@ -14280,16 +14522,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280471+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257608+00:00"
             }
         ],
         "data": {
             "id": "about-face",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "About Face",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/ambition": {
@@ -14349,16 +14604,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280235+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257301+00:00"
             }
         ],
         "data": {
             "id": "ambition",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "The Gilded Age - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/america-in-notebooks": {
@@ -14418,16 +14686,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280036+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256841+00:00"
             }
         ],
         "data": {
             "id": "america-in-notebooks",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "One for Every State in the Union - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/america-the-beautiful": {
@@ -14487,16 +14768,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280154+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257274+00:00"
             }
         ],
         "data": {
             "id": "america-the-beautiful",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "On the Road Again - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/america-the-beautiful-decal-instructions": {
@@ -14556,16 +14850,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280113+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257266+00:00"
             }
         ],
         "data": {
             "id": "america-the-beautiful-decal-instructions",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Decals Details - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/an-obsessives-guide-to-field-notes-colors-part-one-2009": {
@@ -14625,16 +14932,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279907+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256798+00:00"
             }
         ],
         "data": {
             "id": "an-obsessives-guide-to-field-notes-colors-part-one-2009",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Limited Edition Recap I - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/and-everything-in-its-place": {
@@ -14694,16 +15014,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280335+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257500+00:00"
             }
         ],
         "data": {
             "id": "and-everything-in-its-place",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "\u2026And Everything in Its Place - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/arts-and-sciences-edition": {
@@ -14763,16 +15096,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280180+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257341+00:00"
             }
         ],
         "data": {
             "id": "arts-and-sciences-edition",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Arts and Sciences Edition - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/balsam-fir": {
@@ -14832,16 +15178,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279990+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256848+00:00"
             }
         ],
         "data": {
             "id": "balsam-fir",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Hot Foil",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/bits": {
@@ -14901,16 +15260,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280509+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257654+00:00"
             }
         ],
         "data": {
             "id": "bits",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Bits",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead": {
@@ -14970,16 +15342,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280389+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257568+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Caution Ahead - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1": {
@@ -15039,16 +15424,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279921+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256769+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Just a Phase We're Going Through (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1-1": {
@@ -15108,16 +15506,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279855+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256754+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Make of These What You Will (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1-2": {
@@ -15177,16 +15588,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279943+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256763+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Handy Around the House (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-2": {
@@ -15246,16 +15670,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279936+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256776+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Caution Ahead (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/chipboard-wire-and-steel": {
@@ -15315,16 +15752,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280433+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257620+00:00"
             }
         ],
         "data": {
             "id": "chipboard-wire-and-steel",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Wire, Chipboard, and Steel",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/cold-horizon": {
@@ -15384,16 +15834,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280133+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257246+00:00"
             }
         ],
         "data": {
             "id": "cold-horizon",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Winter Twilight - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/cover-story": {
@@ -15453,16 +15916,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280269+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257417+00:00"
             }
         ],
         "data": {
             "id": "cover-story",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Cover Story (Films)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/dearest-liz": {
@@ -15522,16 +15998,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280401+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257561+00:00"
             }
         ],
         "data": {
             "id": "dearest-liz",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Dearest Liz - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/deep-cover": {
@@ -15591,16 +16080,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280407+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257547+00:00"
             }
         ],
         "data": {
             "id": "deep-cover",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Deep Cover",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/die": {
@@ -15660,16 +16162,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280444+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257614+00:00"
             }
         ],
         "data": {
             "id": "die",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Die",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/drink-local": {
@@ -15729,16 +16244,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280148+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257308+00:00"
             }
         ],
         "data": {
             "id": "drink-local",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Carry Out - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/dropping-dimes": {
@@ -15798,16 +16326,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280367+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257487+00:00"
             }
         ],
         "data": {
             "id": "dropping-dimes",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Dropping Dimes - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/dry-transfer": {
@@ -15867,16 +16408,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279972+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256871+00:00"
             }
         ],
         "data": {
             "id": "dry-transfer",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Letraset! - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/dum-dah-dee-dum": {
@@ -15936,16 +16490,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279959+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256785+00:00"
             }
         ],
         "data": {
             "id": "dum-dah-dee-dum",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Dum Dah Dee Dum - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/east-is-east-dnd-west-is-west": {
@@ -16005,16 +16572,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280361+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257520+00:00"
             }
         ],
         "data": {
             "id": "east-is-east-dnd-west-is-west",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "East is East and West is West - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/eternal-shiny-and-chrome": {
@@ -16074,16 +16654,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280329+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257465+00:00"
             }
         ],
         "data": {
             "id": "eternal-shiny-and-chrome",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Eternal, Shiny and Chrome - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/extra-extra": {
@@ -16143,16 +16736,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280229+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257446+00:00"
             }
         ],
         "data": {
             "id": "extra-extra",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Extra Extra - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/fire-spotter": {
@@ -16212,16 +16818,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279984+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256886+00:00"
             }
         ],
         "data": {
             "id": "fire-spotter",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Eyes of the Forest - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/flip-the-script": {
@@ -16281,16 +16900,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280281+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257493+00:00"
             }
         ],
         "data": {
             "id": "flip-the-script",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Flip the Script - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/follow-the-lines": {
@@ -16350,16 +16982,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280518+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257708+00:00"
             }
         ],
         "data": {
             "id": "follow-the-lines",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Follow the Lines",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/french-paper-on-two-rivers": {
@@ -16419,16 +17064,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280099+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256925+00:00"
             }
         ],
         "data": {
             "id": "french-paper-on-two-rivers",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "French Paper on Two Rivers - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/from-seed": {
@@ -16488,16 +17146,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280294+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257377+00:00"
             }
         ],
         "data": {
             "id": "from-seed",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "From Seed - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/getting-slick": {
@@ -16557,16 +17228,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280530+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257774+00:00"
             }
         ],
         "data": {
             "id": "getting-slick",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Getting Slick",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-ii": {
@@ -16626,16 +17310,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280062+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256864+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-ii",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Limited Edition Recap II - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-iii": {
@@ -16695,16 +17392,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280079+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256893+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-iii",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Limited Edition Recap III - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-iv": {
@@ -16764,16 +17474,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280126+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257289+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-iv",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Limited Edition Recap IV - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-v": {
@@ -16833,16 +17556,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280139+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257295+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-v",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Limited Edition Recap V - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-vi": {
@@ -16902,16 +17638,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280167+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257383+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-vi",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Limited Edition Recap VI - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/hey-jack": {
@@ -16971,16 +17720,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280459+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257714+00:00"
             }
         ],
         "data": {
             "id": "hey-jack",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Hey Jack",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/impressions": {
@@ -17040,16 +17802,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280395+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257534+00:00"
             }
         ],
         "data": {
             "id": "impressions",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Impressions",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/in-your-hands": {
@@ -17109,16 +17884,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280173+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257315+00:00"
             }
         ],
         "data": {
             "id": "in-your-hands",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "In Your Hands - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/infinite-darkness": {
@@ -17178,16 +17966,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279999+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256854+00:00"
             }
         ],
         "data": {
             "id": "infinite-darkness",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Infinite Darkness - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/inspiration": {
@@ -17247,16 +18048,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280275+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257423+00:00"
             }
         ],
         "data": {
             "id": "inspiration",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Inspiration - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/jay-haxley-two-squirrels-with-flashlights": {
@@ -17316,16 +18130,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280303+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257506+00:00"
             }
         ],
         "data": {
             "id": "jay-haxley-two-squirrels-with-flashlights",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Jay, Haxley, & Two Squirrels with Flashlights - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/just-a-phase-were-going-through": {
@@ -17385,16 +18212,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280310+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257440+00:00"
             }
         ],
         "data": {
             "id": "just-a-phase-were-going-through",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Just a Phase We\u2019re Going Through - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/lets-get-to-work": {
@@ -17454,16 +18294,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280343+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257472+00:00"
             }
         ],
         "data": {
             "id": "lets-get-to-work",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Let\u2019s Get to Work - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/love-a-parade": {
@@ -17523,16 +18376,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279966+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256806+00:00"
             }
         ],
         "data": {
             "id": "love-a-parade",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Love a Parade - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/make-a-note-of-it": {
@@ -17592,16 +18458,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280260+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257410+00:00"
             }
         ],
         "data": {
             "id": "make-a-note-of-it",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Make a Note of It - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/make-a-note-of-it-commentary": {
@@ -17661,16 +18540,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279929+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256792+00:00"
             }
         ],
         "data": {
             "id": "make-a-note-of-it-commentary",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Make a Note of It (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/make-of-these-what-you-will": {
@@ -17730,16 +18622,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280413+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257602+00:00"
             }
         ],
         "data": {
             "id": "make-of-these-what-you-will",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Make of These What You Will",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/marbling-process-1": {
@@ -17799,16 +18704,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280355+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257555+00:00"
             }
         ],
         "data": {
             "id": "marbling-process-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Marbling Process 1 - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/marbling-process-2": {
@@ -17868,16 +18786,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280383+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257541+00:00"
             }
         ],
         "data": {
             "id": "marbling-process-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Marbling Process 2 - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/miles-and-miles": {
@@ -17937,16 +18868,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280483+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257636+00:00"
             }
         ],
         "data": {
             "id": "miles-and-miles",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Miles and Miles",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/monona-county-fair": {
@@ -18006,16 +18950,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280049+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256820+00:00"
             }
         ],
         "data": {
             "id": "monona-county-fair",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Monona County Fair - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/new-entry": {
@@ -18075,16 +19032,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280349+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257480+00:00"
             }
         ],
         "data": {
             "id": "new-entry",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Circle of Light - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/night-sky": {
@@ -18144,16 +19114,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280160+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257282+00:00"
             }
         ],
         "data": {
             "id": "night-sky",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "The Stars and Their Courses - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/northerly": {
@@ -18213,16 +19196,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280086+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256899+00:00"
             }
         ],
         "data": {
             "id": "northerly",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "A FN Midwest Workshop Project - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/one-foot-in-front-of-the-other": {
@@ -18282,16 +19278,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280503+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257701+00:00"
             }
         ],
         "data": {
             "id": "one-foot-in-front-of-the-other",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "One Foot in Front of the Other",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/one-small-step-for-notebooks": {
@@ -18351,16 +19360,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280316+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257512+00:00"
             }
         ],
         "data": {
             "id": "one-small-step-for-notebooks",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "One Small Step for Notebooks - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/open-for-business": {
@@ -18420,16 +19442,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280323+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257459+00:00"
             }
         ],
         "data": {
             "id": "open-for-business",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Open for Business - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/preparing-for-flight": {
@@ -18489,16 +19524,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280120+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257321+00:00"
             }
         ],
         "data": {
             "id": "preparing-for-flight",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Preparing for Flight - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/ravens-wing": {
@@ -18558,16 +19606,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280071+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256828+00:00"
             }
         ],
         "data": {
             "id": "ravens-wing",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Wings - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/red-blooded": {
@@ -18627,16 +19688,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280043+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257040+00:00"
             }
         ],
         "data": {
             "id": "red-blooded",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "We Made a Red One - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/red-fang-red-blooded": {
@@ -18696,16 +19770,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280092+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256907+00:00"
             }
         ],
         "data": {
             "id": "red-fang-red-blooded",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Red Fang - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/riding-to-the-new-year": {
@@ -18765,16 +19852,75 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280465+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257595+00:00"
             }
         ],
         "data": {
             "id": "riding-to-the-new-year",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Riding to the New Year",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+        }
+    },
+    "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts": {
+        "changelog": [
+            {
+                "changes": {
+                    "id": {
+                        "new": "rubbing-elbows-with-ghosts",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "teaser_link": {
+                        "new": null,
+                        "old": null
+                    },
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Rubbing Elbows with Ghosts",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "film",
+                        "old": null
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257798+00:00"
+            }
+        ],
+        "data": {
+            "id": "rubbing-elbows-with-ghosts",
+            "status": 200,
+            "teaser_link": null,
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "title": "Rubbing Elbows with Ghosts",
+            "type": "film",
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/shelterwood": {
@@ -18834,16 +19980,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280188+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257329+00:00"
             }
         ],
         "data": {
             "id": "shelterwood",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Gimme Shelter - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/shenandoah": {
@@ -18903,16 +20062,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280287+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257370+00:00"
             }
         ],
         "data": {
             "id": "shenandoah",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Oh, Shenandoah - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/snow-blind": {
@@ -18972,16 +20144,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280209+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257402+00:00"
             }
         ],
         "data": {
             "id": "snow-blind",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "White Indoors, Blue in the Sun - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/stop-the-presses": {
@@ -19041,16 +20226,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280221+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257430+00:00"
             }
         ],
         "data": {
             "id": "stop-the-presses",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "\"Stop the Presses!\" - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/synchronicity": {
@@ -19110,16 +20308,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280420+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257574+00:00"
             }
         ],
         "data": {
             "id": "synchronicity",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Synchronicity",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/talkin-type": {
@@ -19179,16 +20390,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280194+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257396+00:00"
             }
         ],
         "data": {
             "id": "talkin-type",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Talkin\u2019 Type - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/the-stars-and-their-courses-commentary": {
@@ -19248,16 +20472,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279892+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256734+00:00"
             }
         ],
         "data": {
             "id": "the-stars-and-their-courses-commentary",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "The Stars and Their Courses (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/the-steno": {
@@ -19317,16 +20554,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279978+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256813+00:00"
             }
         ],
         "data": {
             "id": "the-steno",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Stenography & Hobo Marks - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/two-rivers": {
@@ -19386,16 +20636,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280241+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257357+00:00"
             }
         ],
         "data": {
             "id": "two-rivers",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Wood Type Forever!",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/unexposed": {
@@ -19455,16 +20718,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280200+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257347+00:00"
             }
         ],
         "data": {
             "id": "unexposed",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Under Wraps - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/united-states-of-letterpress": {
@@ -19524,16 +20800,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280439+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257628+00:00"
             }
         ],
         "data": {
             "id": "united-states-of-letterpress",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "United States of Letterpress",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/vend-i-say-vend": {
@@ -19593,16 +20882,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.279950+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256835+00:00"
             }
         ],
         "data": {
             "id": "vend-i-say-vend",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Vend I Say! Vend! - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/vintage-marbling": {
@@ -19662,16 +20964,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280375+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257528+00:00"
             }
         ],
         "data": {
             "id": "vintage-marbling",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Aswirl - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/watch-for-it": {
@@ -19717,16 +21032,75 @@
                     }
                 },
                 "timestamp": "2022-03-15T15:31:11.977666+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257642+00:00"
             }
         ],
         "data": {
             "id": "watch-for-it",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Watch For It",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+        }
+    },
+    "https://fieldnotesbrand.com/films/wish-you-were-here": {
+        "changelog": [
+            {
+                "changes": {
+                    "id": {
+                        "new": "wish-you-were-here",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "teaser_link": {
+                        "new": null,
+                        "old": null
+                    },
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Wish You Were Here",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "film",
+                        "old": null
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257760+00:00"
+            }
+        ],
+        "data": {
+            "id": "wish-you-were-here",
+            "status": 200,
+            "teaser_link": null,
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "title": "Wish You Were Here",
+            "type": "film",
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/workshop-companion": {
@@ -19786,16 +21160,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280253+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257364+00:00"
             }
         ],
         "data": {
             "id": "workshop-companion",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "Handy Around the House - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/films/you-and-i": {
@@ -19855,16 +21242,29 @@
                     }
                 },
                 "timestamp": "2022-03-17T03:31:16.280427+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+                        "old": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d"
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts",
+                        "old": "https://fieldnotesbrand.com/films/watch-for-it"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257581+00:00"
             }
         ],
         "data": {
             "id": "you-and-i",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A helpful guide to identifying the change of seasons for our latest Quarterly Limited Edition, \u201cSigns of\u00a0Spring.\u201d",
+            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
             "title": "You and I",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/watch-for-it"
+            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
         }
     },
     "https://fieldnotesbrand.com/products/56-week-planner": {
@@ -21636,6 +23036,15 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450279+00:00"
+            },
+            {
+                "changes": {
+                    "price": {
+                        "new": "12.95",
+                        "old": "11.95"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256459+00:00"
             }
         ],
         "data": {
@@ -21645,7 +23054,7 @@
             "details": "The Memo Book That Works",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "chicago",
-            "price": "11.95",
+            "price": "12.95",
             "retailerItemId": "1926",
             "status": 200,
             "subtitle": "3-Pack",
@@ -22286,10 +23695,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451438+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257723+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-22",
             "contentHash": "fc7724d1e19f366632b8434b17ec1d8b",
             "details": "5.5 oz. Cowhide",
@@ -23598,10 +25016,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451416+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257733+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-37",
             "contentHash": "8b20f8852a255810fbaed43bf24db451",
             "details": "Beautifully Crafted",
@@ -23772,12 +25199,25 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451297+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    },
+                    "contentHash": {
+                        "new": "dfa4e1ce259ca408ae09a2f1d95eacfd",
+                        "old": "a0ccf7ef6515889321323b4c00a2c6d2"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257223+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-SUB56P",
-            "contentHash": "a0ccf7ef6515889321323b4c00a2c6d2",
+            "contentHash": "dfa4e1ce259ca408ae09a2f1d95eacfd",
             "details": "",
             "dimensions": null,
             "id": "fall-2022",
@@ -24361,10 +25801,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450437+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256575+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNxG-01",
             "contentHash": "88c0168293c4fadf2f3caf82ab795c2c",
             "details": "",
@@ -24464,6 +25913,148 @@
             "status": 200,
             "subtitle": "SUMMER 2009 QUARTERLY EDITION",
             "title": "Grass Stain Green",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/great-lakes": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNC-55",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "039eba91779268071f5ada25d3118a6d",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Five Lakes",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "5-Pack",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "great-lakes",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "27.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1580517",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "SUMMER 2022 QUARTERLY EDITION",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Great Lakes",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257191+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNC-55",
+            "contentHash": "039eba91779268071f5ada25d3118a6d",
+            "details": "Five Lakes",
+            "dimensions": "5-Pack",
+            "id": "great-lakes",
+            "price": "27.95",
+            "retailerItemId": "1580517",
+            "status": 200,
+            "subtitle": "SUMMER 2022 QUARTERLY EDITION",
+            "title": "Great Lakes",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/great-lakes-postcard-set": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNPC-55",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "02d9845ca6c3984f9cd0ad4fe1763f7a",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "Linen Finish",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "great-lakes-postcard-set",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "9.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1595817",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Great Lakes Postcard Set",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257694+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNPC-55",
+            "contentHash": "02d9845ca6c3984f9cd0ad4fe1763f7a",
+            "details": "",
+            "dimensions": "Linen Finish",
+            "id": "great-lakes-postcard-set",
+            "price": "9.95",
+            "retailerItemId": "1595817",
+            "status": 200,
+            "subtitle": "",
+            "title": "Great Lakes Postcard Set",
             "type": "product"
         }
     },
@@ -24757,6 +26348,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/hatch": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNC-56",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "6955a0e2a539654ca46b577ee2c016f2",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Direct from Nashville",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "3-Pack",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "hatch",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "14.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1629107",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "FALL 2022 QUARTERLY EDITION",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Hatch",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257198+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNC-56",
+            "contentHash": "6955a0e2a539654ca46b577ee2c016f2",
+            "details": "Direct from Nashville",
+            "dimensions": "3-Pack",
+            "id": "hatch",
+            "price": "14.95",
+            "retailerItemId": "1629107",
+            "status": 200,
+            "subtitle": "FALL 2022 QUARTERLY EDITION",
+            "title": "Hatch",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/haxley": {
         "changelog": [
             {
@@ -24825,10 +26487,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450773+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256584+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-39",
             "contentHash": "cec78b2a4488b1a1c051b1e4b1e328eb",
             "details": "A Sketch Book, Both 64 Pages",
@@ -25347,12 +27018,21 @@
                     }
                 },
                 "timestamp": "2022-03-15T14:54:25.251204+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "75d665cad0105de858bc483e510e8e06",
+                        "old": "47a3868a4d8fe85fde68f0473e1d33d0"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256421+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "DDC-054-LoF",
-            "contentHash": "47a3868a4d8fe85fde68f0473e1d33d0",
+            "contentHash": "75d665cad0105de858bc483e510e8e06",
             "details": "All Is Revealed",
             "dimensions": "3-Pack",
             "id": "leap-of-faith",
@@ -25445,6 +27125,15 @@
                     }
                 },
                 "timestamp": "2022-04-29T14:49:21.789123+00:00"
+            },
+            {
+                "changes": {
+                    "price": {
+                        "new": "12.95",
+                        "old": "11.95"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256562+00:00"
             }
         ],
         "data": {
@@ -25454,7 +27143,7 @@
             "details": "A Notebook Made for Lefties",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "left-handed",
-            "price": "11.95",
+            "price": "12.95",
             "retailerItemId": "242661",
             "status": 200,
             "subtitle": "3-Pack",
@@ -25801,12 +27490,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450765+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "f2453d6d2fc655f1a2be37f36e8fb4dc",
+                        "old": "37a42195062845921150183907dc9c2a"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256545+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNxMR-01",
-            "contentHash": "37a42195062845921150183907dc9c2a",
+            "contentHash": "f2453d6d2fc655f1a2be37f36e8fb4dc",
             "details": "4 1/4\" \u00d7 6 1/2\"",
             "dimensions": "72-Page Journal / Sketch Book",
             "id": "maggie-rogers",
@@ -26769,16 +28467,29 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450317+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    },
+                    "price": {
+                        "new": "12.95",
+                        "old": "11.95"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256486+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-01",
             "contentHash": "ef28ac58d53d7653d26905606952d250",
             "details": "Graph, Ruled, Plain, Mixed",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "original-kraft",
-            "price": "11.95",
+            "price": "12.95",
             "retailerItemId": "182722",
             "status": 200,
             "subtitle": "3-Pack",
@@ -27032,13 +28743,22 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450298+00:00"
+            },
+            {
+                "changes": {
+                    "details": {
+                        "new": "Dot-Graph",
+                        "old": "Dot-Graph or Ruled"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256471+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-33",
             "contentHash": "99c54a1ae8c6585c51e2c743780ccdd7",
-            "details": "Dot-Graph or Ruled",
+            "details": "Dot-Graph",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "pitch-black-memo-book",
             "price": "14.95",
@@ -27303,20 +29023,53 @@
                     }
                 },
                 "timestamp": "2022-03-08T03:35:48.818467+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POPKIT"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "83ecaf3445edbc39c748027ea6052d72"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "320.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "6196"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Point-of-Purchase Kit"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256699+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POPKIT",
-            "contentHash": "83ecaf3445edbc39c748027ea6052d72",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": "320.00",
-            "retailerItemId": "6196",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Point-of-Purchase Kit",
+            "title": "",
             "type": "product"
         }
     },
@@ -27392,6 +29145,15 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450270+00:00"
+            },
+            {
+                "changes": {
+                    "price": {
+                        "new": "12.95",
+                        "old": "11.95"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256533+00:00"
             }
         ],
         "data": {
@@ -27401,7 +29163,7 @@
             "details": "Rip City Memo Books",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "portland",
-            "price": "11.95",
+            "price": "12.95",
             "retailerItemId": "73127",
             "status": 200,
             "subtitle": "3-Pack",
@@ -28743,12 +30505,21 @@
                     }
                 },
                 "timestamp": "2022-03-15T15:31:11.977653+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "dbb33b1913c60d3fc73cbfc6b0240b09",
+                        "old": "b0f879416a462a9176684c22b43a58a7"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257160+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-54",
-            "contentHash": "b0f879416a462a9176684c22b43a58a7",
+            "contentHash": "dbb33b1913c60d3fc73cbfc6b0240b09",
             "details": "Debossed Floral Covers",
             "dimensions": "Dot-Graph Paper",
             "id": "signs-of-spring",
@@ -29557,12 +31328,25 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451278+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    },
+                    "contentHash": {
+                        "new": "af95b58bb5354b4b31d7aa1f8d2eac81",
+                        "old": "9268e66d7d6d06b8e3ca478e1e498765"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257135+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-SUB55P",
-            "contentHash": "9268e66d7d6d06b8e3ca478e1e498765",
+            "contentHash": "af95b58bb5354b4b31d7aa1f8d2eac81",
             "details": "",
             "dimensions": null,
             "id": "summer-2022",
@@ -30407,12 +32191,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450473+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "6a20ab2c8e26bcc571c405d92d7fd6f0",
+                        "old": "5f672dcd1402e0b1ab6f14552fdbd81b"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256613+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNxRM-01",
-            "contentHash": "5f672dcd1402e0b1ab6f14552fdbd81b",
+            "contentHash": "6a20ab2c8e26bcc571c405d92d7fd6f0",
             "details": "",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "underland",
@@ -30656,12 +32449,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451232+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "6206914b3f901a9068859087a3194c7e",
+                        "old": "48b694b1ff3202999c9c61898aaa03a8"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257209+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-48a",
-            "contentHash": "48b694b1ff3202999c9c61898aaa03a8",
+            "contentHash": "6206914b3f901a9068859087a3194c7e",
             "details": "Three Packs, Nine Voices",
             "dimensions": "Graph Paper",
             "id": "united-states-of-letterpress",
@@ -30834,12 +32636,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451204+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "7bb37570bd84d03b805a8a79f2bb5b70",
+                        "old": "e2c64d454b7385bef58f34a6e6ba02ce"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.257173+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-46",
-            "contentHash": "e2c64d454b7385bef58f34a6e6ba02ce",
+            "contentHash": "7bb37570bd84d03b805a8a79f2bb5b70",
             "details": "",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "vignette",
@@ -31021,10 +32832,19 @@
                     }
                 },
                 "timestamp": "2022-03-08T22:33:14.964953+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-09-24T18:52:03.256656+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNxW01",
             "contentHash": "55cb1d89630ac43c391e5a6a55ca3cb9",
             "details": "",
