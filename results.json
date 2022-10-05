@@ -28535,10 +28535,19 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256486+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2022-10-05T19:37:19.954818+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-01",
             "contentHash": "ef28ac58d53d7653d26905606952d250",
             "details": "Graph, Ruled, Plain, Mixed",
