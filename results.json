@@ -29153,20 +29153,53 @@
                     }
                 },
                 "timestamp": "2022-10-05T20:40:01.881920+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POPKIT"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "0f73c035a81f2f9d964103c3410cc8c7"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "320.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "6196"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Point-of-Purchase Kit"
+                    }
+                },
+                "timestamp": "2022-10-05T23:41:12.643419+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POPKIT",
-            "contentHash": "0f73c035a81f2f9d964103c3410cc8c7",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": "320.00",
-            "retailerItemId": "6196",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Point-of-Purchase Kit",
+            "title": "",
             "type": "product"
         }
     },
