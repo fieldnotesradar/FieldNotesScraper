@@ -27225,12 +27225,25 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256562+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    },
+                    "contentHash": {
+                        "new": "3afb44c9ae15c088de8734e8be95c40e",
+                        "old": "09fb425ec1eba41deadbe8abb86c7e07"
+                    }
+                },
+                "timestamp": "2022-10-14T19:02:11.988300+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN02L",
-            "contentHash": "09fb425ec1eba41deadbe8abb86c7e07",
+            "contentHash": "3afb44c9ae15c088de8734e8be95c40e",
             "details": "A Notebook Made for Lefties",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "left-handed",
@@ -28580,12 +28593,21 @@
                     }
                 },
                 "timestamp": "2022-10-05T19:37:19.954818+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "af14f4885884d53c50ab8d8dd8a12574",
+                        "old": "ef28ac58d53d7653d26905606952d250"
+                    }
+                },
+                "timestamp": "2022-10-14T19:02:11.988279+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-01",
-            "contentHash": "ef28ac58d53d7653d26905606952d250",
+            "contentHash": "af14f4885884d53c50ab8d8dd8a12574",
             "details": "Graph, Ruled, Plain, Mixed",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "original-kraft",
