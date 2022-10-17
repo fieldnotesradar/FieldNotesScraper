@@ -10484,11 +10484,20 @@
                     }
                 },
                 "timestamp": "2022-10-16T04:47:32.831965+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "dc5ee24b9aeb0ef2392048b1d9fa377f",
+                        "old": "09a7522acaf494f042aba278d95d332b"
+                    }
+                },
+                "timestamp": "2022-10-17T05:09:54.137655+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "09a7522acaf494f042aba278d95d332b",
+            "contentHash": "dc5ee24b9aeb0ef2392048b1d9fa377f",
             "date": "April 3, 2020 by HQ",
             "id": "hello-noah",
             "status": 200,
@@ -29253,20 +29262,53 @@
                     }
                 },
                 "timestamp": "2022-10-05T23:41:12.643419+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POPKIT",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "0f73c035a81f2f9d964103c3410cc8c7",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "320.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "6196",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Point-of-Purchase Kit",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2022-10-17T05:09:54.138169+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-POPKIT",
+            "contentHash": "0f73c035a81f2f9d964103c3410cc8c7",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "320.00",
+            "retailerItemId": "6196",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Point-of-Purchase Kit",
             "type": "product"
         }
     },
