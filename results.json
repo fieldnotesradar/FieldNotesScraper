@@ -32964,19 +32964,40 @@
                     }
                 },
                 "timestamp": "2022-03-24T12:00:36.884333+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "77297a99ad264db886a8809b2375cc5d",
+                        "old": "17d5b69714b7ba194ae56974fd5cdedf"
+                    },
+                    "details": {
+                        "new": "Blue or Red",
+                        "old": "Not Available to Purchase"
+                    },
+                    "dimensions": {
+                        "new": "Graph Paper",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Single Memo Book",
+                        "old": "2-Pack"
+                    }
+                },
+                "timestamp": "2022-10-18T17:00:28.886461+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNW-01",
-            "contentHash": "17d5b69714b7ba194ae56974fd5cdedf",
-            "details": "Not Available to Purchase",
-            "dimensions": null,
+            "contentHash": "77297a99ad264db886a8809b2375cc5d",
+            "details": "Blue or Red",
+            "dimensions": "Graph Paper",
             "id": "wednesday",
             "price": "0.00",
             "retailerItemId": "1543483",
             "status": 200,
-            "subtitle": "2-Pack",
+            "subtitle": "Single Memo Book",
             "title": "Wednesday",
             "type": "product"
         }
