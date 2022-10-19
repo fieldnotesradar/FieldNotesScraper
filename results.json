@@ -12963,12 +12963,25 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.258368+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "a06d59f8c355fcded0737361f498ecc1",
+                        "old": "d2a7597848bdf12e990a527ada0d7972"
+                    },
+                    "date": {
+                        "new": "October 19, 2022 by Jim",
+                        "old": "August 24, 2022 by Jim"
+                    }
+                },
+                "timestamp": "2022-10-19T16:13:10.996681+00:00"
             }
         ],
         "data": {
             "category": "Special Offers",
-            "contentHash": "d2a7597848bdf12e990a527ada0d7972",
-            "date": "August 24, 2022 by Jim",
+            "contentHash": "a06d59f8c355fcded0737361f498ecc1",
+            "date": "October 19, 2022 by Jim",
             "id": "today-is-wednesday",
             "status": 200,
             "title": "Today is\u00a0Wednesday",
