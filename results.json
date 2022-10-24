@@ -10112,11 +10112,20 @@
                     }
                 },
                 "timestamp": "2022-10-23T04:44:56.852412+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "b805e8a8fbfddf674d4b29219f7eff89",
+                        "old": "23de169906fd546e0d900e56e3110be0"
+                    }
+                },
+                "timestamp": "2022-10-24T05:09:18.630366+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "23de169906fd546e0d900e56e3110be0",
+            "contentHash": "b805e8a8fbfddf674d4b29219f7eff89",
             "date": "April 1, 2020 by HQ",
             "id": "hello-dawson",
             "status": 200,
