@@ -29502,10 +29502,19 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256533+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-10-28T04:11:47.937451+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-32",
             "contentHash": "5939d2f93e1bd282ea6ac3fd9d706d90",
             "details": "Rip City Memo Books",
