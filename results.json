@@ -10242,11 +10242,20 @@
                     }
                 },
                 "timestamp": "2022-10-29T04:04:38.472609+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "3f1d1257e8c5194336a2ffdb25a30dbe",
+                        "old": "d03309cb752b36c13d36e360b581222a"
+                    }
+                },
+                "timestamp": "2022-10-30T04:16:43.508392+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "d03309cb752b36c13d36e360b581222a",
+            "contentHash": "3f1d1257e8c5194336a2ffdb25a30dbe",
             "date": "March 25, 2020 by HQ",
             "id": "hello-jim",
             "status": 200,
@@ -28152,12 +28161,21 @@
                     }
                 },
                 "timestamp": "2022-04-05T15:25:29.176631+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "52232477c2149cc91ba30b03fe27c97c",
+                        "old": "28bec04454d540f001829e237a4a520c"
+                    }
+                },
+                "timestamp": "2022-10-30T04:16:43.507372+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-43a",
-            "contentHash": "28bec04454d540f001829e237a4a520c",
+            "contentHash": "52232477c2149cc91ba30b03fe27c97c",
             "details": "Absolutely American",
             "dimensions": "Graph Paper",
             "id": "national-parks",
