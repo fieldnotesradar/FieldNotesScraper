@@ -28170,12 +28170,21 @@
                     }
                 },
                 "timestamp": "2022-10-30T04:16:43.507372+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "28bec04454d540f001829e237a4a520c",
+                        "old": "52232477c2149cc91ba30b03fe27c97c"
+                    }
+                },
+                "timestamp": "2022-10-31T04:13:47.631992+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-43a",
-            "contentHash": "52232477c2149cc91ba30b03fe27c97c",
+            "contentHash": "28bec04454d540f001829e237a4a520c",
             "details": "Absolutely American",
             "dimensions": "Graph Paper",
             "id": "national-parks",
