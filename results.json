@@ -12794,6 +12794,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/god-of-war": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Partners",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "35da780a1d30270fe582ce951fb753d3",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "November 3, 2022 by Bryan",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "god-of-war",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "God of War:\u00a0Ragnar\u00f6k",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-11-03T20:13:32.350475+00:00"
+            }
+        ],
+        "data": {
+            "category": "Partners",
+            "contentHash": "35da780a1d30270fe582ce951fb753d3",
+            "date": "November 3, 2022 by Bryan",
+            "id": "god-of-war",
+            "status": 200,
+            "title": "God of War:\u00a0Ragnar\u00f6k",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/good-things-come-in-threes": {
         "changelog": [
             {
