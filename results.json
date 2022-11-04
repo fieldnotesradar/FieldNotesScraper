@@ -29050,13 +29050,22 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256471+00:00"
+            },
+            {
+                "changes": {
+                    "details": {
+                        "new": "Dot-Graph or Ruled Paper",
+                        "old": "Dot-Graph"
+                    }
+                },
+                "timestamp": "2022-11-04T18:42:21.864822+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-33",
             "contentHash": "99c54a1ae8c6585c51e2c743780ccdd7",
-            "details": "Dot-Graph",
+            "details": "Dot-Graph or Ruled Paper",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "pitch-black-memo-book",
             "price": "14.95",
@@ -29602,10 +29611,19 @@
                     }
                 },
                 "timestamp": "2022-10-28T04:11:47.937451+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2022-11-04T18:42:21.864847+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-32",
             "contentHash": "5939d2f93e1bd282ea6ac3fd9d706d90",
             "details": "Rip City Memo Books",
