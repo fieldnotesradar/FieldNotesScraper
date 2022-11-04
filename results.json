@@ -25203,20 +25203,61 @@
                     }
                 },
                 "timestamp": "2022-11-04T20:35:14.184013+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNWESSENTIALS"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "4e477366cf84d2a0a36f97a408787c3c"
+                    },
+                    "details": {
+                        "new": "",
+                        "old": "Box o\u2019 Best Sellers"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "360.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "860535"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "Save $35"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Essentials"
+                    }
+                },
+                "timestamp": "2022-11-04T23:36:52.600280+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FNWESSENTIALS",
-            "contentHash": "4e477366cf84d2a0a36f97a408787c3c",
-            "details": "Box o\u2019 Best Sellers",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
             "dimensions": null,
             "id": "essentials",
-            "price": "360.00",
-            "retailerItemId": "860535",
-            "status": 200,
-            "subtitle": "Save $35",
-            "title": "Essentials",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
