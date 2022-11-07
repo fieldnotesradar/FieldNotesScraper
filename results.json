@@ -29604,20 +29604,53 @@
                     }
                 },
                 "timestamp": "2022-10-19T05:04:36.303039+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POPKIT",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "0f73c035a81f2f9d964103c3410cc8c7",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "320.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "6196",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Point-of-Purchase Kit",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2022-11-07T18:19:14.924161+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-POPKIT",
+            "contentHash": "0f73c035a81f2f9d964103c3410cc8c7",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "320.00",
+            "retailerItemId": "6196",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Point-of-Purchase Kit",
             "type": "product"
         }
     },
@@ -30172,20 +30205,53 @@
                     }
                 },
                 "timestamp": "2022-03-06T03:35:38.210862+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POSTER",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "9d2cc03e759a75af854331399bf225df",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "0.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "285249",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Retail Poster",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2022-11-07T18:19:14.924216+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-POSTER",
+            "contentHash": "9d2cc03e759a75af854331399bf225df",
             "details": "",
             "dimensions": null,
             "id": "retail-poster",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "0.00",
+            "retailerItemId": "285249",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Retail Poster",
             "type": "product"
         }
     },
@@ -33613,20 +33679,53 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450895+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-CLING",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "5fdfffd8ebf042517eea0b0fcb4b2ec4",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "0.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "268998",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Window Cling",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2022-11-07T18:19:14.924227+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-CLING",
+            "contentHash": "5fdfffd8ebf042517eea0b0fcb4b2ec4",
             "details": "",
             "dimensions": null,
             "id": "window-cling",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "0.00",
+            "retailerItemId": "268998",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Window Cling",
             "type": "product"
         }
     },
