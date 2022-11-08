@@ -10390,11 +10390,20 @@
                     }
                 },
                 "timestamp": "2022-11-07T04:05:48.809126+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "2ca4673e0eaea050ed80796b53cd39f8",
+                        "old": "008d851e28778433aa9e206c325f507c"
+                    }
+                },
+                "timestamp": "2022-11-08T04:07:26.157381+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "008d851e28778433aa9e206c325f507c",
+            "contentHash": "2ca4673e0eaea050ed80796b53cd39f8",
             "date": "March 21, 2020 by HQ",
             "id": "hello-matt",
             "status": 200,
