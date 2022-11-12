@@ -24571,20 +24571,53 @@
                     }
                 },
                 "timestamp": "2022-11-12T16:19:42.924626+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POP"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "45e2278e62a2d8a593a09d8b2f59e2a7"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "16367"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Display"
+                    }
+                },
+                "timestamp": "2022-11-12T19:15:35.934949+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POP",
-            "contentHash": "45e2278e62a2d8a593a09d8b2f59e2a7",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "display",
-            "price": "0.00",
-            "retailerItemId": "16367",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Display",
+            "title": "",
             "type": "product"
         }
     },
@@ -30612,20 +30645,53 @@
                     }
                 },
                 "timestamp": "2022-11-12T16:19:42.924654+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POSTER"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "9d2cc03e759a75af854331399bf225df"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "285249"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Retail Poster"
+                    }
+                },
+                "timestamp": "2022-11-12T19:15:35.935015+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POSTER",
-            "contentHash": "9d2cc03e759a75af854331399bf225df",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "retail-poster",
-            "price": "0.00",
-            "retailerItemId": "285249",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Retail Poster",
+            "title": "",
             "type": "product"
         }
     },
@@ -34152,20 +34218,53 @@
                     }
                 },
                 "timestamp": "2022-11-12T03:59:11.986560+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-CLING"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "5fdfffd8ebf042517eea0b0fcb4b2ec4"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "268998"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Window Cling"
+                    }
+                },
+                "timestamp": "2022-11-12T19:15:35.934987+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-CLING",
-            "contentHash": "5fdfffd8ebf042517eea0b0fcb4b2ec4",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "window-cling",
-            "price": "0.00",
-            "retailerItemId": "268998",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Window Cling",
+            "title": "",
             "type": "product"
         }
     },
