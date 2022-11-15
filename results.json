@@ -23980,10 +23980,19 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257723+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2022-11-15T19:27:21.002467+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-22",
             "contentHash": "fc7724d1e19f366632b8434b17ec1d8b",
             "details": "5.5 oz. Cowhide",
@@ -24270,10 +24279,19 @@
                     }
                 },
                 "timestamp": "2022-04-29T03:58:40.267034+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2022-11-15T19:27:21.002432+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FNK-03",
             "contentHash": "7fa7ce5977bace4c0b87c8cffb1391aa",
             "details": "1 Planner, 4 Packs, 1 Cover",
