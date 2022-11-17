@@ -10278,11 +10278,20 @@
                     }
                 },
                 "timestamp": "2022-11-16T03:53:50.408238+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "3f1d1257e8c5194336a2ffdb25a30dbe",
+                        "old": "fdf62a52493b95669d04ce6166cb84c2"
+                    }
+                },
+                "timestamp": "2022-11-17T03:48:19.084350+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "fdf62a52493b95669d04ce6166cb84c2",
+            "contentHash": "3f1d1257e8c5194336a2ffdb25a30dbe",
             "date": "March 25, 2020 by HQ",
             "id": "hello-jim",
             "status": 200,
@@ -25638,20 +25647,61 @@
                     }
                 },
                 "timestamp": "2022-11-16T03:53:50.406772+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNWESSENTIALS"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "4e477366cf84d2a0a36f97a408787c3c"
+                    },
+                    "details": {
+                        "new": "",
+                        "old": "Box o\u2019 Best Sellers"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "360.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "860535"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "Save $35"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Essentials"
+                    }
+                },
+                "timestamp": "2022-11-17T03:48:19.083844+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FNWESSENTIALS",
-            "contentHash": "4e477366cf84d2a0a36f97a408787c3c",
-            "details": "Box o\u2019 Best Sellers",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
             "dimensions": null,
             "id": "essentials",
-            "price": "360.00",
-            "retailerItemId": "860535",
-            "status": 200,
-            "subtitle": "Save $35",
-            "title": "Essentials",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
@@ -30088,20 +30138,53 @@
                     }
                 },
                 "timestamp": "2022-11-16T03:53:50.406687+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POPKIT"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "0f73c035a81f2f9d964103c3410cc8c7"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "320.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "6196"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Point-of-Purchase Kit"
+                    }
+                },
+                "timestamp": "2022-11-17T03:48:19.083747+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POPKIT",
-            "contentHash": "0f73c035a81f2f9d964103c3410cc8c7",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": "320.00",
-            "retailerItemId": "6196",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Point-of-Purchase Kit",
+            "title": "",
             "type": "product"
         }
     },
