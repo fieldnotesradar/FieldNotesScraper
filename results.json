@@ -27277,12 +27277,21 @@
                     }
                 },
                 "timestamp": "2022-09-28T15:49:48.142190+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "7d650204be37f376e935a7f9d34ffa13",
+                        "old": "88827f3ae9a0cc94247fe67beddfc3c3"
+                    }
+                },
+                "timestamp": "2022-11-21T15:49:28.736358+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-56",
-            "contentHash": "88827f3ae9a0cc94247fe67beddfc3c3",
+            "contentHash": "7d650204be37f376e935a7f9d34ffa13",
             "details": "Direct from Nashville",
             "dimensions": "3-Pack",
             "id": "hatch",
