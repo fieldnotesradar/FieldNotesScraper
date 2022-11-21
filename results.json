@@ -27749,6 +27749,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/kraft-plus": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNC-57a",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "287e48194325e95980168fde88303521",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "2-Packs",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "3\u00bd\" \u00d7 5\u00bd\"",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "kraft-plus",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "9.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1671343",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "WINTER 2022 QUARTERLY EDITION",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Kraft Plus",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-11-21T16:09:44.301016+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNC-57a",
+            "contentHash": "287e48194325e95980168fde88303521",
+            "details": "2-Packs",
+            "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
+            "id": "kraft-plus",
+            "price": "9.95",
+            "retailerItemId": "1671343",
+            "status": 200,
+            "subtitle": "WINTER 2022 QUARTERLY EDITION",
+            "title": "Kraft Plus",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/leap-of-faith": {
         "changelog": [
             {
@@ -34723,12 +34794,25 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.451375+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    },
+                    "contentHash": {
+                        "new": "dd045f47058d5014527563e0c0f5d952",
+                        "old": "6cf779a0d57bb2ec0dc7f376797fd929"
+                    }
+                },
+                "timestamp": "2022-11-21T16:09:44.301052+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-SUB57P",
-            "contentHash": "6cf779a0d57bb2ec0dc7f376797fd929",
+            "contentHash": "dd045f47058d5014527563e0c0f5d952",
             "details": "",
             "dimensions": null,
             "id": "winter-2022",
