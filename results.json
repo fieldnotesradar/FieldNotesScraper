@@ -34959,19 +34959,40 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450239+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    },
+                    "contentHash": {
+                        "new": "f1025b30f0d8cdea8b791a7d936cfef8",
+                        "old": "1bd5cc9ebe4da660ce75772e12d414e9"
+                    },
+                    "details": {
+                        "new": "Nov 2022 - Jan 2024",
+                        "old": "Nov 2021 - Jan 2023"
+                    },
+                    "subtitle": {
+                        "new": "2023",
+                        "old": "2022"
+                    }
+                },
+                "timestamp": "2022-11-21T15:29:52.104807+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-18",
-            "contentHash": "1bd5cc9ebe4da660ce75772e12d414e9",
-            "details": "Nov 2021 - Jan 2023",
+            "contentHash": "f1025b30f0d8cdea8b791a7d936cfef8",
+            "details": "Nov 2022 - Jan 2024",
             "dimensions": null,
             "id": "workstation-wall-calendar",
             "price": "19.95",
             "retailerItemId": "2093",
             "status": 200,
-            "subtitle": "2022",
+            "subtitle": "2023",
             "title": "15-Month Workstation Calendar",
             "type": "product"
         }
