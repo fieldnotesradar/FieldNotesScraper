@@ -23306,10 +23306,19 @@
                     }
                 },
                 "timestamp": "2022-11-06T03:56:07.245680+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2022-11-22T15:32:14.707257+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-17",
             "contentHash": "ac031a72f0e0cfbc1adf561bfa261cb2",
             "details": "Incl. 12 Divider Tabs",
