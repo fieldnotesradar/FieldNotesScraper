@@ -9973,11 +9973,20 @@
                     }
                 },
                 "timestamp": "2022-10-19T05:04:36.303667+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "4d0b01d9324ff39762dc27477bc78b37",
+                        "old": "82857d30945c44e38c994e8ded05977c"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.728727+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "82857d30945c44e38c994e8ded05977c",
+            "contentHash": "4d0b01d9324ff39762dc27477bc78b37",
             "date": "March 19, 2020 by HQ",
             "id": "hello-aaron",
             "status": 200,
@@ -10296,11 +10305,20 @@
                     }
                 },
                 "timestamp": "2022-11-21T03:55:38.437695+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "3f1d1257e8c5194336a2ffdb25a30dbe",
+                        "old": "fdf62a52493b95669d04ce6166cb84c2"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.728074+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "fdf62a52493b95669d04ce6166cb84c2",
+            "contentHash": "3f1d1257e8c5194336a2ffdb25a30dbe",
             "date": "March 25, 2020 by HQ",
             "id": "hello-jim",
             "status": 200,
@@ -14255,16 +14273,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257453+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727157+00:00"
             }
         ],
         "data": {
             "id": "2016-annual-report",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "2016 Annual Report",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/3-2-1": {
@@ -14337,16 +14368,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257746+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727319+00:00"
             }
         ],
         "data": {
             "id": "3-2-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "4, 3, 2, 1...",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/99-999": {
@@ -14419,16 +14463,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257648+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727277+00:00"
             }
         ],
         "data": {
             "id": "99-999",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "99,999",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/a-daring-rescue": {
@@ -14501,16 +14558,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257252+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726795+00:00"
             }
         ],
         "data": {
             "id": "a-daring-rescue",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "A Daring Rescue - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/a-drive-into-the-gap": {
@@ -14583,16 +14653,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257259+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726927+00:00"
             }
         ],
         "data": {
             "id": "a-drive-into-the-gap",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "A Drive into the Gap - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/a-long-term-relationship": {
@@ -14665,16 +14748,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257335+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726872+00:00"
             }
         ],
         "data": {
             "id": "a-long-term-relationship",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "A Long Term Relationship - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/a-v-club": {
@@ -14747,16 +14843,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257587+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727165+00:00"
             }
         ],
         "data": {
             "id": "a-v-club",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "A.V. Club",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/about-face": {
@@ -14829,16 +14938,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257608+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727198+00:00"
             }
         ],
         "data": {
             "id": "about-face",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "About Face",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/ambition": {
@@ -14911,16 +15033,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257301+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726880+00:00"
             }
         ],
         "data": {
             "id": "ambition",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "The Gilded Age - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/america-in-notebooks": {
@@ -14993,16 +15128,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256841+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726636+00:00"
             }
         ],
         "data": {
             "id": "america-in-notebooks",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "One for Every State in the Union - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/america-the-beautiful": {
@@ -15075,16 +15223,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257274+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726935+00:00"
             }
         ],
         "data": {
             "id": "america-the-beautiful",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "On the Road Again - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/america-the-beautiful-decal-instructions": {
@@ -15157,16 +15318,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257266+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726812+00:00"
             }
         ],
         "data": {
             "id": "america-the-beautiful-decal-instructions",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Decals Details - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/an-obsessives-guide-to-field-notes-colors-part-one-2009": {
@@ -15239,16 +15413,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256798+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726584+00:00"
             }
         ],
         "data": {
             "id": "an-obsessives-guide-to-field-notes-colors-part-one-2009",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Limited Edition Recap I - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/and-everything-in-its-place": {
@@ -15321,16 +15508,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257500+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727042+00:00"
             }
         ],
         "data": {
             "id": "and-everything-in-its-place",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "\u2026And Everything in Its Place - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/arts-and-sciences-edition": {
@@ -15403,16 +15603,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257341+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726943+00:00"
             }
         ],
         "data": {
             "id": "arts-and-sciences-edition",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Arts and Sciences Edition - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/balsam-fir": {
@@ -15485,16 +15698,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256848+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726645+00:00"
             }
         ],
         "data": {
             "id": "balsam-fir",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Hot Foil",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/bits": {
@@ -15567,16 +15793,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257654+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727285+00:00"
             }
         ],
         "data": {
             "id": "bits",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Bits",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead": {
@@ -15649,16 +15888,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257568+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727308+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Caution Ahead - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1": {
@@ -15731,16 +15983,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256769+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726516+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Just a Phase We're Going Through (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1-1": {
@@ -15813,16 +16078,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256754+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726550+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Make of These What You Will (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-1-2": {
@@ -15895,16 +16173,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256763+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726695+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-1-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Handy Around the House (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/caution-ahead-commentary-2": {
@@ -15977,16 +16268,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256776+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726778+00:00"
             }
         ],
         "data": {
             "id": "caution-ahead-commentary-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Caution Ahead (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/chipboard-wire-and-steel": {
@@ -16059,16 +16363,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257620+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727259+00:00"
             }
         ],
         "data": {
             "id": "chipboard-wire-and-steel",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Wire, Chipboard, and Steel",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/cold-horizon": {
@@ -16141,16 +16458,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257246+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726958+00:00"
             }
         ],
         "data": {
             "id": "cold-horizon",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Winter Twilight - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/cover-story": {
@@ -16223,16 +16553,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257417+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727017+00:00"
             }
         ],
         "data": {
             "id": "cover-story",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Cover Story (Films)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/dearest-liz": {
@@ -16305,16 +16648,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257561+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727128+00:00"
             }
         ],
         "data": {
             "id": "dearest-liz",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Dearest Liz - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/deep-cover": {
@@ -16387,16 +16743,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257547+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727118+00:00"
             }
         ],
         "data": {
             "id": "deep-cover",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Deep Cover",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/die": {
@@ -16469,16 +16838,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257614+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727233+00:00"
             }
         ],
         "data": {
             "id": "die",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Die",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/drink-local": {
@@ -16551,16 +16933,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257308+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726830+00:00"
             }
         ],
         "data": {
             "id": "drink-local",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Carry Out - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/dropping-dimes": {
@@ -16633,16 +17028,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257487+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727033+00:00"
             }
         ],
         "data": {
             "id": "dropping-dimes",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Dropping Dimes - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/dry-transfer": {
@@ -16715,16 +17123,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256871+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726679+00:00"
             }
         ],
         "data": {
             "id": "dry-transfer",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Letraset! - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/dum-dah-dee-dum": {
@@ -16797,16 +17218,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256785+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726558+00:00"
             }
         ],
         "data": {
             "id": "dum-dah-dee-dum",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Dum Dah Dee Dum - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/east-is-east-dnd-west-is-west": {
@@ -16879,16 +17313,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257520+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726425+00:00"
             }
         ],
         "data": {
             "id": "east-is-east-dnd-west-is-west",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "East is East and West is West - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/eternal-shiny-and-chrome": {
@@ -16961,16 +17408,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257465+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726985+00:00"
             }
         ],
         "data": {
             "id": "eternal-shiny-and-chrome",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Eternal, Shiny and Chrome - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/extra-extra": {
@@ -17043,16 +17503,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257446+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726950+00:00"
             }
         ],
         "data": {
             "id": "extra-extra",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Extra Extra - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/fire-spotter": {
@@ -17125,16 +17598,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256886+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726703+00:00"
             }
         ],
         "data": {
             "id": "fire-spotter",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Eyes of the Forest - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/flip-the-script": {
@@ -17207,16 +17693,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257493+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727224+00:00"
             }
         ],
         "data": {
             "id": "flip-the-script",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Flip the Script - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/follow-the-lines": {
@@ -17289,16 +17788,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257708+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727293+00:00"
             }
         ],
         "data": {
             "id": "follow-the-lines",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Follow the Lines",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/french-paper-on-two-rivers": {
@@ -17371,16 +17883,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256925+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726746+00:00"
             }
         ],
         "data": {
             "id": "french-paper-on-two-rivers",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "French Paper on Two Rivers - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/from-seed": {
@@ -17453,16 +17978,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257377+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726916+00:00"
             }
         ],
         "data": {
             "id": "from-seed",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "From Seed - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/getting-slick": {
@@ -17535,16 +18073,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257774+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727343+00:00"
             }
         ],
         "data": {
             "id": "getting-slick",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Getting Slick",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-ii": {
@@ -17617,16 +18168,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256864+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726670+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-ii",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Limited Edition Recap II - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-iii": {
@@ -17699,16 +18263,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256893+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726730+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-iii",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Limited Edition Recap III - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-iv": {
@@ -17781,16 +18358,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257289+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726803+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-iv",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Limited Edition Recap IV - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-v": {
@@ -17863,16 +18453,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257295+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726501+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-v",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Limited Edition Recap V - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/guide-to-field-notes-colors-vi": {
@@ -17945,16 +18548,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257383+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726888+00:00"
             }
         ],
         "data": {
             "id": "guide-to-field-notes-colors-vi",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Limited Edition Recap VI - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/hey-jack": {
@@ -18027,16 +18643,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257714+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727335+00:00"
             }
         ],
         "data": {
             "id": "hey-jack",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Hey Jack",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/impressions": {
@@ -18109,16 +18738,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257534+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727147+00:00"
             }
         ],
         "data": {
             "id": "impressions",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Impressions",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/in-your-hands": {
@@ -18191,16 +18833,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257315+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726861+00:00"
             }
         ],
         "data": {
             "id": "in-your-hands",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "In Your Hands - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/infinite-darkness": {
@@ -18273,16 +18928,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256854+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726656+00:00"
             }
         ],
         "data": {
             "id": "infinite-darkness",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Infinite Darkness - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/inspiration": {
@@ -18355,16 +19023,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257423+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727026+00:00"
             }
         ],
         "data": {
             "id": "inspiration",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Inspiration - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/jay-haxley-two-squirrels-with-flashlights": {
@@ -18437,16 +19118,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257506+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727088+00:00"
             }
         ],
         "data": {
             "id": "jay-haxley-two-squirrels-with-flashlights",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Jay, Haxley, & Two Squirrels with Flashlights - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/just-a-phase-were-going-through": {
@@ -18519,16 +19213,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257440+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726977+00:00"
             }
         ],
         "data": {
             "id": "just-a-phase-were-going-through",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Just a Phase We\u2019re Going Through - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/lets-get-to-work": {
@@ -18601,16 +19308,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257472+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727183+00:00"
             }
         ],
         "data": {
             "id": "lets-get-to-work",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Let\u2019s Get to Work - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/love-a-parade": {
@@ -18683,16 +19403,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256806+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726620+00:00"
             }
         ],
         "data": {
             "id": "love-a-parade",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Love a Parade - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/make-a-note-of-it": {
@@ -18765,16 +19498,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257410+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727080+00:00"
             }
         ],
         "data": {
             "id": "make-a-note-of-it",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Make a Note of It - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/make-a-note-of-it-commentary": {
@@ -18847,16 +19593,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256792+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726612+00:00"
             }
         ],
         "data": {
             "id": "make-a-note-of-it-commentary",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Make a Note of It (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/make-of-these-what-you-will": {
@@ -18929,16 +19688,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257602+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727209+00:00"
             }
         ],
         "data": {
             "id": "make-of-these-what-you-will",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Make of These What You Will",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/marbling-process-1": {
@@ -19011,16 +19783,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257555+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727110+00:00"
             }
         ],
         "data": {
             "id": "marbling-process-1",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Marbling Process 1 - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/marbling-process-2": {
@@ -19093,16 +19878,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257541+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727102+00:00"
             }
         ],
         "data": {
             "id": "marbling-process-2",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Marbling Process 2 - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/miles-and-miles": {
@@ -19175,16 +19973,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257636+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727269+00:00"
             }
         ],
         "data": {
             "id": "miles-and-miles",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Miles and Miles",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/monona-county-fair": {
@@ -19257,16 +20068,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256820+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726759+00:00"
             }
         ],
         "data": {
             "id": "monona-county-fair",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Monona County Fair - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/new-entry": {
@@ -19339,16 +20163,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257480+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727217+00:00"
             }
         ],
         "data": {
             "id": "new-entry",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Circle of Light - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/night-sky": {
@@ -19421,16 +20258,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257282+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726838+00:00"
             }
         ],
         "data": {
             "id": "night-sky",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "The Stars and Their Courses - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/northerly": {
@@ -19503,16 +20353,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256899+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726722+00:00"
             }
         ],
         "data": {
             "id": "northerly",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "A FN Midwest Workshop Project - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/one-foot-in-front-of-the-other": {
@@ -19585,16 +20448,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257701+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727300+00:00"
             }
         ],
         "data": {
             "id": "one-foot-in-front-of-the-other",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "One Foot in Front of the Other",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/one-small-step-for-notebooks": {
@@ -19667,16 +20543,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257512+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726474+00:00"
             }
         ],
         "data": {
             "id": "one-small-step-for-notebooks",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "One Small Step for Notebooks - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/open-for-business": {
@@ -19749,16 +20638,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257459+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727172+00:00"
             }
         ],
         "data": {
             "id": "open-for-business",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Open for Business - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/preparing-for-flight": {
@@ -19831,16 +20733,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257321+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726853+00:00"
             }
         ],
         "data": {
             "id": "preparing-for-flight",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Preparing for Flight - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/ravens-wing": {
@@ -19913,16 +20828,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256828+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726822+00:00"
             }
         ],
         "data": {
             "id": "ravens-wing",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Wings - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/red-blooded": {
@@ -19995,16 +20923,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257040+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726786+00:00"
             }
         ],
         "data": {
             "id": "red-blooded",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "We Made a Red One - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/red-fang-red-blooded": {
@@ -20077,16 +21018,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256907+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726738+00:00"
             }
         ],
         "data": {
             "id": "red-fang-red-blooded",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Red Fang - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/riding-to-the-new-year": {
@@ -20159,16 +21113,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257595+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727191+00:00"
             }
         ],
         "data": {
             "id": "riding-to-the-new-year",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Riding to the New Year",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts": {
@@ -20205,16 +21172,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257798+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727456+00:00"
             }
         ],
         "data": {
             "id": "rubbing-elbows-with-ghosts",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Rubbing Elbows with Ghosts",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/shelterwood": {
@@ -20287,16 +21267,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257329+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726525+00:00"
             }
         ],
         "data": {
             "id": "shelterwood",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Gimme Shelter - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/shenandoah": {
@@ -20369,16 +21362,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257370+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726908+00:00"
             }
         ],
         "data": {
             "id": "shenandoah",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Oh, Shenandoah - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/snow-blind": {
@@ -20451,16 +21457,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257402+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727000+00:00"
             }
         ],
         "data": {
             "id": "snow-blind",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "White Indoors, Blue in the Sun - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/stop-the-presses": {
@@ -20533,16 +21552,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257430+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726966+00:00"
             }
         ],
         "data": {
             "id": "stop-the-presses",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "\"Stop the Presses!\" - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/synchronicity": {
@@ -20615,16 +21647,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257574+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727136+00:00"
             }
         ],
         "data": {
             "id": "synchronicity",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Synchronicity",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/talkin-type": {
@@ -20697,16 +21742,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257396+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727007+00:00"
             }
         ],
         "data": {
             "id": "talkin-type",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Talkin\u2019 Type - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/the-stars-and-their-courses-commentary": {
@@ -20779,16 +21837,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256734+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726711+00:00"
             }
         ],
         "data": {
             "id": "the-stars-and-their-courses-commentary",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "The Stars and Their Courses (Commentary)",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/the-steno": {
@@ -20861,16 +21932,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256813+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726767+00:00"
             }
         ],
         "data": {
             "id": "the-steno",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Stenography & Hobo Marks - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/two-rivers": {
@@ -20943,16 +22027,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257357+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726898+00:00"
             }
         ],
         "data": {
             "id": "two-rivers",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Wood Type Forever!",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/unexposed": {
@@ -21025,16 +22122,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257347+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726845+00:00"
             }
         ],
         "data": {
             "id": "unexposed",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Under Wraps - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/united-states-of-letterpress": {
@@ -21107,16 +22217,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257628+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727417+00:00"
             }
         ],
         "data": {
             "id": "united-states-of-letterpress",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "United States of Letterpress",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/vend-i-say-vend": {
@@ -21189,16 +22312,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256835+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726628+00:00"
             }
         ],
         "data": {
             "id": "vend-i-say-vend",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Vend I Say! Vend! - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/vintage-marbling": {
@@ -21271,16 +22407,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257528+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726687+00:00"
             }
         ],
         "data": {
             "id": "vintage-marbling",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Aswirl - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/watch-for-it": {
@@ -21339,16 +22488,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257642+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727327+00:00"
             }
         ],
         "data": {
             "id": "watch-for-it",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Watch For It",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/wish-you-were-here": {
@@ -21385,16 +22547,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257760+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727350+00:00"
             }
         ],
         "data": {
             "id": "wish-you-were-here",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Wish You Were Here",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/workshop-companion": {
@@ -21467,16 +22642,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257364+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.726992+00:00"
             }
         ],
         "data": {
             "id": "workshop-companion",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Handy Around the House - Films",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/films/you-and-i": {
@@ -21549,16 +22737,29 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257581+00:00"
+            },
+            {
+                "changes": {
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022."
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+                    }
+                },
+                "timestamp": "2022-11-22T03:45:29.727358+00:00"
             }
         ],
         "data": {
             "id": "you-and-i",
             "status": 200,
             "teaser_link": null,
-            "teaser_text": "A visit with the Nashville\u2019s venerable Hatch Show Print, our partner in the design and production of our Limited Edition for the Fall of\u00a02022.",
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "You and I",
             "type": "film",
-            "video_url": "https://fieldnotesbrand.com/films/rubbing-elbows-with-ghosts"
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
     },
     "https://fieldnotesbrand.com/products/56-week-planner": {
