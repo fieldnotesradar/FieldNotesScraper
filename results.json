@@ -9982,11 +9982,20 @@
                     }
                 },
                 "timestamp": "2022-11-22T03:45:29.728727+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "82857d30945c44e38c994e8ded05977c",
+                        "old": "4d0b01d9324ff39762dc27477bc78b37"
+                    }
+                },
+                "timestamp": "2022-11-23T03:39:27.186279+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "4d0b01d9324ff39762dc27477bc78b37",
+            "contentHash": "82857d30945c44e38c994e8ded05977c",
             "date": "March 19, 2020 by HQ",
             "id": "hello-aaron",
             "status": 200,
@@ -19234,6 +19243,52 @@
             "teaser_link": null,
             "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
             "title": "Just a Phase We\u2019re Going Through - Films",
+            "type": "film",
+            "video_url": "https://fieldnotesbrand.com/films/kraft-work"
+        }
+    },
+    "https://fieldnotesbrand.com/films/kraft-work": {
+        "changelog": [
+            {
+                "changes": {
+                    "id": {
+                        "new": "kraft-work",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "teaser_link": {
+                        "new": null,
+                        "old": null
+                    },
+                    "teaser_text": {
+                        "new": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Kraft Work",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "film",
+                        "old": null
+                    },
+                    "video_url": {
+                        "new": "https://fieldnotesbrand.com/films/kraft-work",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-11-23T03:39:27.185497+00:00"
+            }
+        ],
+        "data": {
+            "id": "kraft-work",
+            "status": 200,
+            "teaser_link": null,
+            "teaser_text": "For the Winter of 2022 we\u2019ve composed a quartet of 2-Packs highlighting the interplay of ink and paper, The \u201cKraft Plus\u201d\u00a0Edition.",
+            "title": "Kraft Work",
             "type": "film",
             "video_url": "https://fieldnotesbrand.com/films/kraft-work"
         }
