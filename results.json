@@ -12856,6 +12856,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/cyber-monday-free-shipping": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "49fea5cf274bd5406028dbc91c2e5e4f",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "November 28, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "cyber-monday-free-shipping",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Cyber Monday Free\u00a0Shipping",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-11-28T15:29:49.852298+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "49fea5cf274bd5406028dbc91c2e5e4f",
+            "date": "November 28, 2022 by Jim",
+            "id": "cyber-monday-free-shipping",
+            "status": 200,
+            "title": "Cyber Monday Free\u00a0Shipping",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/gender-equality": {
         "changelog": [
             {
