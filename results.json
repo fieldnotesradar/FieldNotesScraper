@@ -12948,6 +12948,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/giving-tuesday": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Field Notes in Action",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "edce9a0dca3ea63e136c3b79a5aa2a03",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "November 29, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "giving-tuesday",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Giving\u00a0Tuesday",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-11-29T14:59:03.660432+00:00"
+            }
+        ],
+        "data": {
+            "category": "Field Notes in Action",
+            "contentHash": "edce9a0dca3ea63e136c3b79a5aa2a03",
+            "date": "November 29, 2022 by Jim",
+            "id": "giving-tuesday",
+            "status": 200,
+            "title": "Giving\u00a0Tuesday",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/god-of-war": {
         "changelog": [
             {
