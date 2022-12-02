@@ -10682,11 +10682,20 @@
                     }
                 },
                 "timestamp": "2022-12-01T03:43:29.864869+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "dc5ee24b9aeb0ef2392048b1d9fa377f",
+                        "old": "f8f94b7eb57c8664d1ba8eb66258ca45"
+                    }
+                },
+                "timestamp": "2022-12-02T03:29:42.455402+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "f8f94b7eb57c8664d1ba8eb66258ca45",
+            "contentHash": "dc5ee24b9aeb0ef2392048b1d9fa377f",
             "date": "April 3, 2020 by HQ",
             "id": "hello-noah",
             "status": 200,
@@ -23489,10 +23498,19 @@
                     }
                 },
                 "timestamp": "2022-11-22T15:32:14.707257+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-12-02T03:29:42.454845+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-17",
             "contentHash": "ac031a72f0e0cfbc1adf561bfa261cb2",
             "details": "Incl. 12 Divider Tabs",
@@ -30351,12 +30369,21 @@
                     }
                 },
                 "timestamp": "2022-11-30T19:21:06.766707+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "253a986dd15e15041a55f82ddf482f71",
+                        "old": "08e1d9335e217b1118bb2e57736cdaca"
+                    }
+                },
+                "timestamp": "2022-12-02T03:29:42.454711+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-43a",
-            "contentHash": "08e1d9335e217b1118bb2e57736cdaca",
+            "contentHash": "253a986dd15e15041a55f82ddf482f71",
             "details": "Absolutely American",
             "dimensions": "Graph Paper",
             "id": "national-parks",
