@@ -27809,12 +27809,21 @@
                     }
                 },
                 "timestamp": "2022-11-14T22:34:13.404911+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "aa8c0d3e0da1dcef86f72128f443fed2",
+                        "old": "2641f1e10b556ad3cd2c66ace8eb0f60"
+                    }
+                },
+                "timestamp": "2022-12-05T21:36:48.720958+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-30",
-            "contentHash": "2641f1e10b556ad3cd2c66ace8eb0f60",
+            "contentHash": "aa8c0d3e0da1dcef86f72128f443fed2",
             "details": "REPORTER'S NOTEBOOKS",
             "dimensions": "3\u00be\" \u00d7 8\"",
             "id": "frontpage",
@@ -34802,10 +34811,19 @@
                     }
                 },
                 "timestamp": "2022-11-14T22:34:13.404888+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-12-05T21:36:48.720986+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-45",
             "contentHash": "8a71d8f1e4afa7e128f35ce8b8866196",
             "details": "30 Page/Line Markers",
