@@ -28256,12 +28256,21 @@
                     }
                 },
                 "timestamp": "2022-10-24T19:54:55.798862+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "9d64600bcef83e765fc3b0e2761d6c92",
+                        "old": "8f61f445353d1fcfaa2521484ccfa371"
+                    }
+                },
+                "timestamp": "2022-12-07T16:41:33.144925+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-55",
-            "contentHash": "8f61f445353d1fcfaa2521484ccfa371",
+            "contentHash": "9d64600bcef83e765fc3b0e2761d6c92",
             "details": "Five Lakes",
             "dimensions": "5-Pack",
             "id": "great-lakes",
