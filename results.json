@@ -12727,6 +12727,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/25-off-today-only": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "c06dd65eb3415c7374d5b7272e761916",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "December 7, 2022 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "25-off-today-only",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Today is\u00a0Wednesday",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-12-07T17:40:32.803141+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "c06dd65eb3415c7374d5b7272e761916",
+            "date": "December 7, 2022 by HQ",
+            "id": "25-off-today-only",
+            "status": 200,
+            "title": "Today is\u00a0Wednesday",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/a-stitch-in-time": {
         "changelog": [
             {
