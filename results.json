@@ -12761,15 +12761,28 @@
                     }
                 },
                 "timestamp": "2022-12-07T17:40:32.803141+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "144c1737b521c7ae87ce276a789dcf03",
+                        "old": "c06dd65eb3415c7374d5b7272e761916"
+                    },
+                    "title": {
+                        "new": "That\u2019s All\u00a0Folks",
+                        "old": "Today is\u00a0Wednesday"
+                    }
+                },
+                "timestamp": "2022-12-08T17:43:31.295714+00:00"
             }
         ],
         "data": {
             "category": "Special Offers",
-            "contentHash": "c06dd65eb3415c7374d5b7272e761916",
+            "contentHash": "144c1737b521c7ae87ce276a789dcf03",
             "date": "December 7, 2022 by HQ",
             "id": "25-off-today-only",
             "status": 200,
-            "title": "Today is\u00a0Wednesday",
+            "title": "That\u2019s All\u00a0Folks",
             "type": "dispatch"
         }
     },
