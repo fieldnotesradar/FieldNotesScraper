@@ -24805,10 +24805,19 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256459+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-12-08T03:27:09.481001+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-28",
             "contentHash": "6b38f79f813b0d665fab50cfc0676b38",
             "details": "The Memo Book That Works",
@@ -30469,12 +30478,21 @@
                     }
                 },
                 "timestamp": "2022-12-07T03:30:04.077317+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "08e1d9335e217b1118bb2e57736cdaca",
+                        "old": "af00021defdb6c65d871b90767b273f0"
+                    }
+                },
+                "timestamp": "2022-12-08T03:27:09.481510+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-43a",
-            "contentHash": "af00021defdb6c65d871b90767b273f0",
+            "contentHash": "08e1d9335e217b1118bb2e57736cdaca",
             "details": "Absolutely American",
             "dimensions": "Graph Paper",
             "id": "national-parks",
