@@ -13237,6 +13237,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2022/read-your-mail": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": null,
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "f3177d2a1f808616d6e42ffb3f73094c",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "December 9, 2022 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "read-your-mail",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Did We \u201cCount You\u00a0In?\u201c",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-12-09T15:35:12.447702+00:00"
+            }
+        ],
+        "data": {
+            "category": null,
+            "contentHash": "f3177d2a1f808616d6e42ffb3f73094c",
+            "date": "December 9, 2022 by Jim",
+            "id": "read-your-mail",
+            "status": 200,
+            "title": "Did We \u201cCount You\u00a0In?\u201c",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2022/the-state-of-the-states": {
         "changelog": [
             {
