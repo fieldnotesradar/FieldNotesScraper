@@ -29384,10 +29384,19 @@
                     }
                 },
                 "timestamp": "2022-12-14T15:59:59.895532+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2022-12-14T20:16:09.882620+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNK-05",
             "contentHash": "444c631cc4b999969141a9292f94d5eb",
             "details": "Limited Availability",
