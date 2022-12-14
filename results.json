@@ -29330,6 +29330,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/inked-up-box-set": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNK-05",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "444c631cc4b999969141a9292f94d5eb",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Limited Availability",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "inked-up-box-set",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "74.75",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1720590",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "A Great Gift",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Inked Up Box Set",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2022-12-14T15:59:59.895532+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNK-05",
+            "contentHash": "444c631cc4b999969141a9292f94d5eb",
+            "details": "Limited Availability",
+            "dimensions": null,
+            "id": "inked-up-box-set",
+            "price": "74.75",
+            "retailerItemId": "1720590",
+            "status": 200,
+            "subtitle": "A Great Gift",
+            "title": "Inked Up Box Set",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/just-below-zero": {
         "changelog": [
             {
