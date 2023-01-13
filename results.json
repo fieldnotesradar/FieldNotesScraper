@@ -13647,6 +13647,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/singles-party": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "71c8878264acab7f21fb1d42cfac4b36",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "January 11, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "singles-party",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Singles\u00a0Party!",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-01-13T03:27:44.230790+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "71c8878264acab7f21fb1d42cfac4b36",
+            "date": "January 11, 2023 by HQ",
+            "id": "singles-party",
+            "status": 200,
+            "title": "Singles\u00a0Party!",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/categories/dulynoted": {
         "changelog": [
             {
