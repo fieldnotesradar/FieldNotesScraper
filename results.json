@@ -32785,20 +32785,61 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450563+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "out of stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNK-02"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "79d8b1265fab31830d3e56ca381a5c8e"
+                    },
+                    "details": {
+                        "new": "",
+                        "old": "1 Planner, 3 Packs, 3 Pencils"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "54.95"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "246390"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "Get Things Done"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Project Kit"
+                    }
+                },
+                "timestamp": "2023-01-23T17:19:24.913445+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
-            "code": "FNK-02",
-            "contentHash": "79d8b1265fab31830d3e56ca381a5c8e",
-            "details": "1 Planner, 3 Packs, 3 Pencils",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
             "dimensions": null,
             "id": "project-kit",
-            "price": "54.95",
-            "retailerItemId": "246390",
-            "status": 200,
-            "subtitle": "Get Things Done",
-            "title": "Project Kit",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
