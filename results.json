@@ -28017,6 +28017,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/fall-2024": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB64P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "32dc7f96286e83bd3b68b133f115e45d",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "fall-2024",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1741625",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Fall 2024 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-01-23T17:03:20.173355+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB64P",
+            "contentHash": "32dc7f96286e83bd3b68b133f115e45d",
+            "details": "",
+            "dimensions": null,
+            "id": "fall-2024",
+            "price": "120.00",
+            "retailerItemId": "1741625",
+            "status": 200,
+            "subtitle": "",
+            "title": "Fall 2024 Quarterly Edition",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/fifty": {
         "changelog": [
             {
@@ -34777,6 +34848,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/spring-2024": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB62P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "efcf0665545259efcb9978ecc59a27d0",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "spring-2024",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1741619",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Spring 2024 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-01-23T17:03:20.173312+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB62P",
+            "contentHash": "efcf0665545259efcb9978ecc59a27d0",
+            "details": "",
+            "dimensions": null,
+            "id": "spring-2024",
+            "price": "120.00",
+            "retailerItemId": "1741619",
+            "status": 200,
+            "subtitle": "",
+            "title": "Spring 2024 Quarterly Edition",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/starter-kit": {
         "changelog": [
             {
@@ -35117,6 +35259,77 @@
             "status": 200,
             "subtitle": "",
             "title": "Summer 2023 Quarterly Edition",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/summer-2024": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB63P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "73c62f9d7465b6c95b4ca940388fbd4e",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "summer-2024",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1741622",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Summer 2024 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-01-23T17:03:20.173346+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB63P",
+            "contentHash": "73c62f9d7465b6c95b4ca940388fbd4e",
+            "details": "",
+            "dimensions": null,
+            "id": "summer-2024",
+            "price": "120.00",
+            "retailerItemId": "1741622",
+            "status": 200,
+            "subtitle": "",
+            "title": "Summer 2024 Quarterly Edition",
             "type": "product"
         }
     },
@@ -37156,6 +37369,77 @@
             "status": 200,
             "subtitle": "",
             "title": "Winter 2023 Quarterly Edition",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/winter-2024": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-SUB65P",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "47e2efbbcc3d45ebe2a80d3502462f73",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "winter-2024",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "120.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1741629",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Winter 2024 Quarterly Edition",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-01-23T17:03:20.173338+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FN-SUB65P",
+            "contentHash": "47e2efbbcc3d45ebe2a80d3502462f73",
+            "details": "",
+            "dimensions": null,
+            "id": "winter-2024",
+            "price": "120.00",
+            "retailerItemId": "1741629",
+            "status": 200,
+            "subtitle": "",
+            "title": "Winter 2024 Quarterly Edition",
             "type": "product"
         }
     },
