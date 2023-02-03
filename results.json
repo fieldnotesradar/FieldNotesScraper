@@ -27994,10 +27994,19 @@
                     }
                 },
                 "timestamp": "2023-02-03T18:20:00.876018+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-02-03T21:09:53.458320+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNC-17",
             "contentHash": "07f0609b18a45942cd7559e6900aae09",
             "details": "Waterproof Notebooks",
