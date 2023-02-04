@@ -10108,11 +10108,20 @@
                     }
                 },
                 "timestamp": "2023-01-11T03:26:00.205228+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "cadab86153d5dca2877f82e3c24b5042",
+                        "old": "82857d30945c44e38c994e8ded05977c"
+                    }
+                },
+                "timestamp": "2023-02-04T03:25:46.837251+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "82857d30945c44e38c994e8ded05977c",
+            "contentHash": "cadab86153d5dca2877f82e3c24b5042",
             "date": "March 19, 2020 by HQ",
             "id": "hello-aaron",
             "status": 200,
