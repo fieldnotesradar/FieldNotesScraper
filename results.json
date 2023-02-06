@@ -34065,6 +34065,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/rooster-book-2023": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNR-2023",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "ea74deadbad8441001434499f225b011",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Ruled Paper",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "3\u00bd\" \u00d7 5\u00bd\"",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "rooster-book-2023",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "5.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1742594",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "2023 Tournament of Books",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Rooster Book 2023",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-02-06T16:35:01.453394+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNR-2023",
+            "contentHash": "ea74deadbad8441001434499f225b011",
+            "details": "Ruled Paper",
+            "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
+            "id": "rooster-book-2023",
+            "price": "5.00",
+            "retailerItemId": "1742594",
+            "status": 200,
+            "subtitle": "2023 Tournament of Books",
+            "title": "Rooster Book 2023",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/rooster2017": {
         "changelog": [
             {
