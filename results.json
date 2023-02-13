@@ -36143,10 +36143,19 @@
                     }
                 },
                 "timestamp": "2022-12-05T21:36:48.720986+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2023-02-13T18:30:00.858770+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-45",
             "contentHash": "8a71d8f1e4afa7e128f35ce8b8866196",
             "details": "30 Page/Line Markers",
