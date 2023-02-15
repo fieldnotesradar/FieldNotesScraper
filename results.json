@@ -13782,6 +13782,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/scheming-attorneys-their-cynical-enablers": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Field Notes in Action",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "19e14781870c8b74780f02b8f54e6e87",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "February 15, 2023 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "scheming-attorneys-their-cynical-enablers",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Scheming Attorneys & Their Cynical\u00a0Enablers",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-02-15T21:59:53.406878+00:00"
+            }
+        ],
+        "data": {
+            "category": "Field Notes in Action",
+            "contentHash": "19e14781870c8b74780f02b8f54e6e87",
+            "date": "February 15, 2023 by Jim",
+            "id": "scheming-attorneys-their-cynical-enablers",
+            "status": 200,
+            "title": "Scheming Attorneys & Their Cynical\u00a0Enablers",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/singles-party": {
         "changelog": [
             {
