@@ -28605,12 +28605,21 @@
                     }
                 },
                 "timestamp": "2023-02-08T15:26:16.745276+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "57973562c5ef2a4ac503981eb2b93881",
+                        "old": "bf939b6f1c342417e6cc12e1cadf1325"
+                    }
+                },
+                "timestamp": "2023-02-15T16:11:47.582426+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-30",
-            "contentHash": "bf939b6f1c342417e6cc12e1cadf1325",
+            "contentHash": "57973562c5ef2a4ac503981eb2b93881",
             "details": "REPORTER'S NOTEBOOKS",
             "dimensions": "3\u00be\" \u00d7 8\"",
             "id": "frontpage",
