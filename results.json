@@ -25198,10 +25198,19 @@
                     }
                 },
                 "timestamp": "2022-12-08T03:27:09.481001+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2023-02-15T19:24:36.406267+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-28",
             "contentHash": "6b38f79f813b0d665fab50cfc0676b38",
             "details": "The Memo Book That Works",
