@@ -10550,11 +10550,20 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.452823+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "1dd4468597d3f188d986e9d2d3b7bf8f",
+                        "old": "40e1de8cf3ea7288846a76fbbd5b816b"
+                    }
+                },
+                "timestamp": "2023-02-16T03:28:49.528917+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "40e1de8cf3ea7288846a76fbbd5b816b",
+            "contentHash": "1dd4468597d3f188d986e9d2d3b7bf8f",
             "date": "April 2, 2020 by HQ",
             "id": "hello-joe",
             "status": 200,
@@ -13779,6 +13788,52 @@
             "id": "well-hello-there",
             "status": 200,
             "title": "Well, Hello\u00a0There",
+            "type": "dispatch"
+        }
+    },
+    "https://fieldnotesbrand.com/dispatches/2023/free-work-station-calendars-while-they-last": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": null,
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "f9b4619eaba9eeb056f163a804523b57",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "February 14, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "free-work-station-calendars-while-they-last",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Free Work Station Calendars While They\u00a0Last",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-02-16T03:28:49.529049+00:00"
+            }
+        ],
+        "data": {
+            "category": null,
+            "contentHash": "f9b4619eaba9eeb056f163a804523b57",
+            "date": "February 14, 2023 by HQ",
+            "id": "free-work-station-calendars-while-they-last",
+            "status": 200,
+            "title": "Free Work Station Calendars While They\u00a0Last",
             "type": "dispatch"
         }
     },
@@ -27907,20 +27962,61 @@
                     }
                 },
                 "timestamp": "2023-02-15T03:29:00.938718+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNWESSENTIALS"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "65b29e1141bf439f233a042ecc64aff3"
+                    },
+                    "details": {
+                        "new": "",
+                        "old": "Box o\u2019 Best Sellers"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "360.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "860535"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "Save $35"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Essentials"
+                    }
+                },
+                "timestamp": "2023-02-16T03:28:49.528253+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FNWESSENTIALS",
-            "contentHash": "65b29e1141bf439f233a042ecc64aff3",
-            "details": "Box o\u2019 Best Sellers",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
             "dimensions": null,
             "id": "essentials",
-            "price": "360.00",
-            "retailerItemId": "860535",
-            "status": 200,
-            "subtitle": "Save $35",
-            "title": "Essentials",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
