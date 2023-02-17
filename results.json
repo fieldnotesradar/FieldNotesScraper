@@ -7995,12 +7995,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.452487+00:00"
+            },
+            {
+                "changes": {
+                    "date": {
+                        "new": "June 29, 2018 by HQ",
+                        "old": "June 29, 2018 by Erica"
+                    }
+                },
+                "timestamp": "2023-02-17T03:30:44.539582+00:00"
             }
         ],
         "data": {
             "category": null,
             "contentHash": "a0e4dc7864ad337d3c3f6fc6ba3873cc",
-            "date": "June 29, 2018 by Erica",
+            "date": "June 29, 2018 by HQ",
             "id": "small-steps-and-giant-leaps",
             "status": 200,
             "title": "Small Steps and Giant\u00a0Leaps",
@@ -10559,11 +10568,20 @@
                     }
                 },
                 "timestamp": "2023-02-16T03:28:49.528917+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "40e1de8cf3ea7288846a76fbbd5b816b",
+                        "old": "1dd4468597d3f188d986e9d2d3b7bf8f"
+                    }
+                },
+                "timestamp": "2023-02-17T03:30:44.539744+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "1dd4468597d3f188d986e9d2d3b7bf8f",
+            "contentHash": "40e1de8cf3ea7288846a76fbbd5b816b",
             "date": "April 2, 2020 by HQ",
             "id": "hello-joe",
             "status": 200,
@@ -13825,12 +13843,25 @@
                     }
                 },
                 "timestamp": "2023-02-16T03:28:49.529049+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "3bda21b01a01dca89968527734c2be55",
+                        "old": "f9b4619eaba9eeb056f163a804523b57"
+                    },
+                    "date": {
+                        "new": "February 16, 2023 by HQ",
+                        "old": "February 14, 2023 by HQ"
+                    }
+                },
+                "timestamp": "2023-02-17T03:30:44.539829+00:00"
             }
         ],
         "data": {
             "category": null,
-            "contentHash": "f9b4619eaba9eeb056f163a804523b57",
-            "date": "February 14, 2023 by HQ",
+            "contentHash": "3bda21b01a01dca89968527734c2be55",
+            "date": "February 16, 2023 by HQ",
             "id": "free-work-station-calendars-while-they-last",
             "status": 200,
             "title": "Free Work Station Calendars While They\u00a0Last",
@@ -33059,20 +33090,53 @@
                     }
                 },
                 "timestamp": "2023-01-25T01:17:34.576294+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POPKIT",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "65184ddc116c2814f9322a81bef9aeea",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "320.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "6196",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Point-of-Purchase Kit",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2023-02-17T03:30:44.538694+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-POPKIT",
+            "contentHash": "65184ddc116c2814f9322a81bef9aeea",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "320.00",
+            "retailerItemId": "6196",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Point-of-Purchase Kit",
             "type": "product"
         }
     },
