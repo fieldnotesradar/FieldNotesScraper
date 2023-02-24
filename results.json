@@ -13978,6 +13978,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/unplug-me": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Field Notes in Action",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "c98fbeaca5b413322392925002604a0b",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "February 22, 2023 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "unplug-me",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Unplug\u00a0Me",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-02-24T03:29:26.051626+00:00"
+            }
+        ],
+        "data": {
+            "category": "Field Notes in Action",
+            "contentHash": "c98fbeaca5b413322392925002604a0b",
+            "date": "February 22, 2023 by Jim",
+            "id": "unplug-me",
+            "status": 200,
+            "title": "Unplug\u00a0Me",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/categories/dulynoted": {
         "changelog": [
             {
