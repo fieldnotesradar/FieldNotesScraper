@@ -26755,20 +26755,53 @@
                     }
                 },
                 "timestamp": "2023-02-25T03:29:38.808781+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POP"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "45e2278e62a2d8a593a09d8b2f59e2a7"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "16367"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Display"
+                    }
+                },
+                "timestamp": "2023-02-26T03:35:20.786958+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POP",
-            "contentHash": "45e2278e62a2d8a593a09d8b2f59e2a7",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "display",
-            "price": "0.00",
-            "retailerItemId": "16367",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Display",
+            "title": "",
             "type": "product"
         }
     },
@@ -28172,20 +28205,61 @@
                     }
                 },
                 "timestamp": "2023-02-25T03:29:38.808879+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNWESSENTIALS"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "65b29e1141bf439f233a042ecc64aff3"
+                    },
+                    "details": {
+                        "new": "",
+                        "old": "Box o\u2019 Best Sellers"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "360.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "860535"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "Save $35"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Essentials"
+                    }
+                },
+                "timestamp": "2023-02-26T03:35:20.787075+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FNWESSENTIALS",
-            "contentHash": "65b29e1141bf439f233a042ecc64aff3",
-            "details": "Box o\u2019 Best Sellers",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
             "dimensions": null,
             "id": "essentials",
-            "price": "360.00",
-            "retailerItemId": "860535",
-            "status": 200,
-            "subtitle": "Save $35",
-            "title": "Essentials",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
@@ -37974,20 +38048,53 @@
                     }
                 },
                 "timestamp": "2023-02-25T03:29:38.808820+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-CLING"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "5fdfffd8ebf042517eea0b0fcb4b2ec4"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "268998"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Window Cling"
+                    }
+                },
+                "timestamp": "2023-02-26T03:35:20.787015+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-CLING",
-            "contentHash": "5fdfffd8ebf042517eea0b0fcb4b2ec4",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "window-cling",
-            "price": "0.00",
-            "retailerItemId": "268998",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Window Cling",
+            "title": "",
             "type": "product"
         }
     },
