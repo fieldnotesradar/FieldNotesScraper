@@ -37036,10 +37036,19 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.256613+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-02-28T15:49:44.361429+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNxRM-01",
             "contentHash": "6a20ab2c8e26bcc571c405d92d7fd6f0",
             "details": "",
