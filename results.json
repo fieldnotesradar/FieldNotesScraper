@@ -38610,10 +38610,19 @@
                     }
                 },
                 "timestamp": "2022-11-21T15:29:52.104807+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-03-01T22:30:02.862439+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-18",
             "contentHash": "f1025b30f0d8cdea8b791a7d936cfef8",
             "details": "Nov 2022 - Jan 2024",
