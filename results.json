@@ -37104,12 +37104,21 @@
                     }
                 },
                 "timestamp": "2023-02-28T15:49:44.361429+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "8806eebacc1e7d8de84721f2afdde19d",
+                        "old": "6a20ab2c8e26bcc571c405d92d7fd6f0"
+                    }
+                },
+                "timestamp": "2023-03-02T15:35:53.685121+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
             "code": "FNxRM-01",
-            "contentHash": "6a20ab2c8e26bcc571c405d92d7fd6f0",
+            "contentHash": "8806eebacc1e7d8de84721f2afdde19d",
             "details": "",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "underland",
@@ -37175,16 +37184,29 @@
                     }
                 },
                 "timestamp": "2022-03-30T17:17:44.108296+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "fa2b35ee9e99cdcb8ac43bfc5f4f283e",
+                        "old": "bfd1f4fedfee29072a9c8069dab2170d"
+                    },
+                    "price": {
+                        "new": "49.50",
+                        "old": "95.00"
+                    }
+                },
+                "timestamp": "2023-03-02T15:35:53.685096+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNP-RM01",
-            "contentHash": "bfd1f4fedfee29072a9c8069dab2170d",
+            "contentHash": "fa2b35ee9e99cdcb8ac43bfc5f4f283e",
             "details": "",
             "dimensions": null,
             "id": "underland-press-sheet",
-            "price": "95.00",
+            "price": "49.50",
             "retailerItemId": "1407000",
             "status": 200,
             "subtitle": "25\" \u00d7 38\"",
