@@ -10595,11 +10595,20 @@
                     }
                 },
                 "timestamp": "2023-02-20T03:30:35.882087+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "e81ffa6f30d4eeb2af4cc862d2f6fa53",
+                        "old": "40e1de8cf3ea7288846a76fbbd5b816b"
+                    }
+                },
+                "timestamp": "2023-03-02T03:32:04.214120+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "40e1de8cf3ea7288846a76fbbd5b816b",
+            "contentHash": "e81ffa6f30d4eeb2af4cc862d2f6fa53",
             "date": "April 2, 2020 by HQ",
             "id": "hello-joe",
             "status": 200,
@@ -13874,15 +13883,32 @@
                     }
                 },
                 "timestamp": "2023-02-17T03:30:44.539829+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "93a5021bb4671cbc12373618adb1dca6",
+                        "old": "3bda21b01a01dca89968527734c2be55"
+                    },
+                    "date": {
+                        "new": "March 1, 2023 by HQ",
+                        "old": "February 16, 2023 by HQ"
+                    },
+                    "title": {
+                        "new": "Free \u201cHatch Show Print\u201d 3-Packs & USA\u00a0Shipping",
+                        "old": "Free Work Station Calendars While They\u00a0Last"
+                    }
+                },
+                "timestamp": "2023-03-02T03:32:04.214255+00:00"
             }
         ],
         "data": {
             "category": null,
-            "contentHash": "3bda21b01a01dca89968527734c2be55",
-            "date": "February 16, 2023 by HQ",
+            "contentHash": "93a5021bb4671cbc12373618adb1dca6",
+            "date": "March 1, 2023 by HQ",
             "id": "free-work-station-calendars-while-they-last",
             "status": 200,
-            "title": "Free Work Station Calendars While They\u00a0Last",
+            "title": "Free \u201cHatch Show Print\u201d 3-Packs & USA\u00a0Shipping",
             "type": "dispatch"
         }
     },
@@ -33377,20 +33403,53 @@
                     }
                 },
                 "timestamp": "2023-02-18T03:26:33.982451+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POPKIT",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "65184ddc116c2814f9322a81bef9aeea",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "320.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "6196",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Point-of-Purchase Kit",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2023-03-02T03:32:04.212661+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-POPKIT",
+            "contentHash": "65184ddc116c2814f9322a81bef9aeea",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "320.00",
+            "retailerItemId": "6196",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Point-of-Purchase Kit",
             "type": "product"
         }
     },
