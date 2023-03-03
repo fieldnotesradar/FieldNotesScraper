@@ -10604,11 +10604,20 @@
                     }
                 },
                 "timestamp": "2023-03-02T03:32:04.214120+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "40e1de8cf3ea7288846a76fbbd5b816b",
+                        "old": "e81ffa6f30d4eeb2af4cc862d2f6fa53"
+                    }
+                },
+                "timestamp": "2023-03-03T04:35:24.138849+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "e81ffa6f30d4eeb2af4cc862d2f6fa53",
+            "contentHash": "40e1de8cf3ea7288846a76fbbd5b816b",
             "date": "April 2, 2020 by HQ",
             "id": "hello-joe",
             "status": 200,
@@ -10997,11 +11006,20 @@
                     }
                 },
                 "timestamp": "2023-01-29T03:26:49.289938+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "26265098744d8754200d6db797c0c0d5",
+                        "old": "dc5ee24b9aeb0ef2392048b1d9fa377f"
+                    }
+                },
+                "timestamp": "2023-03-03T04:35:24.138839+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "dc5ee24b9aeb0ef2392048b1d9fa377f",
+            "contentHash": "26265098744d8754200d6db797c0c0d5",
             "date": "April 3, 2020 by HQ",
             "id": "hello-noah",
             "status": 200,
@@ -13900,11 +13918,20 @@
                     }
                 },
                 "timestamp": "2023-03-02T03:32:04.214255+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "70963cccf9f38334773b5440b24048dc",
+                        "old": "93a5021bb4671cbc12373618adb1dca6"
+                    }
+                },
+                "timestamp": "2023-03-03T04:35:24.138964+00:00"
             }
         ],
         "data": {
             "category": null,
-            "contentHash": "93a5021bb4671cbc12373618adb1dca6",
+            "contentHash": "70963cccf9f38334773b5440b24048dc",
             "date": "March 1, 2023 by HQ",
             "id": "free-work-station-calendars-while-they-last",
             "status": 200,
@@ -28272,20 +28299,61 @@
                     }
                 },
                 "timestamp": "2023-02-26T03:35:20.787075+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNWESSENTIALS",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "65b29e1141bf439f233a042ecc64aff3",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "details": {
+                        "new": "Box o\u2019 Best Sellers",
+                        "old": ""
+                    },
+                    "price": {
+                        "new": "360.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "860535",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "subtitle": {
+                        "new": "Save $35",
+                        "old": ""
+                    },
+                    "title": {
+                        "new": "Essentials",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2023-03-03T04:35:24.137829+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
-            "details": "",
+            "availability": "in stock",
+            "code": "FNWESSENTIALS",
+            "contentHash": "65b29e1141bf439f233a042ecc64aff3",
+            "details": "Box o\u2019 Best Sellers",
             "dimensions": null,
             "id": "essentials",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
-            "subtitle": "",
-            "title": "",
+            "price": "360.00",
+            "retailerItemId": "860535",
+            "status": 200,
+            "subtitle": "Save $35",
+            "title": "Essentials",
             "type": "product"
         }
     },
@@ -33436,20 +33504,53 @@
                     }
                 },
                 "timestamp": "2023-03-02T03:32:04.212661+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POPKIT"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "65184ddc116c2814f9322a81bef9aeea"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "320.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "6196"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Point-of-Purchase Kit"
+                    }
+                },
+                "timestamp": "2023-03-03T04:35:24.137740+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POPKIT",
-            "contentHash": "65184ddc116c2814f9322a81bef9aeea",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": "320.00",
-            "retailerItemId": "6196",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Point-of-Purchase Kit",
+            "title": "",
             "type": "product"
         }
     },
