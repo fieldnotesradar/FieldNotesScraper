@@ -11015,11 +11015,20 @@
                     }
                 },
                 "timestamp": "2023-03-03T04:35:24.138839+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "dc5ee24b9aeb0ef2392048b1d9fa377f",
+                        "old": "26265098744d8754200d6db797c0c0d5"
+                    }
+                },
+                "timestamp": "2023-03-04T03:26:02.307211+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "26265098744d8754200d6db797c0c0d5",
+            "contentHash": "dc5ee24b9aeb0ef2392048b1d9fa377f",
             "date": "April 3, 2020 by HQ",
             "id": "hello-noah",
             "status": 200,
@@ -28340,20 +28349,61 @@
                     }
                 },
                 "timestamp": "2023-03-03T04:35:24.137829+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNWESSENTIALS"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "65b29e1141bf439f233a042ecc64aff3"
+                    },
+                    "details": {
+                        "new": "",
+                        "old": "Box o\u2019 Best Sellers"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "360.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "860535"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "Save $35"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Essentials"
+                    }
+                },
+                "timestamp": "2023-03-04T03:26:02.306699+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FNWESSENTIALS",
-            "contentHash": "65b29e1141bf439f233a042ecc64aff3",
-            "details": "Box o\u2019 Best Sellers",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
             "dimensions": null,
             "id": "essentials",
-            "price": "360.00",
-            "retailerItemId": "860535",
-            "status": 200,
-            "subtitle": "Save $35",
-            "title": "Essentials",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
