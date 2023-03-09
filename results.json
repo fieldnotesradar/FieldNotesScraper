@@ -28502,12 +28502,21 @@
                     }
                 },
                 "timestamp": "2023-02-10T18:43:20.515317+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "ecd21e22d62db946f66735d2159517c0",
+                        "old": "8b20f8852a255810fbaed43bf24db451"
+                    }
+                },
+                "timestamp": "2023-03-09T18:52:54.518358+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-37",
-            "contentHash": "8b20f8852a255810fbaed43bf24db451",
+            "contentHash": "ecd21e22d62db946f66735d2159517c0",
             "details": "Beautifully Crafted",
             "dimensions": null,
             "id": "everyday-inspiration-leather-notebook-cover",
