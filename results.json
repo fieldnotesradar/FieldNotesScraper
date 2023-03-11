@@ -11134,15 +11134,40 @@
                     }
                 },
                 "timestamp": "2022-12-12T03:31:05.429411+00:00"
+            },
+            {
+                "changes": {
+                    "category": {
+                        "new": null,
+                        "old": "Public Service Announcement"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "9ff1cc1b179decd28d9d729223b7c49c"
+                    },
+                    "date": {
+                        "new": null,
+                        "old": "March 27, 2020 by HQ"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": null,
+                        "old": "Hello\u00a0Shea"
+                    }
+                },
+                "timestamp": "2023-03-11T03:23:21.260806+00:00"
             }
         ],
         "data": {
-            "category": "Public Service Announcement",
-            "contentHash": "9ff1cc1b179decd28d9d729223b7c49c",
-            "date": "March 27, 2020 by HQ",
+            "category": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "date": null,
             "id": "hello-shea",
-            "status": 200,
-            "title": "Hello\u00a0Shea",
+            "status": 404,
+            "title": null,
             "type": "dispatch"
         }
     },
