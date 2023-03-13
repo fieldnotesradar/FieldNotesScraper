@@ -26310,12 +26310,21 @@
                     }
                 },
                 "timestamp": "2023-03-12T03:25:30.258959+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "8c47aa74c5ead883a2e11289fafa8f34",
+                        "old": "e114c20c572964276ff1d1d09355d5a1"
+                    }
+                },
+                "timestamp": "2023-03-13T03:25:17.109136+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
             "code": "FNC-15",
-            "contentHash": "e114c20c572964276ff1d1d09355d5a1",
+            "contentHash": "8c47aa74c5ead883a2e11289fafa8f34",
             "details": "THREE 48-PAGE MEMO BOOKS",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "daygame",
