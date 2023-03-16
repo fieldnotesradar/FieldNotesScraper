@@ -32643,10 +32643,19 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450572+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-03-16T19:56:09.403129+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-40",
             "contentHash": "0ce129077fc90ec0b9793bf641dd6d39",
             "details": "",
