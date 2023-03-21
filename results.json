@@ -35874,10 +35874,19 @@
                     }
                 },
                 "timestamp": "2022-03-29T17:34:46.774854+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-03-21T18:15:51.916428+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-19B",
             "contentHash": "0cbd23bfabfb4335da632eb26ee51912",
             "details": "Built for Outer Space",
