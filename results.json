@@ -24705,6 +24705,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/blackwing-colors": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": null
+                    },
+                    "code": {
+                        "new": null,
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "blackwing-colors",
+                        "old": null
+                    },
+                    "price": {
+                        "new": null,
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": null
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-03-23T16:33:30.238327+00:00"
+            }
+        ],
+        "data": {
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "details": "",
+            "dimensions": null,
+            "id": "blackwing-colors",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/blue-book": {
         "changelog": [
             {
