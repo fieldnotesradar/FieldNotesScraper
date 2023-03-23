@@ -24796,20 +24796,57 @@
                     }
                 },
                 "timestamp": "2023-03-23T16:45:31.235722+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FNxBWC"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "291b408c36d4d4058c2912e6965a03f1"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "27.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "1778655"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "subtitle": {
+                        "new": "",
+                        "old": "12-Pack"
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Blackwing Colors"
+                    }
+                },
+                "timestamp": "2023-03-23T17:24:20.398121+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FNxBWC",
-            "contentHash": "291b408c36d4d4058c2912e6965a03f1",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "blackwing-colors",
-            "price": "27.00",
-            "retailerItemId": "1778655",
-            "status": 200,
-            "subtitle": "12-Pack",
-            "title": "Blackwing Colors",
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
+            "subtitle": "",
+            "title": "",
             "type": "product"
         }
     },
