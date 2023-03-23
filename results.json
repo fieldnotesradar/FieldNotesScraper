@@ -24759,20 +24759,57 @@
                     }
                 },
                 "timestamp": "2023-03-23T16:33:30.238327+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNxBWC",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "291b408c36d4d4058c2912e6965a03f1",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "27.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1778655",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "subtitle": {
+                        "new": "12-Pack",
+                        "old": ""
+                    },
+                    "title": {
+                        "new": "Blackwing Colors",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2023-03-23T16:45:31.235722+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FNxBWC",
+            "contentHash": "291b408c36d4d4058c2912e6965a03f1",
             "details": "",
             "dimensions": null,
             "id": "blackwing-colors",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
-            "subtitle": "",
-            "title": "",
+            "price": "27.00",
+            "retailerItemId": "1778655",
+            "status": 200,
+            "subtitle": "12-Pack",
+            "title": "Blackwing Colors",
             "type": "product"
         }
     },
