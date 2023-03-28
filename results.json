@@ -30870,12 +30870,21 @@
                     }
                 },
                 "timestamp": "2022-11-21T16:59:12.407648+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "1330eb83bdfe17f2c9698e5dec09cb02",
+                        "old": "4c882e983fdec0cfdf5a23a3b06de1ea"
+                    }
+                },
+                "timestamp": "2023-03-28T14:25:44.661730+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-57a",
-            "contentHash": "4c882e983fdec0cfdf5a23a3b06de1ea",
+            "contentHash": "1330eb83bdfe17f2c9698e5dec09cb02",
             "details": "2-Packs",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "kraft-plus",
