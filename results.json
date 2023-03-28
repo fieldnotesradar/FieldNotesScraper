@@ -36261,12 +36261,25 @@
                     }
                 },
                 "timestamp": "2022-05-27T15:50:41.263311+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    },
+                    "contentHash": {
+                        "new": "7f6930f313654a5171c21c6ca0bf6113",
+                        "old": "2f9b21d0b3d959a67bdf83af46235132"
+                    }
+                },
+                "timestamp": "2023-03-28T14:58:04.244788+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-SUB58P",
-            "contentHash": "2f9b21d0b3d959a67bdf83af46235132",
+            "contentHash": "7f6930f313654a5171c21c6ca0bf6113",
             "details": "",
             "dimensions": null,
             "id": "spring-2023",
@@ -36520,6 +36533,77 @@
             "status": 200,
             "subtitle": "Single Steno Pad",
             "title": "Steno",
+            "type": "product"
+        }
+    },
+    "https://fieldnotesbrand.com/products/streetscapes": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNC-58a",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "c2e34be96c2e7ee8e48333636dc14aef",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Sketch Book 2-Packs",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": "48 Pages",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "streetscapes",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "14.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1764315",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "SPRING 2023 QUARTERLY EDITION",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Streetscapes",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-03-28T14:58:04.244752+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNC-58a",
+            "contentHash": "c2e34be96c2e7ee8e48333636dc14aef",
+            "details": "Sketch Book 2-Packs",
+            "dimensions": "48 Pages",
+            "id": "streetscapes",
+            "price": "14.95",
+            "retailerItemId": "1764315",
+            "status": 200,
+            "subtitle": "SPRING 2023 QUARTERLY EDITION",
+            "title": "Streetscapes",
             "type": "product"
         }
     },
