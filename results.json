@@ -13991,6 +13991,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/justin": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Products",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "05e43b9908a67f4bf40b8fedab791fd7",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "March 29, 2023 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "justin",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Emptying the Junk\u00a0Drawer",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-03-29T20:29:20.706702+00:00"
+            }
+        ],
+        "data": {
+            "category": "Products",
+            "contentHash": "05e43b9908a67f4bf40b8fedab791fd7",
+            "date": "March 29, 2023 by Jim",
+            "id": "justin",
+            "status": 200,
+            "title": "Emptying the Junk\u00a0Drawer",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/scheming-attorneys-their-cynical-enablers": {
         "changelog": [
             {
