@@ -40523,6 +40523,15 @@
                     }
                 },
                 "timestamp": "2023-03-01T22:30:02.862439+00:00"
+            },
+            {
+                "changes": {
+                    "title": {
+                        "new": "15-Month Work Station Calendar",
+                        "old": "15-Month Workstation Calendar"
+                    }
+                },
+                "timestamp": "2023-03-29T20:42:06.357769+00:00"
             }
         ],
         "data": {
@@ -40536,7 +40545,7 @@
             "retailerItemId": "2093",
             "status": 200,
             "subtitle": "2023",
-            "title": "15-Month Workstation Calendar",
+            "title": "15-Month Work Station Calendar",
             "type": "product"
         }
     },
