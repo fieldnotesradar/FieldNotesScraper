@@ -37786,12 +37786,21 @@
                     }
                 },
                 "timestamp": "2023-03-28T14:58:04.244752+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "7b1894ac03f1388b1ad8816fdaade81d",
+                        "old": "c2e34be96c2e7ee8e48333636dc14aef"
+                    }
+                },
+                "timestamp": "2023-03-29T17:17:36.775686+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-58a",
-            "contentHash": "c2e34be96c2e7ee8e48333636dc14aef",
+            "contentHash": "7b1894ac03f1388b1ad8816fdaade81d",
             "details": "Sketch Book 2-Packs",
             "dimensions": "48 Pages",
             "id": "streetscapes",
