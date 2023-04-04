@@ -25161,12 +25161,21 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450724+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "3294979fcbc32143abeebedb21f0aabb",
+                        "old": "ece6f8277bc5a5cad441d9185198a0d3"
+                    }
+                },
+                "timestamp": "2023-04-04T20:40:28.032354+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-CJ",
-            "contentHash": "ece6f8277bc5a5cad441d9185198a0d3",
+            "contentHash": "3294979fcbc32143abeebedb21f0aabb",
             "details": "2-PACKS",
             "dimensions": "4\u00be\" \u00d7 7.5\"",
             "id": "5e-gaming-journals",
