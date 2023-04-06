@@ -32565,6 +32565,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/line-color-kit": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNK-06",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "58ef7f342dc266f268505016b79ade81",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Sketch Books, Writing Instruments, Tools",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "line-color-kit",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "89.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1790690",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Start Sketching",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Line & Color Kit",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-04-06T20:14:06.883065+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNK-06",
+            "contentHash": "58ef7f342dc266f268505016b79ade81",
+            "details": "Sketch Books, Writing Instruments, Tools",
+            "dimensions": null,
+            "id": "line-color-kit",
+            "price": "89.95",
+            "retailerItemId": "1790690",
+            "status": 200,
+            "subtitle": "Start Sketching",
+            "title": "Line & Color Kit",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/lunacy": {
         "changelog": [
             {
