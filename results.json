@@ -30078,10 +30078,19 @@
                     }
                 },
                 "timestamp": "2023-03-09T18:52:54.518358+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-04-11T03:22:25.547025+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-37",
             "contentHash": "ecd21e22d62db946f66735d2159517c0",
             "details": "Beautifully Crafted",
