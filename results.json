@@ -13951,6 +13951,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/8-dollar-wednesday": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "e3f5745ef98cf68c3627cf25dcd37197",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "April 13, 2023 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "8-dollar-wednesday",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "8 Dollar\u00a0Deal",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-04-13T12:52:22.465201+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "e3f5745ef98cf68c3627cf25dcd37197",
+            "date": "April 13, 2023 by Jim",
+            "id": "8-dollar-wednesday",
+            "status": 200,
+            "title": "8 Dollar\u00a0Deal",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/free-work-station-calendars-while-they-last": {
         "changelog": [
             {
