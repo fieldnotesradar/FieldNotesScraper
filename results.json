@@ -13997,6 +13997,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/always-read-to-the-end": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": null,
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "223f6d710524e68b57ab29ebba8c8026",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "April 13, 2023 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "always-read-to-the-end",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Always Read to the\u00a0End",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-04-13T17:45:10.338519+00:00"
+            }
+        ],
+        "data": {
+            "category": null,
+            "contentHash": "223f6d710524e68b57ab29ebba8c8026",
+            "date": "April 13, 2023 by Jim",
+            "id": "always-read-to-the-end",
+            "status": 200,
+            "title": "Always Read to the\u00a0End",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/free-work-station-calendars-while-they-last": {
         "changelog": [
             {
