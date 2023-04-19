@@ -32679,20 +32679,61 @@
                     }
                 },
                 "timestamp": "2023-04-19T03:00:23.992051+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "DDC-054-LoF",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "75d665cad0105de858bc483e510e8e06",
+                        "old": "d41d8cd98f00b204e9800998ecf8427e"
+                    },
+                    "details": {
+                        "new": "All Is Revealed",
+                        "old": ""
+                    },
+                    "dimensions": {
+                        "new": "3-Pack",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "14.95",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1468658",
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "DDC Rogue Issue",
+                        "old": ""
+                    },
+                    "title": {
+                        "new": "Leap of Faith",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2023-04-19T03:16:03.320818+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "d41d8cd98f00b204e9800998ecf8427e",
-            "details": "",
-            "dimensions": null,
+            "availability": "in stock",
+            "code": "DDC-054-LoF",
+            "contentHash": "75d665cad0105de858bc483e510e8e06",
+            "details": "All Is Revealed",
+            "dimensions": "3-Pack",
             "id": "leap-of-faith",
-            "price": null,
-            "retailerItemId": null,
+            "price": "14.95",
+            "retailerItemId": "1468658",
             "status": 200,
-            "subtitle": "",
-            "title": "",
+            "subtitle": "DDC Rogue Issue",
+            "title": "Leap of Faith",
             "type": "product"
         }
     },
