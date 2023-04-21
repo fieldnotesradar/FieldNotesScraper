@@ -32201,12 +32201,21 @@
                     }
                 },
                 "timestamp": "2023-04-12T19:46:14.791957+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "84932f5eafbb8ac78a6eda68f5c61003",
+                        "old": "2ee4dc13cc9bbc2df1cd77e0473586b1"
+                    }
+                },
+                "timestamp": "2023-04-21T14:29:06.270299+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
             "code": "FNC-53",
-            "contentHash": "2ee4dc13cc9bbc2df1cd77e0473586b1",
+            "contentHash": "84932f5eafbb8ac78a6eda68f5c61003",
             "details": "Two Planners, One Checklist",
             "dimensions": "Waterproof Outside",
             "id": "ignition",
