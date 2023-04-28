@@ -32367,10 +32367,19 @@
                     }
                 },
                 "timestamp": "2023-04-28T15:11:30.143989+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-04-28T15:22:48.211233+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNC-53",
             "contentHash": "84932f5eafbb8ac78a6eda68f5c61003",
             "details": "Two Planners, One Checklist",
