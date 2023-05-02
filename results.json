@@ -31800,19 +31800,52 @@
                     }
                 },
                 "timestamp": "2022-03-18T14:49:06.604115+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    },
+                    "code": {
+                        "new": "FNC-52m",
+                        "old": "FNC-52b"
+                    },
+                    "details": {
+                        "new": "Bundle",
+                        "old": "Perforated Ruled Dot Ledger\u2122"
+                    },
+                    "dimensions": {
+                        "new": "Harvest Pack A, Harvest Pack B, 6-Pack Pencils",
+                        "old": "3\u00bd\" \u00d7 5\u00bd\""
+                    },
+                    "price": {
+                        "new": "38.00",
+                        "old": "12.95"
+                    },
+                    "retailerItemId": {
+                        "new": "1814104",
+                        "old": "1397439"
+                    },
+                    "subtitle": {
+                        "new": "Mom's",
+                        "old": "FALL 2021 QUARTERLY EDITION"
+                    }
+                },
+                "timestamp": "2023-05-02T15:04:40.889941+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
-            "code": "FNC-52b",
+            "availability": "in stock",
+            "code": "FNC-52m",
             "contentHash": "99884c20b26153af00687a416177e284",
-            "details": "Perforated Ruled Dot Ledger\u2122",
-            "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
+            "details": "Bundle",
+            "dimensions": "Harvest Pack A, Harvest Pack B, 6-Pack Pencils",
             "id": "harvest",
-            "price": "12.95",
-            "retailerItemId": "1397439",
+            "price": "38.00",
+            "retailerItemId": "1814104",
             "status": 200,
-            "subtitle": "FALL 2021 QUARTERLY EDITION",
+            "subtitle": "Mom's",
             "title": "Harvest",
             "type": "product"
         }
