@@ -31833,12 +31833,21 @@
                     }
                 },
                 "timestamp": "2023-05-02T15:04:40.889941+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "e9456fa85e6e8fecea16b07e7402564c",
+                        "old": "99884c20b26153af00687a416177e284"
+                    }
+                },
+                "timestamp": "2023-05-02T15:21:45.095870+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-52m",
-            "contentHash": "99884c20b26153af00687a416177e284",
+            "contentHash": "e9456fa85e6e8fecea16b07e7402564c",
             "details": "Bundle",
             "dimensions": "Harvest Pack A, Harvest Pack B, 6-Pack Pencils",
             "id": "harvest",
