@@ -31954,12 +31954,21 @@
                     }
                 },
                 "timestamp": "2023-05-03T20:23:13.204528+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "a849f5428bef6254c8eb393e05d6189f",
+                        "old": "fa992805b0d8d87806e02e25de27fca3"
+                    }
+                },
+                "timestamp": "2023-05-03T20:35:36.924918+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
             "code": "FNC-52a",
-            "contentHash": "fa992805b0d8d87806e02e25de27fca3",
+            "contentHash": "a849f5428bef6254c8eb393e05d6189f",
             "details": "Six Illustrated Covers",
             "dimensions": "Perforated",
             "id": "harvest",
