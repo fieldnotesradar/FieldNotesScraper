@@ -31875,19 +31875,52 @@
                     }
                 },
                 "timestamp": "2023-05-02T15:21:45.095870+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": "FNC-52a",
+                        "old": "FNC-52m"
+                    },
+                    "contentHash": {
+                        "new": "fa992805b0d8d87806e02e25de27fca3",
+                        "old": "e9456fa85e6e8fecea16b07e7402564c"
+                    },
+                    "details": {
+                        "new": "Six Illustrated Covers",
+                        "old": "Bundle"
+                    },
+                    "dimensions": {
+                        "new": "Perforated",
+                        "old": "Harvest Pack A, Harvest Pack B, 6-Pack Pencils"
+                    },
+                    "price": {
+                        "new": "14.95",
+                        "old": "38.00"
+                    },
+                    "subtitle": {
+                        "new": "FALL 2021 EDITION",
+                        "old": "Mom's"
+                    }
+                },
+                "timestamp": "2023-05-03T20:23:13.204528+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FNC-52m",
-            "contentHash": "e9456fa85e6e8fecea16b07e7402564c",
-            "details": "Bundle",
-            "dimensions": "Harvest Pack A, Harvest Pack B, 6-Pack Pencils",
+            "availability": "out of stock",
+            "code": "FNC-52a",
+            "contentHash": "fa992805b0d8d87806e02e25de27fca3",
+            "details": "Six Illustrated Covers",
+            "dimensions": "Perforated",
             "id": "harvest",
-            "price": "38.00",
+            "price": "14.95",
             "retailerItemId": "1814104",
             "status": 200,
-            "subtitle": "Mom's",
+            "subtitle": "FALL 2021 EDITION",
             "title": "Harvest",
             "type": "product"
         }
@@ -33686,12 +33719,21 @@
                     }
                 },
                 "timestamp": "2023-05-03T19:59:41.278059+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "22d14b38e498b4f67220955c6664af49",
+                        "old": "23c1279c0fe232c102f02774984ba3e8"
+                    }
+                },
+                "timestamp": "2023-05-03T20:23:13.204490+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNC-54m",
-            "contentHash": "23c1279c0fe232c102f02774984ba3e8",
+            "contentHash": "22d14b38e498b4f67220955c6664af49",
             "details": "",
             "dimensions": null,
             "id": "moms-spring-set",
