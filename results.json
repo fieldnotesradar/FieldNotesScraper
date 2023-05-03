@@ -14040,12 +14040,21 @@
                     }
                 },
                 "timestamp": "2023-05-03T20:29:07.803185+00:00"
+            },
+            {
+                "changes": {
+                    "date": {
+                        "new": "May 3, 2023 by HQ",
+                        "old": "May 2, 2023 by HQ"
+                    }
+                },
+                "timestamp": "2023-05-03T20:54:15.091084+00:00"
             }
         ],
         "data": {
             "category": "Special Offers",
             "contentHash": "c36af19bd69c936fde901876393be292",
-            "date": "May 2, 2023 by HQ",
+            "date": "May 3, 2023 by HQ",
             "id": "all-kinds-of-moms",
             "status": 200,
             "title": "All Kinds of\u00a0Moms",
