@@ -14006,6 +14006,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/all-kinds-of-moms": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "c36af19bd69c936fde901876393be292",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "May 2, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "all-kinds-of-moms",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "All Kinds of\u00a0Moms",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-05-03T20:29:07.803185+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "c36af19bd69c936fde901876393be292",
+            "date": "May 2, 2023 by HQ",
+            "id": "all-kinds-of-moms",
+            "status": 200,
+            "title": "All Kinds of\u00a0Moms",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/always-read-to-the-end": {
         "changelog": [
             {
