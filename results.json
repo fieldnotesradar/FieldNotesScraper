@@ -14049,11 +14049,20 @@
                     }
                 },
                 "timestamp": "2023-05-03T20:54:15.091084+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "e88a2ca8c91dc06a7094dc2887882e30",
+                        "old": "c36af19bd69c936fde901876393be292"
+                    }
+                },
+                "timestamp": "2023-05-05T14:46:35.656914+00:00"
             }
         ],
         "data": {
             "category": "Special Offers",
-            "contentHash": "c36af19bd69c936fde901876393be292",
+            "contentHash": "e88a2ca8c91dc06a7094dc2887882e30",
             "date": "May 3, 2023 by HQ",
             "id": "all-kinds-of-moms",
             "status": 200,
