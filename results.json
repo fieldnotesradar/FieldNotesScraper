@@ -14058,11 +14058,20 @@
                     }
                 },
                 "timestamp": "2023-05-05T14:46:35.656914+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "f7096ea377c173e2308bd9e8ffd7eeef",
+                        "old": "e88a2ca8c91dc06a7094dc2887882e30"
+                    }
+                },
+                "timestamp": "2023-05-08T15:54:55.903075+00:00"
             }
         ],
         "data": {
             "category": "Special Offers",
-            "contentHash": "e88a2ca8c91dc06a7094dc2887882e30",
+            "contentHash": "f7096ea377c173e2308bd9e8ffd7eeef",
             "date": "May 3, 2023 by HQ",
             "id": "all-kinds-of-moms",
             "status": 200,
@@ -14113,6 +14122,52 @@
             "id": "always-read-to-the-end",
             "status": 200,
             "title": "Always Read to the\u00a0End",
+            "type": "dispatch"
+        }
+    },
+    "https://fieldnotesbrand.com/dispatches/2023/ambition-and-observation": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Public Service Announcement",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "333ed0c5c87c54b23cc7805ecfe6d139",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "May 8, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "ambition-and-observation",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Ambition and\u00a0Observation",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-05-08T15:54:55.903124+00:00"
+            }
+        ],
+        "data": {
+            "category": "Public Service Announcement",
+            "contentHash": "333ed0c5c87c54b23cc7805ecfe6d139",
+            "date": "May 8, 2023 by HQ",
+            "id": "ambition-and-observation",
+            "status": 200,
+            "title": "Ambition and\u00a0Observation",
             "type": "dispatch"
         }
     },
