@@ -27920,10 +27920,19 @@
                     }
                 },
                 "timestamp": "2022-11-15T19:27:21.002467+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-05-09T14:19:47.383883+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-22",
             "contentHash": "fc7724d1e19f366632b8434b17ec1d8b",
             "details": "5.5 oz. Cowhide",
