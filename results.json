@@ -10427,11 +10427,20 @@
                     }
                 },
                 "timestamp": "2023-05-13T03:22:16.626867+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "8f69034ab521e06f8785ecee87e86bb8",
+                        "old": "b805e8a8fbfddf674d4b29219f7eff89"
+                    }
+                },
+                "timestamp": "2023-05-14T03:21:40.305550+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "b805e8a8fbfddf674d4b29219f7eff89",
+            "contentHash": "8f69034ab521e06f8785ecee87e86bb8",
             "date": "April 1, 2020 by HQ",
             "id": "hello-dawson",
             "status": 200,
@@ -11132,11 +11141,20 @@
                     }
                 },
                 "timestamp": "2023-03-04T03:26:02.307211+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "e64ff1bbdb32fb2453871b209cc0e587",
+                        "old": "dc5ee24b9aeb0ef2392048b1d9fa377f"
+                    }
+                },
+                "timestamp": "2023-05-14T03:21:40.305514+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "dc5ee24b9aeb0ef2392048b1d9fa377f",
+            "contentHash": "e64ff1bbdb32fb2453871b209cc0e587",
             "date": "April 3, 2020 by HQ",
             "id": "hello-noah",
             "status": 200,
@@ -28309,10 +28327,19 @@
                     }
                 },
                 "timestamp": "2022-11-15T19:27:21.002432+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-05-14T03:21:40.304469+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNK-03",
             "contentHash": "7fa7ce5977bace4c0b87c8cffb1391aa",
             "details": "1 Planner, 4 Packs, 1 Cover",
