@@ -28345,10 +28345,19 @@
                     }
                 },
                 "timestamp": "2023-05-14T03:21:40.304469+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2023-05-15T14:28:35.000217+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FNK-03",
             "contentHash": "7fa7ce5977bace4c0b87c8cffb1391aa",
             "details": "1 Planner, 4 Packs, 1 Cover",
