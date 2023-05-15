@@ -33979,10 +33979,19 @@
                     }
                 },
                 "timestamp": "2023-05-03T20:23:13.204490+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-05-15T14:06:30.557678+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FNC-54m",
             "contentHash": "22d14b38e498b4f67220955c6664af49",
             "details": "",
