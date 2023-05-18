@@ -31120,6 +31120,77 @@
             "type": "product"
         }
     },
+    "https://fieldnotesbrand.com/products/fathers-day-permit-pack": {
+        "changelog": [
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNK-07",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "9f1d1e2e5c37f505f920720c1f8c1e6c",
+                        "old": null
+                    },
+                    "details": {
+                        "new": "Memo Books, Leather Carry, Etc.",
+                        "old": null
+                    },
+                    "dimensions": {
+                        "new": null,
+                        "old": null
+                    },
+                    "id": {
+                        "new": "fathers-day-permit-pack",
+                        "old": null
+                    },
+                    "price": {
+                        "new": "115.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "1820299",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "subtitle": {
+                        "new": "Dad Deserves A",
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Father\u2019s Day Permit Pack",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "product",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-05-18T15:35:50.117647+00:00"
+            }
+        ],
+        "data": {
+            "availability": "in stock",
+            "code": "FNK-07",
+            "contentHash": "9f1d1e2e5c37f505f920720c1f8c1e6c",
+            "details": "Memo Books, Leather Carry, Etc.",
+            "dimensions": null,
+            "id": "fathers-day-permit-pack",
+            "price": "115.00",
+            "retailerItemId": "1820299",
+            "status": 200,
+            "subtitle": "Dad Deserves A",
+            "title": "Father\u2019s Day Permit Pack",
+            "type": "product"
+        }
+    },
     "https://fieldnotesbrand.com/products/fifty": {
         "changelog": [
             {
