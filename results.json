@@ -14243,6 +14243,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/day-of-the-dads": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "616efcc7fdcb3a70d887cfe563a54d79",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "May 18, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "day-of-the-dads",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Day of the\u00a0Dads",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-05-20T03:22:09.406270+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "616efcc7fdcb3a70d887cfe563a54d79",
+            "date": "May 18, 2023 by HQ",
+            "id": "day-of-the-dads",
+            "status": 200,
+            "title": "Day of the\u00a0Dads",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/free-work-station-calendars-while-they-last": {
         "changelog": [
             {
@@ -25480,12 +25526,21 @@
                     }
                 },
                 "timestamp": "2023-05-19T03:21:34.327411+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "3294979fcbc32143abeebedb21f0aabb",
+                        "old": "819fcdacc2fe0901c255a5e430a32d10"
+                    }
+                },
+                "timestamp": "2023-05-20T03:22:09.405395+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-CJ",
-            "contentHash": "819fcdacc2fe0901c255a5e430a32d10",
+            "contentHash": "3294979fcbc32143abeebedb21f0aabb",
             "details": "2-PACKS",
             "dimensions": "4\u00be\" \u00d7 7.5\"",
             "id": "5e-gaming-journals",
