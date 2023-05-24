@@ -14438,6 +14438,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/lunacy_winners": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Public Service Announcement",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "b331304bdd265f96254fd3c07b4b2481",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "May 22, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "lunacy_winners",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "When the Moon Hits the\u00a0Sky",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-05-24T03:23:42.425300+00:00"
+            }
+        ],
+        "data": {
+            "category": "Public Service Announcement",
+            "contentHash": "b331304bdd265f96254fd3c07b4b2481",
+            "date": "May 22, 2023 by HQ",
+            "id": "lunacy_winners",
+            "status": 200,
+            "title": "When the Moon Hits the\u00a0Sky",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/scheming-attorneys-their-cynical-enablers": {
         "changelog": [
             {
