@@ -14313,15 +14313,40 @@
                     }
                 },
                 "timestamp": "2023-05-20T03:22:09.406270+00:00"
+            },
+            {
+                "changes": {
+                    "category": {
+                        "new": null,
+                        "old": "Special Offers"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "616efcc7fdcb3a70d887cfe563a54d79"
+                    },
+                    "date": {
+                        "new": null,
+                        "old": "May 18, 2023 by HQ"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": null,
+                        "old": "Day of the\u00a0Dads"
+                    }
+                },
+                "timestamp": "2023-06-06T14:23:04.699263+00:00"
             }
         ],
         "data": {
-            "category": "Special Offers",
-            "contentHash": "616efcc7fdcb3a70d887cfe563a54d79",
-            "date": "May 18, 2023 by HQ",
+            "category": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "date": null,
             "id": "day-of-the-dads",
-            "status": 200,
-            "title": "Day of the\u00a0Dads",
+            "status": 404,
+            "title": null,
             "type": "dispatch"
         }
     },
