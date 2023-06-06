@@ -14481,6 +14481,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/last-minute-dads": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "4a3efd45513a9aad5007885ff8b22554",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "June 6, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "last-minute-dads",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Last Minute\u00a0Dad",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-06-06T15:14:02.008972+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "4a3efd45513a9aad5007885ff8b22554",
+            "date": "June 6, 2023 by HQ",
+            "id": "last-minute-dads",
+            "status": 200,
+            "title": "Last Minute\u00a0Dad",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/lunacy_winners": {
         "changelog": [
             {
