@@ -14515,11 +14515,20 @@
                     }
                 },
                 "timestamp": "2023-06-06T15:14:02.008972+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "b5fe6f414234150bcccde7cecd7ca14d",
+                        "old": "4a3efd45513a9aad5007885ff8b22554"
+                    }
+                },
+                "timestamp": "2023-06-07T15:15:28.540481+00:00"
             }
         ],
         "data": {
             "category": "Special Offers",
-            "contentHash": "4a3efd45513a9aad5007885ff8b22554",
+            "contentHash": "b5fe6f414234150bcccde7cecd7ca14d",
             "date": "June 6, 2023 by HQ",
             "id": "last-minute-dads",
             "status": 200,
