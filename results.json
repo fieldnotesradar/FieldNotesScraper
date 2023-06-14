@@ -29154,20 +29154,53 @@
                     }
                 },
                 "timestamp": "2023-06-13T03:22:39.342974+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POP"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "45e2278e62a2d8a593a09d8b2f59e2a7"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "0.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "16367"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Display"
+                    }
+                },
+                "timestamp": "2023-06-14T03:22:32.218790+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POP",
-            "contentHash": "45e2278e62a2d8a593a09d8b2f59e2a7",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "display",
-            "price": "0.00",
-            "retailerItemId": "16367",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Display",
+            "title": "",
             "type": "product"
         }
     },
@@ -30858,20 +30891,61 @@
                     }
                 },
                 "timestamp": "2023-04-27T03:24:11.222848+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FNWESSENTIALS",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "65b29e1141bf439f233a042ecc64aff3",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "details": {
+                        "new": "Box o\u2019 Best Sellers",
+                        "old": ""
+                    },
+                    "price": {
+                        "new": "360.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "860535",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "subtitle": {
+                        "new": "Save $35",
+                        "old": ""
+                    },
+                    "title": {
+                        "new": "Essentials",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2023-06-14T03:22:32.218854+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
-            "details": "",
+            "availability": "in stock",
+            "code": "FNWESSENTIALS",
+            "contentHash": "65b29e1141bf439f233a042ecc64aff3",
+            "details": "Box o\u2019 Best Sellers",
             "dimensions": null,
             "id": "essentials",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
-            "subtitle": "",
-            "title": "",
+            "price": "360.00",
+            "retailerItemId": "860535",
+            "status": 200,
+            "subtitle": "Save $35",
+            "title": "Essentials",
             "type": "product"
         }
     },
@@ -36660,20 +36734,53 @@
                     }
                 },
                 "timestamp": "2023-03-03T04:35:24.137740+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": null
+                    },
+                    "code": {
+                        "new": "FN-POPKIT",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "4e8988463b8ce6cbd9244959d4f6cc64",
+                        "old": "bec5d42607f2259cc6e5958aa4bc91ab"
+                    },
+                    "price": {
+                        "new": "320.00",
+                        "old": null
+                    },
+                    "retailerItemId": {
+                        "new": "6196",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": 404
+                    },
+                    "title": {
+                        "new": "Point-of-Purchase Kit",
+                        "old": ""
+                    }
+                },
+                "timestamp": "2023-06-14T03:22:32.218717+00:00"
             }
         ],
         "data": {
-            "availability": null,
-            "code": null,
-            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
+            "availability": "in stock",
+            "code": "FN-POPKIT",
+            "contentHash": "4e8988463b8ce6cbd9244959d4f6cc64",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": null,
-            "retailerItemId": null,
-            "status": 404,
+            "price": "320.00",
+            "retailerItemId": "6196",
+            "status": 200,
             "subtitle": "",
-            "title": "",
+            "title": "Point-of-Purchase Kit",
             "type": "product"
         }
     },
