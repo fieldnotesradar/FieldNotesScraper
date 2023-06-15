@@ -32369,12 +32369,21 @@
                     }
                 },
                 "timestamp": "2022-09-24T18:52:03.257694+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "6d0d799c39182892e0f9410cb23a020c",
+                        "old": "02d9845ca6c3984f9cd0ad4fe1763f7a"
+                    }
+                },
+                "timestamp": "2023-06-15T18:40:45.712569+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNPC-55",
-            "contentHash": "02d9845ca6c3984f9cd0ad4fe1763f7a",
+            "contentHash": "6d0d799c39182892e0f9410cb23a020c",
             "details": "",
             "dimensions": "Linen Finish",
             "id": "great-lakes-postcard-set",
