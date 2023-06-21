@@ -31598,12 +31598,21 @@
                     }
                 },
                 "timestamp": "2023-05-18T15:35:50.117647+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "d2f58545895b6430c12640f7cd38e768",
+                        "old": "9f1d1e2e5c37f505f920720c1f8c1e6c"
+                    }
+                },
+                "timestamp": "2023-06-21T19:08:11.863464+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FNK-07",
-            "contentHash": "9f1d1e2e5c37f505f920720c1f8c1e6c",
+            "contentHash": "d2f58545895b6430c12640f7cd38e768",
             "details": "Memo Books, Leather Carry, Etc.",
             "dimensions": null,
             "id": "fathers-day-permit-pack",
