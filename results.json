@@ -31607,6 +31607,15 @@
                     }
                 },
                 "timestamp": "2023-06-21T19:08:11.863464+00:00"
+            },
+            {
+                "changes": {
+                    "title": {
+                        "new": "Dad's Permit Pack",
+                        "old": "Father\u2019s Day Permit Pack"
+                    }
+                },
+                "timestamp": "2023-06-21T19:15:44.021078+00:00"
             }
         ],
         "data": {
@@ -31620,7 +31629,7 @@
             "retailerItemId": "1820299",
             "status": 200,
             "subtitle": "Dad Deserves A",
-            "title": "Father\u2019s Day Permit Pack",
+            "title": "Dad's Permit Pack",
             "type": "product"
         }
     },
