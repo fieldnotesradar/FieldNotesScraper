@@ -14616,12 +14616,21 @@
                     }
                 },
                 "timestamp": "2023-02-15T21:59:53.406878+00:00"
+            },
+            {
+                "changes": {
+                    "date": {
+                        "new": "April 15, 2023 by Jim",
+                        "old": "February 15, 2023 by Jim"
+                    }
+                },
+                "timestamp": "2023-06-27T16:49:56.930124+00:00"
             }
         ],
         "data": {
             "category": "Field Notes in Action",
             "contentHash": "19e14781870c8b74780f02b8f54e6e87",
-            "date": "February 15, 2023 by Jim",
+            "date": "April 15, 2023 by Jim",
             "id": "scheming-attorneys-their-cynical-enablers",
             "status": 200,
             "title": "Scheming Attorneys & Their Cynical\u00a0Enablers",
@@ -14708,12 +14717,21 @@
                     }
                 },
                 "timestamp": "2023-02-24T03:29:26.051626+00:00"
+            },
+            {
+                "changes": {
+                    "date": {
+                        "new": "April 19, 2023 by Jim",
+                        "old": "February 22, 2023 by Jim"
+                    }
+                },
+                "timestamp": "2023-06-27T16:49:56.930156+00:00"
             }
         ],
         "data": {
             "category": "Field Notes in Action",
             "contentHash": "c98fbeaca5b413322392925002604a0b",
-            "date": "February 22, 2023 by Jim",
+            "date": "April 19, 2023 by Jim",
             "id": "unplug-me",
             "status": 200,
             "title": "Unplug\u00a0Me",
