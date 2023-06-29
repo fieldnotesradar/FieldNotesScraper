@@ -10775,11 +10775,20 @@
                     }
                 },
                 "timestamp": "2023-03-03T04:35:24.138849+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "30cd8240b19210721bd056fb59248df3",
+                        "old": "40e1de8cf3ea7288846a76fbbd5b816b"
+                    }
+                },
+                "timestamp": "2023-06-29T03:31:12.367088+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "40e1de8cf3ea7288846a76fbbd5b816b",
+            "contentHash": "30cd8240b19210721bd056fb59248df3",
             "date": "April 2, 2020 by HQ",
             "id": "hello-joe",
             "status": 200,
@@ -11722,11 +11731,20 @@
                     }
                 },
                 "timestamp": "2023-06-28T03:33:40.648698+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "587f2ba3497b9ae789faccacf2d6c247",
+                        "old": "9fcd5744463a7123615d5414647ad5ad"
+                    }
+                },
+                "timestamp": "2023-06-29T03:31:12.367146+00:00"
             }
         ],
         "data": {
             "category": "Duly Noted",
-            "contentHash": "9fcd5744463a7123615d5414647ad5ad",
+            "contentHash": "587f2ba3497b9ae789faccacf2d6c247",
             "date": "October 20, 2020 by Jim",
             "id": "miles-of-adventures",
             "status": 200,
@@ -25724,10 +25742,19 @@
                     }
                 },
                 "timestamp": "2023-05-20T03:22:09.405395+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "out of stock",
+                        "old": "in stock"
+                    }
+                },
+                "timestamp": "2023-06-29T03:31:12.365689+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
+            "availability": "out of stock",
             "code": "FN-CJ",
             "contentHash": "3294979fcbc32143abeebedb21f0aabb",
             "details": "2-PACKS",
