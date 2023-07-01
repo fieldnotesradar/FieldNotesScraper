@@ -10243,11 +10243,20 @@
                     }
                 },
                 "timestamp": "2023-06-01T03:34:55.626186+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "4d0b01d9324ff39762dc27477bc78b37",
+                        "old": "82857d30945c44e38c994e8ded05977c"
+                    }
+                },
+                "timestamp": "2023-07-01T03:35:52.607807+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "82857d30945c44e38c994e8ded05977c",
+            "contentHash": "4d0b01d9324ff39762dc27477bc78b37",
             "date": "March 19, 2020 by HQ",
             "id": "hello-aaron",
             "status": 200,
@@ -14615,6 +14624,52 @@
             "id": "lunacy_winners",
             "status": 200,
             "title": "When the Moon Hits the\u00a0Sky",
+            "type": "dispatch"
+        }
+    },
+    "https://fieldnotesbrand.com/dispatches/2023/on-the-road-again": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Public Service Announcement",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "91851e6c6b341fb2a8a6f8c88e4bc94d",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "June 29, 2023 by Jim",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "on-the-road-again",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "On the Road\u00a0Again",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-07-01T03:35:52.608003+00:00"
+            }
+        ],
+        "data": {
+            "category": "Public Service Announcement",
+            "contentHash": "91851e6c6b341fb2a8a6f8c88e4bc94d",
+            "date": "June 29, 2023 by Jim",
+            "id": "on-the-road-again",
+            "status": 200,
+            "title": "On the Road\u00a0Again",
             "type": "dispatch"
         }
     },
@@ -37158,20 +37213,53 @@
                     }
                 },
                 "timestamp": "2023-06-30T03:27:42.415970+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POPKIT"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "4e8988463b8ce6cbd9244959d4f6cc64"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "320.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "6196"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Point-of-Purchase Kit"
+                    }
+                },
+                "timestamp": "2023-07-01T03:35:52.607201+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POPKIT",
-            "contentHash": "4e8988463b8ce6cbd9244959d4f6cc64",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": "320.00",
-            "retailerItemId": "6196",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Point-of-Purchase Kit",
+            "title": "",
             "type": "product"
         }
     },
