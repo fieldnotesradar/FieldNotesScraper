@@ -27906,13 +27906,26 @@
                     }
                 },
                 "timestamp": "2022-03-05T03:09:02.450200+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "ab4d967d2db440cb68a3d9b01e3c49e4",
+                        "old": "8e491b2368ee261a715ed0b7ca099716"
+                    },
+                    "details": {
+                        "new": "Black Ink",
+                        "old": "Black or Red"
+                    }
+                },
+                "timestamp": "2023-07-05T15:54:35.482958+00:00"
             }
         ],
         "data": {
             "availability": "in stock",
             "code": "FN-06B",
-            "contentHash": "8e491b2368ee261a715ed0b7ca099716",
-            "details": "Black or Red",
+            "contentHash": "ab4d967d2db440cb68a3d9b01e3c49e4",
+            "details": "Black Ink",
             "dimensions": null,
             "id": "clic-pen-6-packs",
             "price": "9.95",
