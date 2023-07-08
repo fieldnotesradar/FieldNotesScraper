@@ -10288,11 +10288,20 @@
                     }
                 },
                 "timestamp": "2023-07-07T03:33:32.394454+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "82857d30945c44e38c994e8ded05977c",
+                        "old": "4d0b01d9324ff39762dc27477bc78b37"
+                    }
+                },
+                "timestamp": "2023-07-08T03:34:36.799909+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "4d0b01d9324ff39762dc27477bc78b37",
+            "contentHash": "82857d30945c44e38c994e8ded05977c",
             "date": "March 19, 2020 by HQ",
             "id": "hello-aaron",
             "status": 200,
@@ -10838,11 +10847,20 @@
                     }
                 },
                 "timestamp": "2023-06-30T03:27:42.417269+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "1dd4468597d3f188d986e9d2d3b7bf8f",
+                        "old": "40e1de8cf3ea7288846a76fbbd5b816b"
+                    }
+                },
+                "timestamp": "2023-07-08T03:34:36.799933+00:00"
             }
         ],
         "data": {
             "category": "Public Service Announcement",
-            "contentHash": "40e1de8cf3ea7288846a76fbbd5b816b",
+            "contentHash": "1dd4468597d3f188d986e9d2d3b7bf8f",
             "date": "April 2, 2020 by HQ",
             "id": "hello-joe",
             "status": 200,
@@ -37328,20 +37346,53 @@
                     }
                 },
                 "timestamp": "2023-07-07T03:33:32.393441+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": null,
+                        "old": "in stock"
+                    },
+                    "code": {
+                        "new": null,
+                        "old": "FN-POPKIT"
+                    },
+                    "contentHash": {
+                        "new": "bec5d42607f2259cc6e5958aa4bc91ab",
+                        "old": "4e8988463b8ce6cbd9244959d4f6cc64"
+                    },
+                    "price": {
+                        "new": null,
+                        "old": "320.00"
+                    },
+                    "retailerItemId": {
+                        "new": null,
+                        "old": "6196"
+                    },
+                    "status": {
+                        "new": 404,
+                        "old": 200
+                    },
+                    "title": {
+                        "new": "",
+                        "old": "Point-of-Purchase Kit"
+                    }
+                },
+                "timestamp": "2023-07-08T03:34:36.799233+00:00"
             }
         ],
         "data": {
-            "availability": "in stock",
-            "code": "FN-POPKIT",
-            "contentHash": "4e8988463b8ce6cbd9244959d4f6cc64",
+            "availability": null,
+            "code": null,
+            "contentHash": "bec5d42607f2259cc6e5958aa4bc91ab",
             "details": "",
             "dimensions": null,
             "id": "point-of-purchase-kit",
-            "price": "320.00",
-            "retailerItemId": "6196",
-            "status": 200,
+            "price": null,
+            "retailerItemId": null,
+            "status": 404,
             "subtitle": "",
-            "title": "Point-of-Purchase Kit",
+            "title": "",
             "type": "product"
         }
     },
