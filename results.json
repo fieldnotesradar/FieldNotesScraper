@@ -28351,17 +28351,34 @@
                     }
                 },
                 "timestamp": "2022-05-18T07:33:14.619713+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    },
+                    "code": {
+                        "new": "FNC-07CO",
+                        "old": "FNC-07AL"
+                    },
+                    "retailerItemId": {
+                        "new": "1232644",
+                        "old": "1232639"
+                    }
+                },
+                "timestamp": "2023-07-10T15:40:00.177530+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
-            "code": "FNC-07AL",
+            "availability": "in stock",
+            "code": "FNC-07CO",
             "contentHash": "eee1037e9f8f93ce38fa0e1253eb7e73",
             "details": "THREE 48-PAGE MEMO BOOKS",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "county-fair",
             "price": "14.95",
-            "retailerItemId": "1232639",
+            "retailerItemId": "1232644",
             "status": 200,
             "subtitle": "SUMMER 2010 LIMITED EDITION",
             "title": "County Fair",
