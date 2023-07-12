@@ -25924,10 +25924,19 @@
                     }
                 },
                 "timestamp": "2023-06-29T03:31:12.365689+00:00"
+            },
+            {
+                "changes": {
+                    "availability": {
+                        "new": "in stock",
+                        "old": "out of stock"
+                    }
+                },
+                "timestamp": "2023-07-12T20:55:00.857637+00:00"
             }
         ],
         "data": {
-            "availability": "out of stock",
+            "availability": "in stock",
             "code": "FN-CJ",
             "contentHash": "3294979fcbc32143abeebedb21f0aabb",
             "details": "2-PACKS",
