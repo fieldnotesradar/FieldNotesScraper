@@ -38675,12 +38675,21 @@
                     }
                 },
                 "timestamp": "2023-07-28T03:21:01.192803+00:00"
+            },
+            {
+                "changes": {
+                    "contentHash": {
+                        "new": "9cdddfe2aba82438f05df062b57954c9",
+                        "old": "74ae964cc92c62c061d5c43f0a3595e8"
+                    }
+                },
+                "timestamp": "2023-07-31T03:21:29.045680+00:00"
             }
         ],
         "data": {
             "availability": "out of stock",
             "code": "FNR-2020",
-            "contentHash": "74ae964cc92c62c061d5c43f0a3595e8",
+            "contentHash": "9cdddfe2aba82438f05df062b57954c9",
             "details": "Graph Paper",
             "dimensions": "3\u00bd\" \u00d7 5\u00bd\"",
             "id": "rooster-book-2020",
