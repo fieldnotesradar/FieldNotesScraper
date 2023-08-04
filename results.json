@@ -15108,6 +15108,52 @@
             "type": "dispatch"
         }
     },
+    "https://fieldnotesbrand.com/dispatches/2023/today-is-wednesday": {
+        "changelog": [
+            {
+                "changes": {
+                    "category": {
+                        "new": "Special Offers",
+                        "old": null
+                    },
+                    "contentHash": {
+                        "new": "874b361a2fee5ff75cf295d6c18cd946",
+                        "old": null
+                    },
+                    "date": {
+                        "new": "August 2, 2023 by HQ",
+                        "old": null
+                    },
+                    "id": {
+                        "new": "today-is-wednesday",
+                        "old": null
+                    },
+                    "status": {
+                        "new": 200,
+                        "old": null
+                    },
+                    "title": {
+                        "new": "Today is\u00a0Wednesday",
+                        "old": null
+                    },
+                    "type": {
+                        "new": "dispatch",
+                        "old": null
+                    }
+                },
+                "timestamp": "2023-08-04T03:20:47.239291+00:00"
+            }
+        ],
+        "data": {
+            "category": "Special Offers",
+            "contentHash": "874b361a2fee5ff75cf295d6c18cd946",
+            "date": "August 2, 2023 by HQ",
+            "id": "today-is-wednesday",
+            "status": 200,
+            "title": "Today is\u00a0Wednesday",
+            "type": "dispatch"
+        }
+    },
     "https://fieldnotesbrand.com/dispatches/2023/unplug-me": {
         "changelog": [
             {
